@@ -1,0 +1,34 @@
+<channels>
+<channel>
+<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]PICA-PAU[/B][/COLOR]</name>
+<thumbnail>https://brasil.estadao.com.br/blogs/radar-pop/wp-content/uploads/sites/77/2011/11/pica-pau.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/gf11bhhp</externallink>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<info>
+O PÁSSARO MAIS MALUCO DO PEDAÇO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR red] [B]SCOOBY DOO[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/d4/2d/d1/d42dd1438010d3f911019301cd640b18.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartscoobdoo</fanart>
+<info>
+OS FANTASMAS QUE SE CUIDEM</info>
+</channel>
+</channels>
