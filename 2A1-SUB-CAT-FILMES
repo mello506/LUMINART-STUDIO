@@ -1,0 +1,67 @@
+<channels>
+<channel>
+<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]GUERRA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+BATALHAS E COMBATES É AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]AVENTURA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartsubcat-aventura</fanart>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]WESTERN[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
+<info>
+TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]ÉPICOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<info>
+A MELHOR VISÃO DA HISTÓRIA </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
+<info>
+DIVERSÃO GARANTIDA</info>
+</channel>
+</channels>
