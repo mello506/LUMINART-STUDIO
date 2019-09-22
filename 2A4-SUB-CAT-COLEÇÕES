@@ -1,0 +1,170 @@
+<channels>
+<channel>
+<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+
+<channels></channels>
+<channel>
+<name> [COLOR lime] [B]RAMBO[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/84/3a/0a/843a0ac4d996a92c310578e2e69b0b30.jpg</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<info>
+   COLEÇÃO RAMBO COMPLETA</info>
+<genre>  AÇÃO</genre>
+
+<item>
+<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<link>https://</link>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</item>
+
+<item>
+<title> [COLOR lime] [B]Rambo - Programado Para Matar-(1982)-DUBLADO[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/v0sPtM5lGkLwtfDlWpn07nqJPyf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg</fanart>
+<info>
+Ao voltar do Vietnã John Rambo sofre com o preconceito de uma cidade e seu xerife, muita ação e tiros ensinam que não se mexe com um veterano.</info>
+<genre>  AÇÃO</genre>
+</item>
+
+ <item>
+<title> [COLOR lime] [B]Rambo 2 - A Missão[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/l6zUaYqaQ5TFokesv3BPzBvSN0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/77cdZUwcyMNGJW4s2fCMhD6H0vn.jpg</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  AÇÃO</genre>
+</item>
+
+<item>
+<title> [COLOR lime] [B]Rambo 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jF7EYiAp5ggp1Wto3iJJM_c5RAh60P8V/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gqMCdP2NCA9wY2NnGmP1Uu6Om1Q.jpg</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/RAMBO-cinepop4.jpg</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  AÇÃO</genre>
+</item>
+
+<item>
+<title> [COLOR lime] [B]Rambo 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iGJ3z9aPSHqh-60mQmyd7-Q08uRJVNO9/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3kZNJBJxea1zLH16lp91Kz28VgB.jpg</thumbnail>
+<fanart>http://images.fandango.com/images/fandangoblog/2008-rambo-sylvester-stallone.jpg</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  AÇÃO</genre>
+</item>
+
+<item>
+<title> [COLOR red] [B]Rambo 5 - Last Blood [/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://</link>
+<thumbnail>https://www.kinoplex.com.br/filmes/images/cartaz/262x388/rambo-ate-o-fim.jpg</thumbnail>
+<fanart>https://www.heroisdateve.com.br/wp-content/uploads/2019/08/rmaboo.jpg</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  AÇÃO</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name> [COLOR lime] [B]PREDADOR[/B][/COLOR] </name>
+<thumbnail>https://http2.mlstatic.com/filme-o-predador-the-predator-2018-D_NQ_NP_826017-MLB29323271192_022019-F.jpg</thumbnail>
+<fanart>http://www.4usky.com/data/out/73/164652735-predators-wallpapers.jpg</fanart>
+<info>
+   COLEÇÃO PREDADOR COMPLETA</info>
+<genre>  FICÇÃO</genre>
+
+<item>
+<title> [COLOR red] [B]O PREDADOR - 1987[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GMYn_tRbRi_jMNxifa1Y0ZcqBGwipp1z/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  FICÇÃO</genre>
+</item>
+
+<item>
+<title> [COLOR red] [B]PREDADOR 2 - A CAÇADA CONTINUA - 1981[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  FICÇÃO</genre>
+</item>
+
+ <item>
+<title>[COLOR red]OS PREDADORES - 2010 - 1080 - [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]O PREDADOR - 2018 - 1080 - DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=13YLFNxwvfE0q1KS_MGSV9xJRWIOtDpyg</link>
+<thumbnail>https://image.tmdb.org/t/p/original/91hCciJHr0B50kopJTktLtcEZBQ.jpg</thumbnail>
+<fanart>http://www.fmodia.com.br/wp-content/uploads/2018/09/o-predador-fmodia-destacada-03.jpg</fanart>
+<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador,ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.</info>
+<genre>FICÇÃO</genre>
+</item>
+
+
+<channels></channels>
+<channel>
+<name> [COLOR red] [B]NOME DA TRILOGIA[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO</info>
+
+<item>
+<title> [COLOR lime] [B]NOME DO FILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  TEXTO</genre>
+</item>
+
+ <item>
+<title> [COLOR lime] [B]NOME DO FILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  TEXTO</genre>
+</item>
+
+<item>
+<title> [COLOR lime] [B]NOME DO FILME[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DA SINOPSE</info>
+<genre>  TEXTO</genre>
+</item>
