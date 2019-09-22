@@ -1,0 +1,56 @@
+<channels>
+<channel>
+<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
+<info>
+   O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartcat-series</fanart>
+<info>
+   SUA MARATONA ESTA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]COLEÇÕES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<info>
+SE FOI BOM, UM FAZ MAIS UM</info>
+</channel>
+</channels>
