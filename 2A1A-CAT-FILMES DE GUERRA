@@ -1,0 +1,81 @@
+<channels>
+<channel>
+<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]1ª GUERRA [/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE A 1ª GUERRA MUNDIAL </info>
+<genre>1ª GUERRA</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]2ª GUERRA [/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE A 2ª GUERRA MUNDIAL </info>
+<genre> 2ª GUERRA</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]GUERRA DO VIETNÂ [/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE A GUERRA DO VIETNÂ </info>
+<genre>GUERRA DO VIETNÂ</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]OUTRAS GUERRAS[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE OUTRAS GUERRAS </info>
+<genre>OUTRAS GUERRAS</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]ESPIONAGEM DE GUERRA[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE ESPIONAGEM EM PERÍODOS DE GUERRA</info>
+<genre>ESPIONAGEM DE GUERRA</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR lime] [B]OCUPAÇÃO E RESISTÊNCIA[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info>
+AQUI VOCE ENCONTRARÁ FILMES SOBRE OCUPAÇÃO E RESISTÊNCIA AO INVASOR</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>
+</channel>
+</channels>
+
+
+
