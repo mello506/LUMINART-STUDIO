@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name> [COLOR blue] [B]BEM VINDOS AO LUMINART STUDIO[/B][/COLOR]</name>
+<name>[COLOR blue][B]BEM VINDOS AO LUMINART STUDIO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -13,7 +13,7 @@ APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
 
 <channels>
 <channel>
-<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://bit.do/fanartnavegacao</fanart>
@@ -26,7 +26,7 @@ APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
 
 <channels>
 <channel>
-<name> [COLOR lime] [B]ENTRE AQUI[/B][/COLOR]</name>
+<name>[COLOR lime][B]ENTRE AQUI[/B][/COLOR]</name>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2-CATEGORIAS</externallink>
 <fanart>http://bit.do/entrarfanart</fanart>
