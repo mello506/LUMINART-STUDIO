@@ -83,5 +83,17 @@ AQUI VOCE ENCONTRARÁ FILMES SOBRE OCUPAÇÃO E RESISTÊNCIA AO INVASOR</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name> [COLOR lime] [B]SÉRIES DE GUERRA[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<externallink>https://</externallink>
+<info>
+AQUI VOCE ENCONTRARÁ SÉRIES FEITAS SOBRE GUERRAS</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>
+</channel>
+</channels>
+
 
 
