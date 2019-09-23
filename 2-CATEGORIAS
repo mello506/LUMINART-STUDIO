@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [B]CATEGORIAS[/B][/COLOR]</name>
+<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://bit.do/fanartnavegacao</fanart>
@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/fanartcat-series</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2-SUB-CAT-SERIES</externallink>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/fanartcat-desenhos</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A3-SUB%20CAT-DESENHOS</externallink>
@@ -57,7 +57,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] [B]COLEÇÕES[/B][/COLOR]</name>
+<name>[COLOR lime][B]COLEÇÕES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-colecoes</thumbnail>
 <fanart>http://bit.do/fanartcat-colecoes</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A4-SUB-CAT-COLE%C3%87%C3%95ES</externallink>
