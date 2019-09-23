@@ -1,0 +1,40 @@
+<item>
+<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<link>https://</link>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</item>
+
+<channels>
+<channel>
+<name> [COLOR blue] [B]COLD CASE TEMPORADAS[/B][/COLOR] </name>
+<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
+<externallink>https://</externallink>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR red] [B]1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
+<externallink>https://</externallink>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name> [COLOR red] [B]2ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
+<externallink>https://</externallink>
+<info></info>
+</channel>
+</channels>
