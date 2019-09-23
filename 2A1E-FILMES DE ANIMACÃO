@@ -19,7 +19,7 @@ OS MELHORES FILMES DE ANIMAÇÃO</info>
 </item>
  
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO DO FILME - RESOLUÇÃO DO FILME - DUBLADO OU LEGENDADO</title>
+<title>[COLOR lime]NOME DO FILME - ANO DO FILME - RESOLUÇÃO DO FILME - DUBLADO OU LEGENDADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK DO FILME?usp=drivesdk</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
