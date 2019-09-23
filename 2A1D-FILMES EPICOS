@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR blue] [B]ÉPICOS[/B][/COLOR]</title>
+<title>[COLOR blue][B]ÉPICOS[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <link>https://</link>
 <info>
@@ -19,7 +19,7 @@ FILMES ÉPICOS</info>
 </item>
 
 <item>
-<title>[COLOR lime][B]CORAÇÃO VALENTE - 1995 - 720 - DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 720 - DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WDKKePtfmmaOuN3Qb2k92oKXIdN2Y8E3/view</link>
 <thumbnail>https://media.fstatic.com/1ESZOvt8wkytAHsPO47R-SLTm3I=/fit-in/290x478/smart/media/movies/covers/2016/03/coracao-valente_t355_GbkVfnO.jpg</thumbnail>
 <fanart>https://images4.alphacoders.com/562/562087.jpg</fanart>
@@ -29,7 +29,7 @@ FILMES ÉPICOS</info>
 <item>
 
 <item>
-<title>[COLOR lime][B]O ÚLTIMO DOS MOICANOS - 1992 - 1080 - DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime]O ÚLTIMO DOS MOICANOS - 1992 - 1080 - DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L_xoNftTgVOnEiK5SXJhRHSBR4KTPr2u/view?usp=drivesdk</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e9/The_Last_of_the_Mohicans_%281992%29.jpg/250px-The_Last_of_the_Mohicans_%281992%29.jpg</thumbnail>
 <fanart>https://cdn3.greatfon.com/crop/uploads/picture/678/27678/posledniy-iz-mogikan-poedinok.jpg</fanart>
@@ -39,7 +39,7 @@ FILMES ÉPICOS</info>
 <item>
 
 <item>
-<title>[COLOR lime][B]GLADIADOR - 2000 - 1080 - DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime]GLADIADOR - 2000 - 1080 - DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QW7u2lSgWZGsOMJvV3tA7RUuOoO-BLIE/view?usp=drivesdk</link>
 <thumbnail>https://2.bp.blogspot.com/-n_1BNZrgN1E/W-iwRtOwukI/AAAAAAACaEI/j0pGk3Bw3yYjMsOtZ4sdFDDTIJBoX8H0ACLcBGAs/s320/Gladiador%2B%25282000%2529.jpg</thumbnail>
 <fanart>https://www.cafecomfilme.com.br/media/k2/galleries/3880/03.jpg</fanart>
@@ -49,7 +49,20 @@ FILMES ÉPICOS</info>
 <item>
 
 <item>
-<title>[COLOR lime][B]DEMÉTRIUS E OS GALADIADORES - 1954 - 1080 -DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime]O MANTO SAGRADO- 1953 - 1080 -DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1muXHR10y34DLPlMAx7kCkIKgKGV1rCNx/view</link>
+<thumbnail>http://eovideolevou.com.br/imgProduto/37159_f1.jpg</thumbnail>
+<fanart>https://i.imgur.com/MGLkxbR.png</fanart>
+<info> Marcellus Gallio é um bêbado e desiludido romano que ganha o manto de Jesus em um jogo de sorte depois da crucificação.
+Ele nunca foi um homem de fé como seu escravo Demetrius. Porém, quando Demetrius foge com o manto, Marcellus começa a ter visões
+perturbadoras, sentindo-se culpado por suas ações. Certo de que se destruir o manto ele será curado, Marcellus sai à procura de 
+Demetrius.</info>
+<genre>ÉPICO</genre> 
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]DEMÉTRIUS E OS GALADIADORES - 1954 - 1080 -DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1heajtgqUAi8doIfDv-5L7ZdzTK8UsOvu/view</link>
 <thumbnail>https://media.fstatic.com/B4ukCobXSCsNMIbjFP1q_ZWtHfs=/fit-in/290x478/smart/media/movies/covers/2012/04/46b37fa582421db057fe24745d232345.jpg</thumbnail>
 <fanart>https://www.cinemarden.com.br/wp-content/uploads/2016/07/306.Demetrius-e-os-Gladiadores.jpg</fanart>
@@ -59,7 +72,7 @@ FILMES ÉPICOS</info>
 <item>
 
 <item>
-<title>[COLOR lime][B]O ÚLTIMO SAMURAI - 2004 - 720 -DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime]O ÚLTIMO SAMURAI - 2004 - 720 -DUBLADO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P3k2ofPv1ojzr8Yxq91av7hIbEr0d0SF/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/sLv5pXysIz7QbtKFJy85d5yxv2W.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lm15lu2jt3I3Syxsb90UJzUzMRV.jpg</fanart>
