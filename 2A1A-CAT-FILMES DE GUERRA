@@ -13,6 +13,17 @@
 
 <channels>
 <channel>
+<name>[COLOR blue][B]SUB-CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+ </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime][B]1ª GUERRA [/B][/COLOR] </name>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
