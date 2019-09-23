@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name> [COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<name>     [COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://bit.do/fanartnavegacao</fanart>
@@ -13,7 +13,17 @@
 
 <channels>
 <channel>
-<name> [COLOR lime] [B]FILMES[/B][/COLOR]</name>
+<name>   [COLOR blue] [B]CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1-SUB-CAT-FILMES</externallink>
