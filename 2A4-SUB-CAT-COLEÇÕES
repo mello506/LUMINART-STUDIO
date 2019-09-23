@@ -19,77 +19,66 @@
 <fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
 <info>
    COLEÇÃO RAMBO COMPLETA</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
-
-<item>
-<title> [COLOR lime] [B]Rambo - Programado Para Matar-(1982)-DUBLADO[/B][/COLOR]</title>
+<title>[COLOR lime][B]RAMBO - PROGRAMADO PARA MATAR-(1982)-DUBLADO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/v0sPtM5lGkLwtfDlWpn07nqJPyf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg</fanart>
 <info>
 Ao voltar do Vietnã John Rambo sofre com o preconceito de uma cidade e seu xerife, muita ação e tiros ensinam que não se mexe com um veterano.</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 </item>
 
  <item>
-<title> [COLOR lime] [B]Rambo 2 - A Missão[/B][/COLOR]</title>
+<title>[COLOR lime][B]RAMBO 2 - A MISSÃO[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/l6zUaYqaQ5TFokesv3BPzBvSN0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/77cdZUwcyMNGJW4s2fCMhD6H0vn.jpg</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 </item>
 
 <item>
-<title> [COLOR lime] [B]Rambo 3[/B][/COLOR]</title>
+<title>[COLOR lime][B]RAMBO 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jF7EYiAp5ggp1Wto3iJJM_c5RAh60P8V/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gqMCdP2NCA9wY2NnGmP1Uu6Om1Q.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2019/09/RAMBO-cinepop4.jpg</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 </item>
 
 <item>
-<title> [COLOR lime] [B]Rambo 4[/B][/COLOR]</title>
+<title>[COLOR lime][B]RAMBO 4[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iGJ3z9aPSHqh-60mQmyd7-Q08uRJVNO9/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/3kZNJBJxea1zLH16lp91Kz28VgB.jpg</thumbnail>
 <fanart>http://images.fandango.com/images/fandangoblog/2008-rambo-sylvester-stallone.jpg</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 </item>
 
 <item>
-<title> [COLOR red] [B]Rambo 5 - Last Blood [/B][/COLOR]</title>
+<title>[COLOR red][B]RAMBO 5 - LAST BLOOD[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://</link>
 <thumbnail>https://www.kinoplex.com.br/filmes/images/cartaz/262x388/rambo-ate-o-fim.jpg</thumbnail>
 <fanart>https://www.heroisdateve.com.br/wp-content/uploads/2019/08/rmaboo.jpg</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  AÇÃO</genre>
+<genre>AÇÃO</genre>
 </item>
 
 <channels></channels>
 <channel>
-<name> [COLOR lime] [B]PREDADOR[/B][/COLOR] </name>
+<name>[COLOR lime][B]PREDADOR[/B][/COLOR] </name>
 <thumbnail>https://http2.mlstatic.com/filme-o-predador-the-predator-2018-D_NQ_NP_826017-MLB29323271192_022019-F.jpg</thumbnail>
 <fanart>http://www.4usky.com/data/out/73/164652735-predators-wallpapers.jpg</fanart>
 <info>
    COLEÇÃO PREDADOR COMPLETA</info>
-<genre>  FICÇÃO</genre>
+<genre>FICÇÃO</genre>
 
 <item>
 <title> [COLOR red] [B]O PREDADOR - 1987[/B][/COLOR]</title>
@@ -98,7 +87,7 @@ TEXTO DA SINOPSE</info>
 <fanart>FANART</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  FICÇÃO</genre>
+<genre>FICÇÃO</genre>
 </item>
 
 <item>
@@ -108,7 +97,7 @@ TEXTO DA SINOPSE</info>
 <fanart>FANART</fanart>
 <info>
 TEXTO DA SINOPSE</info>
-<genre>  FICÇÃO</genre>
+<genre>FICÇÃO</genre>
 </item>
 
  <item>
