@@ -131,16 +131,27 @@ TEXTO DA SINOPSE</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]MAD MAX[/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51X0P1YG2VL._SY445_.jpg</thumbnail>
-<fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
+<thumbnail>https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9528658&qld=90&l=430&a=-1=1003766518</thumbnail>
+<fanart>http://2.bp.blogspot.com/-HTSKuUdf9c4/Vg-XkGrtf6I/AAAAAAAAACI/MXLTZpXb0xA/s1600/maxresdefault.jpg</fanart>
 <info>
 COLEÇÃO MAD MAX COMPLETA</info>
 <genre>AÇÃO</genre>
 
 
 <item>
-<title>[COLOR lime]MAD MAX 1-O GUERREIRO DA ESTRADA - 1979 - HD - DUBLADO[/COLOR]</title>
+<title>[COLOR lime]MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - HD - DUBLADO[/COLOR]</title>
 <thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/9822-cartaz.jpg</thumbnail>
+<fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18tYyjKR0hfqCn_szHUzcM01xXsY4QnaS/view</link>
+<info>Mad Max é uma franquia multi-media australiana do gênero ficção científica, contendo elementos de ação baseada em um futuro 
+pós-apocalíptico, criada por James McCausland e George Miller.</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]MAD MAX 2 - O GUERREIRO DA ESTRADA - 1979 - HD - DUBLADO[/COLOR]</title>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg</thumbnail>
 <fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/18tYyjKR0hfqCn_szHUzcM01xXsY4QnaS/view</link>
