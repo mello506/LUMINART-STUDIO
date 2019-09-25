@@ -1,8 +1,8 @@
 <item>
 <title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>https://</link>
 <info>
    [COLOR blue]COR AZUL - SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -12,17 +12,18 @@
 <item>
 <title>[COLOR blue][B]2ª GUERRA[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>https://</link>
 <info></info>
 <genre>GUERRA</genre>   
 </item>
 
 <item>
-<title>[COLOR lime]ATÉ O ÚLTIMO HOMEM - 1998 - 720 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1frFWF04iyZJ28UDwkLJreTqU8ovo_CfqhQ/view</link>
+<title>[COLOR lime]ATÉ O ÚLTIMO HOMEM - 2017 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1iSx4oI2FXXAD-FtU5BnzTatzeSq1gay9/view</link>
 <info>Descrição
 Acompanhe a história de Desmond T. Doss,um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas.Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.</info>
 <genre>2ª GUERRA</genre>
@@ -30,80 +31,88 @@ Acompanhe a história de Desmond T. Doss,um médico do exército americano que, 
 
 
 <item>
-<title>[COLOR lime]O RESGATE DO SOLDADO RYAN - 1998 - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mDZC8z6sgKGKYVqPWSrsr374HhPfsZjR/view</link>
+<title>[COLOR lime]O RESGATE DO SOLDADO RYAN - 1998 - FHD - DUB[/COLOR]</title>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/96/07/36/20443914.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/rU5LITLYwDk/maxresdefault.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url
+=https://drive.google.com/file/d/1mDZC8z6sgKGKYVqPWSrsr374HhPfsZjR/view</link>
 <info>Ao desembarcar na Normandia, o Capitão Miller recebe a missão de comandar um grupo do Segundo Batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate. Eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]ESQUADRÃO RED TAILS - 2012 - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1CcDenuT9_sknO9yPpIRY1AVl7ZljLqu9</link>
+<title>[COLOR lime]ESQUADRÃO RED TAILS - 2012 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://megafilmes.org/wp-content/uploads/2017/04/esquadraoredtails_cartaz_220x283-240x320.jpg</thumbnail>
 <fanart>https://noolhardosatelite.files.wordpress.com/2016/06/red-tails.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/open?id=1CcDenuT9_sknO9yPpIRY1AVl7ZljLqu9</link>
 <info>A força aérea norte-americana sofre muitas baixas devido aos bombardeiros em suas missões contra a Alemanha. O governo começa a considerar a possibilidade de ter pilotos afrodescendentes. Surge, então, a chance destes jovens mostrarem sua coragem.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]OS CANHÕES DE NAVARONE- 1954 - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YwecM1-AZfW-Kz175PySgENv4rt_CZQf/view?usp=drivesdk</link>
+<title>[COLOR lime]OS CANHÕES DE NAVARONE- 1954 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://macmagazine.uol.com.br/wp-content/uploads/2013/02/21-os-canhoes-de-navarone.jpg</thumbnail>
 <fanart>http://images.telemadrid.es/2014/10/16/imagenes-de-archivo/canones-Navarone_1620448018_2997815_1300x731.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YwecM1-AZfW-Kz175PySgENv4rt_CZQf/view?usp=drivesdk</link>
 <info>Duas armas alemãs poderosas controlam os mares na ilha grega de Navarone, impedindo a saída das tropas britânicas de uma ilha vizinha. Contra chances mínimas, um esquadrão enfrenta mares tempestuosos e colinas imponentes e tenta destruir os canhões.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]COMANDO 10 DE NAVARONE - 1978  - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NorzbxEgzBmUlgUeoYJEmjRLwwGaGEJP/view</link>
+<title>[COLOR lime]COMANDO 10 DE NAVARONE - 1978  - FHD - DUB[/COLOR]</title>
 <thumbnail>https://images.justwatch.com/poster/9352892/s592</thumbnail>
 <fanart>https://aws.vdkimg.com/film/8/9/7/6/89762_backdrop_scale_1280xauto.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1NorzbxEgzBmUlgUeoYJEmjRLwwGaGEJP/view</link>
 <info>Depois da destruição dos canhões de Navarone, Mallory e Miller são enviados à Iugoslávia em outra tarefa quase impossível. Durante sua jornada, eles se juntam ao Comando 10,liderados pelo tenente-coronel Barnsby. Mas chegando à Iugoslávia, eles são capturados pelos alemães e falham na missão que parecia segura.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]A BATALHA DAS ARDENAS - 2019 - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RVhg8hXj7ccnf43t-_azOvOaff4MHOnd/view</link>
+<title>[COLOR lime]A BATALHA DAS ARDENAS - 2019 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w185/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/rj-JKfEu12k/maxresdefault.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1RVhg8hXj7ccnf43t-_azOvOaff4MHOnd/view</link>
 <info>Natal de 1944. Os alemães fazem um último ataque contra os exércitos dos Aliados. O tenente Robert Cappa e seu pelotão receberam ordens para manter seguro um entroncamento rodoviário vital, situado em uma região entre a Bélgica, Luxemburgo e a Alemanha, contra a ofensiva dos soldados de Hitler.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]ALÉM DA LINHA VERMELHA - 1998 - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YHeyjDDcOZAuz6pNYQfmWrQzdCfkOsDs/view</link>
+<title>[COLOR lime]ALÉM DA LINHA VERMELHA - 1998 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/bb/78/ae/bb78ae92c3e2375f71cee5a9d3696f45.png</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YHeyjDDcOZAuz6pNYQfmWrQzdCfkOsDs/view</link>
 <info>Um drama de guerra profundo que detona a tensão interior das tropas no Pacífico contra a beleza indiferente da natureza. Quando os integrantes do Batalhão Charlie são destacados para a remota ilha de Guadalcanal, lutam para compreender seu lugar no mundo.</info>
 <genre>2ª GUERRA</genre> 
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]A ÁGUIA POUSOU - 1977 - SD - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8S56XOJY1VgaTZUaDh3dWtvVDg/view</link>
+<title>[COLOR lime]A ÁGUIA POUSOU - 1977 - SD - DUB[/COLOR]</title>
 <thumbnail>https://oreidofaroeste.com.br/imagens/capa_4900.jpg</thumbnail>
 <fanart>https://militaryhumor.net/wp-content/uploads/2019/02/The-Interesting-Military-Career-of-Sir-Michael-Caine.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/0B8S56XOJY1VgaTZUaDh3dWtvVDg/view</link>
 <info>Durante a Segunda Guerra Mundial, o oficial nazista Max Radl planeja o sequestro ou morte do primeiro ministro britânico.O esquema segue adiante com o coronel Kurt Steiner liderando a missão, ajudado por Liam Devlin, um irlandês que sente um ódio profundo pela Inglaterra.</info>
 <genre>2ª GUERRA</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]ASSASINOS DE GUERRA - 2019  - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=18_nCqRYfVXK0haZj0-y3LAs5slQF25Vt</link>
+<title>[COLOR lime]ASSASINOS DE GUERRA - 2019  - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/g4Mpkc1uky5tWjKLXXWUZRioKIN.jpg</thumbnail>
 <fanart>https://i.imgur.com/vZ59ZVn.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/open?id=18_nCqRYfVXK0haZj0-y3LAs5slQF25Vt</link>
 <info>No ano de 1944, um grupo de soldados americanos fica conhecido como "The Filthy Thirteen" por terem se tornado um problema crescente para seus superiores, desobedecendo ordens atrás de ordens. Até que esses oficiais rebeldes são selecionados para integrarem a primeira unidade a saltar de pára-quedas atrás das linhas alemãs, durante a invasão da Normandia.</info>
 <genre>2ª GUERRA</genre>
 </item>
@@ -111,10 +120,11 @@ Acompanhe a história de Desmond T. Doss,um médico do exército americano que, 
 
 
 <item>
-<title>[COLOR lime]A CONQUISTA DA HONRA - 2006  - 1080 - DUBLADO[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14L4qDv-K6aYH6hYw-0HbZsIhCo0DBPsS/view</link>
+<title>[COLOR lime]A CONQUISTA DA HONRA - 2006  - FHD - DUB[/COLOR]</title>
 <thumbnail>https://d38h3sy5jr28pf.cloudfront.net/capas-livros/9788500018930.jpg</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXl-szOSBl_Z_8aVSnArXFpoKfSCIPaMX3kzYsVWDvLZb6PR4</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14L4qDv-K6aYH6hYw-0HbZsIhCo0DBPsS/view</link>
 <info>Em fevereiro e março de 1945, soldados lutam e vencem uma das batalhas mais cruciais da guerra de Iwo Jima. A foto de alguns soldados hasteando a bandeira no topo do Monte Suribachic torna-se um símbolo histórico da vitória americana.</info>
 <genre>2ª GUERRA</genre>
 </item>
