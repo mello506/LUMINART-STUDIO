@@ -1,8 +1,8 @@
 <item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>https://</link>
 <info>
    [COLOR blue]COR AZUL - SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -10,10 +10,10 @@
 </item>
 
 <item>
-<title>[COLOR blue] [B]ESPIONAGEM DE GUERRA[/B][/COLOR]</title>
+<title>[COLOR blue][B]ESPIONAGEM DE GUERRA[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>https://</link>
 <info></info>
 <genre>GUERRA</genre>   
 </item>
@@ -52,12 +52,29 @@ https://drive.google.com/file/d/1gdwW8LPH7qSYKZ2NOWhgHnxsZtwKa4Cw/view</link>
 <item>
 
 <item>
-<title>[COLOR lime]A PONTE DOS ESPIÕES - 2016 - FHD - DUB[/COLOR]</title>
+<title>[COLOR red]A PONTE DOS ESPIÕES - 2016 - FHD - DUB[/COLOR]</title>
 <thumbnail>https://http2.mlstatic.com/dvd-ponte-dos-espioes-tom-hanks-novo-lacrado-D_NQ_NP_801021-MLB20697993343_052016-F.jpg</thumbnail>
 <fanart>http://flix66.com/wp-content/uploads/2099/01/screen_shot_2015-10-12_at_10.38.22_pm.png</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1VLsaSF_JxJGsYuUWNT_jz-8QkXyUSqlK/view</link>
-<info> Durante a Guerra Fria, a União Soviética consegue capturar o piloto americano Francis Powers após derrubar seu avião de espionagem, o U-2. Condenado a 10 anos de prisão, a única esperança de Powers é o advogado de Nova York, James Donovan. Sem experiência nesta área legal, o advogado é recrutado pela CIA para defender Rudolf Abel, um espião russo condenado por espionagem pelos americanos. A estratégia é trocar o espião russo pelo americano, sem que os governos dos dois países sejam envolvidos.</info>
+<info> Durante a Guerra Fria, a União Soviética consegue capturar o piloto americano Francis Powers após derrubar seu avião 
+de espionagem, o U-2. Condenado a 10 anos de prisão, a única esperança de Powers é o advogado de Nova York, James Donovan. 
+Sem experiência nesta área legal, o advogado é recrutado pela CIA para defender Rudolf Abel, um espião russo condenado por 
+espionagem pelos americanos. A estratégia é trocar o espião russo pelo americano, sem que os governos dos dois países sejam 
+envolvidos.</info>
+<genre>ESPIONAGEM DE GUERRA</genre> 
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]A ESPIÃ - 2006 - FHD - DUB[/COLOR]</title>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/eur.023711/0023711_200.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wd7ltuWqfERJd7s6MStDYzx4SHC.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WrwCcgPBW8cfYW-EYd__aOi6hkRKlPzZ/view</link>
+<info> Rachel Rosenthal é uma cantora judia que, durante uma tentativa de fuga, perde toda sua família em um ataque alemão.
+Ela se apaixona pelo oficial alemão que ela deveria espionar e quando suspeitam de um traidor dentro da resistência, ela é
+forçada a escolher o lado onde a sua lealdade está.</info>
 <genre>ESPIONAGEM DE GUERRA</genre> 
 </item>
 <item>
