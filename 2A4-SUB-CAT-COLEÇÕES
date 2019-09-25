@@ -131,7 +131,7 @@ TEXTO DA SINOPSE</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]MAD MAX[/COLOR]</name>
-<thumbnail>https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9528658&qld=90&l=430&a=-1=1003766518</thumbnail>
+<thumbnail>https://statics.livrariacultura.net.br/products/capas_lg/000/46507000.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/-HTSKuUdf9c4/Vg-XkGrtf6I/AAAAAAAAACI/MXLTZpXb0xA/s1600/maxresdefault.jpg</fanart>
 <info>
 COLEÇÃO MAD MAX COMPLETA</info>
@@ -150,7 +150,7 @@ pós-apocalíptico, criada por James McCausland e George Miller.</info>
 </item>
 
 <item>
-<title>[COLOR lime]MAD MAX 2 - O GUERREIRO DA ESTRADA - 1979 - HD - DUBLADO[/COLOR]</title>
+<title>[COLOR lime]MAD MAX 2 - A CAÇADA CONTINUA - 1979 - HD - DUBLADO[/COLOR]</title>
 <thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg</thumbnail>
 <fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -161,7 +161,7 @@ pós-apocalíptico, criada por James McCausland e George Miller.</info>
 </item>
 
 <item>
-<title>[COLOR lime]MAD MAX - A CÚPULA DO TROVÃO  - 1981 -  HD - DUB [/COLOR]</title>
+<title>[COLOR lime]MAD MAX 3 - A CÚPULA DO TROVÃO  - 1981 -  HD - DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/15l1Yh-aW2IYWJpQguihX3EgRkHGFO_Xj/view</link>
 <thumbnail>THUMBNAIL</thumbnail>
@@ -171,6 +171,19 @@ TEXTO DE SINOPSE</info>
 <genre>AÇÃO</genre>
 </item>
 
-https://drive.google.com/file/d/15l1Yh-aW2IYWJpQguihX3EgRkHGFO_Xj/view
+<item>
+<title>[COLOR lime]MAD MAX 4 - A ESTRADA DA FÚRIA  - 1981 -  HD - DUB [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1aInlq8qtYdZT_GEMX1SllI-et21jSFRK/view</link>
+<thumbnail>https://2.bp.blogspot.com/-P4fp3P_-SSg/Vfd_ejMNIsI/AAAAAAAAV6s/Fz6HRhHMvnk/s1600/Mad-Max-6abril2015-poster.jpg</thumbnail>
+<fanart>https://s1.1zoom.me/big0/651/433189-sepik.jpg</fanart>
+<info>
+Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. 
+Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, 
+iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas.</info>
+<genre>AÇÃO</genre>
+</item>
+
+
 
  
