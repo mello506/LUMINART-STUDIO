@@ -14,10 +14,10 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]COLEÇÕES[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
-<info></info>
+<info>COLEÇÕES</info>
 </channel>
 </channels>
 
@@ -32,7 +32,7 @@ COLEÇÃO RAMBO COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR lime]RAMBO - PROGRAMADO PARA MATAR-(1982)-DUBLADO[/COLOR]</title>
+<title>[COLOR lime]RAMBO - PROGRAMADO PARA MATAR - 1982 - FHD - DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/v0sPtM5lGkLwtfDlWpn07nqJPyf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg</fanart>
@@ -111,7 +111,7 @@ TEXTO DA SINOPSE</info>
 </item>
 
  <item>
-<title>[COLOR red]OS PREDADORES - 2010 - 1080 - [/COLOR]</title>
+<title>[COLOR red]OS PREDADORES - 2010 - FHD -DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diT0UPhAfZp_czC7s9s-UM-FxEGByapJ/view</link>
 <thumbnail>https://tinyurl.com/ycbra2fk</thumbnail>
 <fanart>FANART</fanart>
@@ -121,7 +121,7 @@ TEXTO DA SINOPSE</info>
 </item>
 
 <item>
-<title>[COLOR lime]O PREDADOR - 2018 - FHD- DUBLADO[/COLOR]</title>
+<title>[COLOR lime]O PREDADOR - 2018 - FHD- DUB[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=13YLFNxwvfE0q1KS_MGSV9xJRWIOtDpyg</link>
 <thumbnail>https://image.tmdb.org/t/p/original/91hCciJHr0B50kopJTktLtcEZBQ.jpg</thumbnail>
 <fanart>http://www.fmodia.com.br/wp-content/uploads/2018/09/o-predador-fmodia-destacada-03.jpg</fanart>
@@ -141,7 +141,7 @@ COLEÇÃO MAD MAX COMPLETA</info>
 
 
 <item>
-<title>[COLOR lime]MAD MAX 1-O GUERREIRO DA ESTRADA - 2018 - FHD- DUBLADO[/COLOR]</title>
+<title>[COLOR lime]MAD MAX 1-O GUERREIRO DA ESTRADA - 1979 - HD - DUBLADO[/COLOR]</title>
 <thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/9822-cartaz.jpg</thumbnail>
 <fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
