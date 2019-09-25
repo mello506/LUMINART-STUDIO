@@ -28,7 +28,7 @@
 <thumbnail>https://i.pinimg.com/originals/84/3a/0a/843a0ac4d996a92c310578e2e69b0b30.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
 <info>
-   COLEÇÃO RAMBO COMPLETA</info>
+COLEÇÃO RAMBO COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
@@ -87,7 +87,7 @@ TEXTO DA SINOPSE</info>
 <thumbnail>https://http2.mlstatic.com/filme-o-predador-the-predator-2018-D_NQ_NP_826017-MLB29323271192_022019-F.jpg</thumbnail>
 <fanart>http://www.4usky.com/data/out/73/164652735-predators-wallpapers.jpg</fanart>
 <info>
-   COLEÇÃO PREDADOR COMPLETA</info>
+COLEÇÃO PREDADOR COMPLETA</info>
 <genre>FICÇÃO</genre>
 
 <item>
@@ -132,10 +132,11 @@ TEXTO DA SINOPSE</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]MAD MAX[/COLOR]</name>
-<thumbnail>https://i.pinimg.com/originals/84/3a/0a/843a0ac4d996a92c310578e2e69b0b30.jpg</thumbnail>
-<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<thumbnail>
+https://images-na.ssl-images-amazon.com/images/I/51X0P1YG2VL._SY445_.jpg</thumbnail>
+<fanart>https://www.syfy.com/sites/syfy/files/wire/legacy/Mad-Max-2-The-Road-Warrior.jpg</fanart>
 <info>
-   COLEÇÃO MAD MAX COMPLETA</info>
+COLEÇÃO MAD MAX COMPLETA</info>
 <genre>AÇÃO</genre>
 
 
