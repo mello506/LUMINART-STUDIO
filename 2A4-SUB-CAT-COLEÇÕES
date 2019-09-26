@@ -179,7 +179,7 @@ TEXTO DE SINOPSE</info>
 </item>
 
 <item>
-<title>[COLOR lime]MAD MAX 4 - A ESTRADA DA FÚRIA - 1981 - 1080 - DUB [/COLOR]</title>
+<title>[COLOR red]MAD MAX 4 - A ESTRADA DA FÚRIA - 1981 - 1080 - DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1j41hBHesOCtP1QCpfHqvetUKwm9V1bV2/view</link>
 <thumbnail>https://2.bp.blogspot.com/-P4fp3P_-SSg/Vfd_ejMNIsI/AAAAAAAAV6s/Fz6HRhHMvnk/s1600/Mad-Max-6abril2015-poster.jpg</thumbnail>
@@ -194,7 +194,7 @@ iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas.</info>
 <channels></channels>
 <channel>
 <name>[COLOR red]PIRATAS DO CARIBE[/COLOR]</name>
-<thumbnail>https://http2.mlstatic.com/blu-ray-coleco-piratas-do-caribe-5-discos-digipack-D_NQ_NP_853152-MLB28975303509_122018-F.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w185/oGEenSmUimQcZyMjkpPilPweaPF.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2017/05/Piratas-750x380.jpg</fanart>
 <info>
 COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
@@ -205,11 +205,15 @@ COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
 <title>[COLOR lime]A MALDIÇÃO DO PÉROLA NEGRA - 2003 - 1080 - DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1JIaZRdEx_gDNEO_R4cJEBRqiCGliUyTH/view</link>
-<thumbnail>https://2.bp.blogspot.com/-P4fp3P_-SSg/Vfd_ejMNIsI/AAAAAAAAV6s/Fz6HRhHMvnk/s1600/Mad-Max-6abril2015-poster.jpg</thumbnail>
-<fanart>https://s1.1zoom.me/big0/651/433189-sepik.jpg</fanart>
+<thumbnail>https://i.imgur.com/9BdKdcE.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-K6lovlmuu34/XOGn3IEv8EI/AAAAAAAAQL4/XW-Dm7aYbXkLqQpVg6pZLt99ALUkxvjTwCLcBGAs/s1600/00.jpg</fanart>
 <info>
-TEXTO DE SINOPSE.</info>
-<genre>AÇÃO</genre>
+O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow,
+Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, 
+Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa 
+Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.
+</info>
+<genre>AVENTURA</genre>
 </item>
 
 
