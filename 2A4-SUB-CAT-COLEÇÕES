@@ -20,7 +20,6 @@
 </channel>
 </channels>
 
-
 <channels></channels>
 <channel>
 <name>[COLOR lime]RAMBO[/COLOR]</name>
@@ -31,29 +30,29 @@ COLEÇÃO RAMBO COMPLETA</info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR lime]RAMBO - PROGRAMADO PARA MATAR - 1982 - 720 - DUB[/COLOR]</title>
+<title>[COLOR lime]RAMBO - PROGRAMADO PARA MATAR - 1982 - FHD - DUB [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/v0sPtM5lGkLwtfDlWpn07nqJPyf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1vy2vguXqPG6-Sk1oFH3La6yl5k40R6a-/view</link>
+https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
 <info>
 Ao voltar do Vietnã John Rambo sofre com o preconceito de uma cidade e seu xerife, muita ação e tiros ensinam que não se mexe com um veterano.</info>
 <genre>AÇÃO</genre>
 </item>
 
  <item>
-<title>[COLOR lime]RAMBO 2 - A MISSÃO - 1985 - 720 - DUB[/COLOR]</title>
+<title>[COLOR lime]RAMBO 2 - A MISSÃO - ANO - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/l6zUaYqaQ5TFokesv3BPzBvSN0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/77cdZUwcyMNGJW4s2fCMhD6H0vn.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1sedgI5JwxHX0gdZuediauXpCth0isrtc/view</link>
+https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view</link>
 <info>
 TEXTO DA SINOPSE</info>
 <genre>AÇÃO</genre>
 </item>
 
 <item>
-<title>[COLOR lime]RAMBO 3 - ANO - HD - DUB[/COLOR]</title>
+<title>[COLOR lime]RAMBO 3 - ANO - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/gqMCdP2NCA9wY2NnGmP1Uu6Om1Q.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2019/09/RAMBO-cinepop4.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -64,7 +63,7 @@ TEXTO DA SINOPSE</info>
 </item>
 
 <item>
-<title>[COLOR lime]RAMBO 4 - ANO - HD - DUB[/COLOR]</title>
+<title>[COLOR lime]RAMBO 4 - ANO - FHD - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/3kZNJBJxea1zLH16lp91Kz28VgB.jpg</thumbnail>
 <fanart>http://images.fandango.com/images/fandangoblog/2008-rambo-sylvester-stallone.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -75,7 +74,7 @@ TEXTO DA SINOPSE</info>
 </item>
 
 <item>
-<title>[COLOR red]RAMBO 5 - LAST BLOOD - ANO - RES - DUB-LEG[/COLOR]</title>
+<title>[COLOR red]RAMBO 5 - LAST BLOOD - ANO - FHD - DUB[/COLOR]</title>
 <thumbnail>https://www.kinoplex.com.br/filmes/images/cartaz/262x388/rambo-ate-o-fim.jpg</thumbnail>
 <fanart>https://www.heroisdateve.com.br/wp-content/uploads/2019/08/rmaboo.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -179,9 +178,9 @@ TEXTO DE SINOPSE</info>
 </item>
 
 <item>
-<title>[COLOR red]MAD MAX 4 - A ESTRADA DA FÚRIA - 1981 - 1080 - DUB [/COLOR]</title>
+<title>[COLOR lime]MAD MAX 4 - A ESTRADA DA FÚRIA  - 1981 -  HD - DUB [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1j41hBHesOCtP1QCpfHqvetUKwm9V1bV2/view</link>
+https://drive.google.com/file/d/1aInlq8qtYdZT_GEMX1SllI-et21jSFRK/view</link>
 <thumbnail>https://2.bp.blogspot.com/-P4fp3P_-SSg/Vfd_ejMNIsI/AAAAAAAAV6s/Fz6HRhHMvnk/s1600/Mad-Max-6abril2015-poster.jpg</thumbnail>
 <fanart>https://s1.1zoom.me/big0/651/433189-sepik.jpg</fanart>
 <info>
@@ -194,28 +193,72 @@ iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas.</info>
 <channels></channels>
 <channel>
 <name>[COLOR red]PIRATAS DO CARIBE[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w185/oGEenSmUimQcZyMjkpPilPweaPF.jpg</thumbnail>
+<thumbnail>https://http2.mlstatic.com/blu-ray-coleco-piratas-do-caribe-5-discos-digipack-D_NQ_NP_853152-MLB28975303509_122018-F.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2017/05/Piratas-750x380.jpg</fanart>
 <info>
 COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
 <genre>AVENTURA</genre>
 
-
 <item>
-<title>[COLOR lime]A MALDIÇÃO DO PÉROLA NEGRA - 2003 - 1080 - DUB [/COLOR]</title>
+<title>[COLOR lime]A MALDIÇÃO DO PÉROLA NEGRA - 2003 - SD 720 1080- DUB LEG [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1JIaZRdEx_gDNEO_R4cJEBRqiCGliUyTH/view</link>
-<thumbnail>https://i.imgur.com/9BdKdcE.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-K6lovlmuu34/XOGn3IEv8EI/AAAAAAAAQL4/XW-Dm7aYbXkLqQpVg6pZLt99ALUkxvjTwCLcBGAs/s1600/00.jpg</fanart>
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg</thumbnail>
+<fanart>FANART</fanart>
 <info>
-O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow,
-Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, 
-Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa 
-Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.
-</info>
+TEXTO DE SINOPSE</info>
 <genre>AVENTURA</genre>
 </item>
 
+<item>
+<title>[COLOR lime]O BAÚ DA MORTE - 2006 - SD 720 1080- DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBwEViDFzReGGtnWSeSw7isAgeN.jpg</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>AVENTURA</genre>
+</item>
 
+<item>
+<title>[COLOR lime]NO FIM DO MUNDO - 2007 - SD 720 1080- DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aI48Ni38DnyOXQCgVdRTzxuiTB.jpg</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>AVENTURA</genre>
+</item>
 
- 
+<item>
+<title>[COLOR lime]NAVEGANDO EM ÁGUAS MISTERIOSAS - 2011 - SD 720 1080- DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLpjYNHm6S5vZdm26VMoypyHXUK.jpg</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]A VINGANÇA DE SALAZAR - 2017 - SD 720 1080- DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDG8lk8pMb0QY6gcOHhqrv98T6q.jpg</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>AVENTURA</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR red]EXTERMINADOR DO FUTURO[/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/84/3a/0a/843a0ac4d996a92c310578e2e69b0b30.jpg</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<info>
+COLEÇÃO EXTERMINADOR DO FUTURO COMPLETA</info>
+<genre>AÇÃO</genre>
