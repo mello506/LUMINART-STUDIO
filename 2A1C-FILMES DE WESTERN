@@ -49,3 +49,14 @@ https://drive.google.com/file/d/1opkSIepz9cwgobnEsTO9ks2lRaRAYpSN/view</link>
 onde um tribunal o aguarda. Os homens partem numa viagem de trem que revela que eles têm mais coisas em comum do que imaginavam.</info>
 </item>
 <item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>WESTERN</genre>
+</item>
