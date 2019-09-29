@@ -14,7 +14,7 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]ÉPICOS[/B][/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
 </channel>
 </channels>
@@ -22,7 +22,7 @@
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]FILMES ÉPICOS[/B][/COLOR] </name>
-<thumbnail>THUMBNAIL</thumbnail>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
 <info>
 OS MELHORES FILMES ÉPICOS ESTÃO AQUI</info>
@@ -233,7 +233,7 @@ TEXTO DE SINOPSE</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]COLEÇÕES ÉPICAS[/B][/COLOR] </name>
-<thumbnail>THUMBNAIL</thumbnail>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1DA-COLE%C3%87%C3%95ES%20%C3%89PICAS</externallink>
 <info>
