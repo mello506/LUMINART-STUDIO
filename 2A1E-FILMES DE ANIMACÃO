@@ -15,7 +15,7 @@
 <channel>
 <name>[COLOR blue][B]ANIMAÇÃO[/B][/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>http://bit.do/iconesubcat-animacao</fanart>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
 </channel>
 </channels>
 
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR lime][B]FILMES DE ANIMAÇÃO[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>http://bit.do/iconesubcat-animacao</fanart>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
 <info>
 OS MELHORES FILMES DE ANIMAÇÃO ESTÃO AQUI</info>
 <genre>ANIMAÇÃO</genre>
@@ -54,7 +54,7 @@ TEXTO DE SINOPSE</info>
 <channel>
 <name>[COLOR lime][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>http://bit.do/iconesubcat-animacao</fanart>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1E1-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20ANIMA%C3%87%C3%83O</externallink>
 <info>
 COLEÇÕES DE FILMES DE ANIMAÇÃO</info>
