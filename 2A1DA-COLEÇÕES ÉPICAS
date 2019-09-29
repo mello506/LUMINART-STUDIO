@@ -1,1 +1,41 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES ÉPICAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://</externallink>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]300[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<info>
+COLEÇÃO 300 COMPLETA</info>
+<genre>AÇÃO</genre>
+
+<item>
+<title>[COLOR lime]RAMBO - PROGRAMADO PARA MATAR - 1982 - FHD - DUB [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/v0sPtM5lGkLwtfDlWpn07nqJPyf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view</link>
+<info>
+Ao voltar do Vietnã John Rambo sofre com o preconceito de uma cidade e seu xerife, muita ação e tiros ensinam que não se mexe com um veterano.</info>
+<genre>AÇÃO</genre>
+</item>
