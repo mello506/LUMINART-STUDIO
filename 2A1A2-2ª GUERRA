@@ -190,10 +190,10 @@ Um novo e tecnologicamente superior submarino nuclear, o Outubro Vermelho, está
 
 <item>
 <title>[COLOR lime]QUANDO OS BRAVOS SE CALAM - 1998 - SD - LEG[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1YtR7HKK4zg_dAbH-yFsG6IC3lTqY14L7/view</link>
 <thumbnail>http://image.tmdb.org/t/p/original/8f7OMP7YKfG0QSVlq0C5ifc5nT6.jpg</thumbnail>
 <fanart>https://images.justwatch.com/backdrop/4120752/s1440/quando-os-bravos-se-calam</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YtR7HKK4zg_dAbH-yFsG6IC3lTqY14L7/view</link>
 <info>
 Na Segunda Guerra Mundial, na Alemanha, um soldado americano promovido contra sua vontade, aprende o significado de coragem, sobrevivência e moralidade.</info>
 <genre>GUERRA</genre>
@@ -201,22 +201,11 @@ Na Segunda Guerra Mundial, na Alemanha, um soldado americano promovido contra su
 
 <item>
 <title>[COLOR lime]CONPANHIA DE HERÓIS - 2013 - 1080 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/19D6ZElknbtlvwW9hBH6ZYrk0tAm3BxbA/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Li77cVkYARQtzWqcED0gtHnebd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yXHqInRL2CHIYlhxF7PA38PHEhl.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/19D6ZElknbtlvwW9hBH6ZYrk0tAm3BxbA/view</link>
 <info>
 Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.</info>
-<genre>GUERRA</genre>
-</item>
-
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<info>
-TEXTO DE SINOPSE</info>
 <genre>GUERRA</genre>
 </item>
