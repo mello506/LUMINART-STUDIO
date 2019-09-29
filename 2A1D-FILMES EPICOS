@@ -20,14 +20,32 @@
 </channel>
 </channels>
 
-<channels>
+<channels></channels>
 <channel>
-<name>[COLOR blue][B]FILMES ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR lime][B]COLEÇÕES[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>http://bit.do/fanartsubcat-epicos</fanart>
-<externallink>IGNORAR</externallink>
-</channel>
-</channels>
+<fanart>FANART</fanart>
+<info>
+TEXTO</info>
+<genre>ÉPICOS</genre>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]300[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<info>
+COLEÇÃO 300 COMPLETA</info>
+<genre>ÉPICOS</genre>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO</info>
+<genre>ÉPICOS</genre>
 
 <item>
 <title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
@@ -38,25 +56,6 @@ https://drive.google.com/file/d/1WDKKePtfmmaOuN3Qb2k92oKXIdN2Y8E3/view</link>
 <info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICO</genre> 
 </item>
-<item>
-
-<channels>
-<channel>
-<name>[COLOR blue][B]COLEÇÕES ÉPICAS[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]300[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
-<info>
-COLEÇÃO RAMBO COMPLETA</info>
-<genre>AÇÃO</genre>
 
 <item>
 <title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
