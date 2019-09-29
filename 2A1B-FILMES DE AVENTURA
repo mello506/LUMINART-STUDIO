@@ -1,22 +1,35 @@
-<item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
+<channels>
+<channel>
 <title>[COLOR blue] [B]AVENTURA[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<link>https://</link>
+<link>NOLINK</link>
 <info>
 by LUMINART STUDIO
 FILMES DE AVENTURA</info>
-</item>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE AVENTURAS[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<info>
+OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>ÉPICOS</genre>
 
 <item>
 <title>[COLOR lime]ZULU - 1964 - 1080 - DUB[/COLOR]</title>
@@ -46,3 +59,13 @@ LINK DO FILME NO G-DRIVE</link>
 <info>TEXTO DE SINOPSE </info>
 </item>
 <item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART DE AVENTURA</fanart>
+<externallink>LINK PAGE DE COLEÇÕES DE FILMES DE AVENTURAS</externallink>
+<info>
+COLEÇÕES DE FILMES DE AVENTURAS</info>
+<genre>AVENTURAS</genre>
