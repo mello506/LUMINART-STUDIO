@@ -90,7 +90,7 @@ https://drive.google.com/file/d/1qwAOfkdOazEII_o_HTq8CGCc-7YUDuo9/view</link>
 <thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/bb/78/ae/bb78ae92c3e2375f71cee5a9d3696f45.png</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1F5G90HwyUDo-mqZxIc6RgBp64lsPmMKd/view</link>
+https://drive.google.com/file/d/1YHeyjDDcOZAuz6pNYQfmWrQzdCfkOsDs/view</link>
 <info>Um drama de guerra profundo que detona a tensão interior das tropas no Pacífico contra a beleza indiferente da natureza. Quando os integrantes do Batalhão Charlie são destacados para a remota ilha de Guadalcanal, lutam para compreender seu lugar no mundo.</info>
 <genre>2ª GUERRA</genre> 
 </item>
@@ -189,12 +189,34 @@ Um novo e tecnologicamente superior submarino nuclear, o Outubro Vermelho, está
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080- DUB LEG [/COLOR]</title>
+<title>[COLOR lime]QUANDO OS BRAVOS SE CALAM - 1998 - SD - LEG[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YtR7HKK4zg_dAbH-yFsG6IC3lTqY14L7/view</link>
+<thumbnail>http://image.tmdb.org/t/p/original/8f7OMP7YKfG0QSVlq0C5ifc5nT6.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/4120752/s1440/quando-os-bravos-se-calam</fanart>
+<info>
+Na Segunda Guerra Mundial, na Alemanha, um soldado americano promovido contra sua vontade, aprende o significado de coragem, sobrevivência e moralidade.</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]CONPANHIA DE HERÓIS - 2013 - 1080 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/19D6ZElknbtlvwW9hBH6ZYrk0tAm3BxbA/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Li77cVkYARQtzWqcED0gtHnebd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yXHqInRL2CHIYlhxF7PA38PHEhl.jpg</fanart>
+<info>
+Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GOOGLE DRIVE</link>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
 <info>
 TEXTO DE SINOPSE</info>
-<genre>GÊNERO DO FILME</genre>
+<genre>GUERRA</genre>
 </item>
