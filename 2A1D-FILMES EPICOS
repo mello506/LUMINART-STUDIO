@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR lime][B]FILMES[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
 <info>
 TEXTO</info>
 <genre>ÉPICOS</genre>
@@ -234,8 +234,8 @@ TEXTO DE SINOPSE</info>
 <channel>
 <name>[COLOR lime][B]COLEÇÕES ÉPICAS[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<externallink>IGNORAR</externallink>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1DA-COLE%C3%87%C3%95ES%20%C3%89PICAS</externallink>
 <info>
-TEXTO</info>
+COLEÇÕES DE FILMES ÉPICOS</info>
 <genre>ÉPICOS</genre>
