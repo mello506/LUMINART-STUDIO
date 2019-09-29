@@ -1,23 +1,3 @@
-<item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
-
-<item>
-<title>[COLOR blue][B]ANIMAÇÃO[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
-<link>https://</link>
-<info> 
-by LUMINART STUDIO
-OS MELHORES FILMES DE ANIMAÇÃO</info>
-</item>
-
 <channels>
 <channel>
 <name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
@@ -33,7 +13,7 @@ OS MELHORES FILMES DE ANIMAÇÃO</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]ANIMAÇÃO[/B][/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>http://bit.do/iconesubcat-animacao</fanart>
 </channel>
