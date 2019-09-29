@@ -13,12 +13,9 @@
 
 <channels>
 <channel>
-<title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<link>NOLINK</link>
-<info>
-by LUMINART STUDIO
-FILMES DE AVENTURA</info>
+<name>[COLOR blue][B]AVENTURA[/B][/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
 </channel>
 </channels>
 
@@ -29,7 +26,7 @@ FILMES DE AVENTURA</info>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
 <info>
 OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
-<genre>ÉPICOS</genre>
+<genre>AVENTURAS</genre>
 
 <item>
 <title>[COLOR lime]ZULU - 1964 - 1080 - DUB[/COLOR]</title>
@@ -40,6 +37,7 @@ https://drive.google.com/file/d/14iAwNV-8ZF9-ks30mxBtSgPPuDNDPS3R/view?usp=drive
 <info> África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus.</info>
 </item>
 <item>
+
 <item>
 <title>[COLOR lime]CRUZADA - 2005 - 1080 - DUB[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -59,5 +57,29 @@ LINK DO FILME NO G-DRIVE</link>
 <info>TEXTO DE SINOPSE </info>
 </item>
 <item>
+
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>ÉPICOS</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART DE FILMES DE AVENTURAS</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1DA-COLE%C3%87%C3%95ES%20%C3%89PICAS</externallink>
+<info>
+COLEÇÕES DE FILMES DE AVENTURAS</info>
+<genre>AVENTURAS</genre>
+
+
 
 
