@@ -24,30 +24,30 @@
 <channel>
 <name>[COLOR red]300[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<fanart>https://image.tmdb.org/t/p/original/5Rqhw4e5pRsfWaQBgUlvpWyn1w4.jpg</fanart>
 <info>
 COLEÇÃO 300 COMPLETA</info>
 <genre>ÉPICOS</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]300 - 2007 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTPggyTJ5R76g6j9XXQUBZ5nRC2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oWHMkAjD2eVIOxwyPRw1JrPcnlz.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO DRIVE</link>
+https://drive.google.com/file/d/1-wmWvWnVdzAsUkxPABOAQdSxmPdsrxt9/view</link>
 <info>
-TEXTO DE SINOPSE</info>
+Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes . Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.</info>
 <genre>ÉPICOS</genre>
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]300 2 -A ASCENSÃO DO IMPÉRIO - 2014 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ejuMEvTU4MKQyt8TK8QbAwerbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6ysgr9EefF5kTjr9MH4y0XsPHmg.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO DRIVE</link>
+https://drive.google.com/file/d/1Gril0CpYTMqDskjzklW_V91FlKRuRm0N/view</link>
 <info>
-TEXTO DE SINOPSE</info>
+Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.</info>
 <genre>ÉPICOS</genre>
 </item>
 
@@ -55,29 +55,29 @@ TEXTO DE SINOPSE</info>
 <channel>
 <name>[COLOR red]FÚRIA DE TITÂS[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<fanart>https://i.ytimg.com/vi/yoFY4i13RDI/maxresdefault.jpg</fanart>
 <info>
-COLEÇÃO FÚRIA DE TITANS COMPLETA</info>
+COLEÇÃO FÚRIA DE TITÂS COMPLETA</info>
 <genre>ÉPICOS</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR red]FÚRIA DE TITÂS 1 - 2010  - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymoZi5sUZIzXfjTe7qomDXjiaRa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ma5Ps40txofscTtWpjs39swMnwZ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO DRIVE</link>
 <info>
-TEXTO DE SINOPSE</info>
+Perseu descobre que é o filho mortal de Zeus, mas recusa-se a aceitar tal condição. Ele encontra-se entre a batalha dos deuses e sem ajuda para salvar a cidade e sua família da vingança de seu tio Hades, o deus do submundo. Sem nada a perder, Perseu lidera um grupo de guerreiros em uma perigosa missão para prevenir que Hades cause uma devastação na Terra.</info>
 <genre>ÉPICOS</genre>
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR red]FÚRIA DE TITÂS 2 - 2012- SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqBSqYJkQkjR8YmhZkAhnvK2kiO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jJeFbbsf6Vh50IRzOtvcQb7YKty.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO DRIVE</link>
 <info>
-TEXTO DE SINOPSE</info>
+Dez anos depois, o semideus Perseus leva uma vida pacata de pescador enquanto cria seu filho, Hélio. Os deuses estão enfraquecidos, já que os humanos não estão mais rezando para eles. Esta situação permite que Hades e Ares elaborem um plano para libertar Cronos, o pai de Hades, Zeus e Poseidon , que está aprisionado no tártaro. Para que o plano funcione Hades e Ares capturam Zeus, o que faz com que Perseus parta para salvá-lo.</info>
 <genre>ÉPICOS</genre>
 </item>
