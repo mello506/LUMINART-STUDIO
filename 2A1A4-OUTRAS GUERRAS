@@ -127,11 +127,11 @@ os socorristas - são os primeiros a chegar ao local. </info>
 </item>
 
 <item>
-<title>[COLOR red]NOME DO FILME - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart></fanart>
+<title>[COLOR red]A IRMANDADE DA GUERRA - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrqKnJB19HRGZntpn0SP8ap6xDk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/66qO1fhZZsRE9qGCVSoeC8lGl0F.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME</link>
+https://drive.google.com/file/d/1rmREGQbZWCWVaeWV1zcEu0c_EW6XkaP8/view</link>
 <info>
-TEXTO DE SINOPSE</info>
+Jin-tae, um sapateiro, trabalha incansavelmente para poder pagar a faculdade de seu irmão mais novo Jin-seok, entretanto, seus desejos e sonhos são colocados de lado quando os dois são forçados a entrar no exército contra suas vontades. No momento crucial da batalha, o destino intervém, forçando seus laços de fé, amor e confiança a serem testados diversas vezes.</info>
 </item>
