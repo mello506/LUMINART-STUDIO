@@ -1,0 +1,86 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>NOLINK</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES AVENTURA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>NOLINK</externallink>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]PIRATAS DO CARIBE[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
+<genre>AVENTURA</genre>
+
+<item>
+<title>[COLOR lime]A MALDIÇÃO DO PÉROLA NEGRA - 2003 - 1080- DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1JIaZRdEx_gDNEO_R4cJEBRqiCGliUyTH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2018/11/ac0e66a3dfaf704ff7d5a78da43d6014.jpg</fanart>
+<info>
+O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.</info>
+<genre>AVENTURA</genre>
+</item>
+ 
+<item>
+<title>[COLOR red]O BAÚ DA MORTE - 2006 - 1080- DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBwEViDFzReGGtnWSeSw7isAgeN.jpg</thumbnail>
+<fanart>https://entreterse.com.br/wp-content/uploads/2019/01/Piratas-do-Caribe-e1548862981776.jpg</fanart>
+<info>
+Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.</info>
+<genre>AVENTURA</genre>
+</item>
+ 
+<item>
+<title>[COLOR lime]NO FIM DO MUNDO - 2007 - 1080- DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wkdjO3Q7o_tIhrezQ8xAXWgtOdDdylaK/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aI48Ni38DnyOXQCgVdRTzxuiTB.jpg</thumbnail>
+<fanart>http://cadeoleo.com.br/wp-content/uploads/2010/02/piratas-do-caribe-no-fim-do-mundo.jpg</fanart>
+<info>
+Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.</info>
+<genre>AVENTURA</genre>
+</item>
+ 
+<item>
+<title>[COLOR lime]NAVEGANDO EM ÁGUAS MISTERIOSAS - 2011 - 1080- DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Tm07ccc2tBxsepyzzMlxzbwdP8uHlCw2/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLpjYNHm6S5vZdm26VMoypyHXUK.jpg</thumbnail>
+<fanart>https://images2.alphacoders.com/794/thumb-1920-794101.jpg</fanart>
+<info>
+O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.</info>
+<genre>AVENTURA</genre>
+</item>
+ 
+<item>
+<title>[COLOR lime]A VINGANÇA DE SALAZAR - 2017 - 1080- DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1EWuNRjfmkh428ou0twD1NdSOKw5zEc_J/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDG8lk8pMb0QY6gcOHhqrv98T6q.jpg</thumbnail>
+<fanart>https://miro.medium.com/max/3360/1*s_uf3z8MKSBl6Nb15JVX7w.jpeg</fanart>
+<info>
+O capitão Salazar é a nova pedra no sapato do capitão Jack Sparrow. Ele lidera um exército de piratas fantasmas assassinos e está disposto a matar todos os piratas existentes na face da Terra. Para escapar, Sparrow precisa encontrar o Tridente de Poseidon, que dá ao seu dono o poder de controlar o mar.</info>
+<genre>AVENTURA</genre>
+</item>
+
