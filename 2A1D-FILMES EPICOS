@@ -16,9 +16,38 @@
 <name>[COLOR blue][B]ÉPICOS[/B][/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
-<externallink>IGNORAR</externallink>
 </channel>
 </channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES ÉPICAS[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<externallink>IGNORAR</externallink>
+<info>
+TEXTO</info>
+<genre>ÉPICOS</genre>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]300[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
+<info>
+COLEÇÃO 300 COMPLETA</info>
+<genre>ÉPICOS</genre>
+
+<item>
+<title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://media.fstatic.com/1ESZOvt8wkytAHsPO47R-SLTm3I=/fit-in/290x478/smart/media/movies/covers/2016/03/coracao-valente_t355_GbkVfnO.jpg</thumbnail>
+<fanart>https://images4.alphacoders.com/562/562087.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WDKKePtfmmaOuN3Qb2k92oKXIdN2Y8E3/view</link>
+<info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
+<genre>ÉPICO</genre> 
+</item>
+<item>
 
 <channels></channels>
 <channel>
@@ -230,15 +259,3 @@ LINK PARA O FILME NO GOOGLE DRIVE</link>
 TEXTO DE SINOPSE</info>
 <genre>ÉPICOS</genre>
 </item>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]COLEÇÕES ÉPICAS[/B][/COLOR] </name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1DA-COLE%C3%87%C3%95ES%20%C3%89PICAS</externallink>
-<info>
-TEXTO</info>
-<genre>ÉPICOS</genre>
-
-
