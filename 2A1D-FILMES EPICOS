@@ -1,23 +1,51 @@
-<item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B]ÉPICOS[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]ÉPICOS[/B][/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>http://bit.do/fanartsubcat-epicos</fanart>
-<link>https://</link>
+<externallink>IGNORAR</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]FILMES ÉPICOS[/B][/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<externallink>IGNORAR</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES ÉPICAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://</externallink>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]300[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2019/09/Rambo-750x380.jpg</fanart>
 <info>
-by LUMINART STUDIO
-FILMES ÉPICOS</info>
-</item>
+COLEÇÃO RAMBO COMPLETA</info>
+<genre>AÇÃO</genre>
 
 <item>
 <title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
