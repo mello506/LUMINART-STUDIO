@@ -14,9 +14,9 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
-<fanart>http://bit.do/fanartnavegacao</fanart>
 <info></info>
 </channel>
 </channels>
