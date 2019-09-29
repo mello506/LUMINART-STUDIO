@@ -17,7 +17,37 @@
 by LUMINART STUDIO
 OS MELHORES FILMES DE ANIMAÇÃO</info>
 </item>
- 
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/iconesubcat-animacao</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE ANIMAÇÃO[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/iconesubcat-animacao</fanart>
+<info>
+OS MELHORES FILMES DE ANIMAÇÃO ESTÃO AQUI</info>
+<genre>ANIMAÇÃO</genre>
+
 <item>
 <title>[COLOR lime]CASA MONSTRO - 2006 - FHD - DUBLADO [/COLOR]</title>
 <thumbnail>https://http2.mlstatic.com/dvd-filme-a-casa-monstro-dubladolacrado-D_NQ_NP_9797-MLB20020974607_122013-F.jpg</thumbnail>
@@ -28,3 +58,25 @@ Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destru
 a crianças inocentes.</info>
 </item>
 <item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>ÉPICOS</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/iconesubcat-animacao</fanart>
+<externallink>LINK PARA PAGE DE COLEÇÕES DE FILMES DE ANIMAÇÃO</externallink>
+<info>
+COLEÇÕES DE FILMES DE ANIMAÇÃO</info>
+<genre>ANIMAÇÃO</genre>
+
