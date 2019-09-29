@@ -147,10 +147,44 @@ Ano 120 AC. Vinte anos se passaram sem que ninguém soubesse explicar o desapare
 <item>
 <title>[COLOR lime]REI ARTUR - 2004 - 720 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf2qt8KHzmqqd7mIXz75osD5o04.jpg</thumbnail>
-<fanart>FANART</fanart>
+<fanart>https://image.tmdb.org/t/p/original/r0vSKooy7FjFQtMJ1fBF46Q05Nj.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1HwF5JtxwiuEbjeYgN1xW-it5borBoubX/view</link>
 <info>
 Arthur é um líder relutante, que deseja deixar a Bretanha e retornar a Roma para viver em paz. Porém, antes que possa realizar esta viagem, ele parte em missão ao lado dos Cavaleiros da Távola Redonda, formado por Lancelot, Galahad, Bors, Tristan e Gawain. Nesta missão Arthur toma consciência de que, quando Roma cair, a Bretanha precisará de alguém que guie a ilha aos novos tempos e a defenda das ameaças externas. Com a orientação de Merlin e o apoio da corajosa Guinevere ao seu lado, Arthur decide permanecer no país para liderá-lo.</info>
 <genre>ÉPICOS</genre>
 </item>
+
+<item>
+<title>[COLOR lime]EL CID - 1961 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/2CKcPo2M9pejF3Vi7PBHPVw5Eei.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n7R8fy38YSfLxvbNZypisunWmxt.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QeuVnitCQzJ1rUilDNKBC4lg_GJvU9gr/view</link>
+<info>
+Filme épico sobre o lendário herói espanhol Rodrigo Diaz de Bivar, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.</info>
+<genre>ÉPICOS</genre>
+</item>
+
+<item>
+<title>[COLOR lime]ALEXANDRE - 2004 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/kpRUmUIH24ZAObmxYT2PMODfUBE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1GeGuLB2-r2HBOZ9ItV2P9Qpof6nOhVpx/view</link>
+<info>
+Um dos grandes momentos da história da humanidade em uma jornada selvagem, memorável e de tirar o fôlego.o Grande Alexandre que no quarto século antes de Cristo havia conquistado a Grécia, a Pérsia, o Afeganistão e a Índia - ou seja, 90% do Mundo Conhecido até então. Mesmo tendo enfrentado grandes exércitos e elefantes, ele nunca perdeu uma batalha! Visionário, explorador e sonhador, também um filho carinhoso, ferido pelo amor e pela ambição de sua mãe e pela eterna necessidade de seu pai.</info>
+<genre>ÉPICOS</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>ÉPICOS</genre>
+</item>
+
