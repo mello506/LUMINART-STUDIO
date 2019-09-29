@@ -38,15 +38,6 @@ TEXTO</info>
 COLEÇÃO 300 COMPLETA</info>
 <genre>ÉPICOS</genre>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]FILMES[/B][/COLOR] </name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<info>
-TEXTO</info>
-<genre>ÉPICOS</genre>
-
 <item>
 <title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://media.fstatic.com/1ESZOvt8wkytAHsPO47R-SLTm3I=/fit-in/290x478/smart/media/movies/covers/2016/03/coracao-valente_t355_GbkVfnO.jpg</thumbnail>
@@ -56,6 +47,16 @@ https://drive.google.com/file/d/1WDKKePtfmmaOuN3Qb2k92oKXIdN2Y8E3/view</link>
 <info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICO</genre> 
 </item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+TEXTO</info>
+<genre>ÉPICOS</genre>
 
 <item>
 <title>[COLOR lime]CORAÇÃO VALENTE - 1995 - 1080 - DUB[/COLOR]</title>
