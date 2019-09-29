@@ -1,23 +1,33 @@
-<item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B]WESTERN[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
-<link>https://</link>
+<channels>
+<channel>
+<name>[COLOR blue][B]WESTERN[/B][/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE WESTERN[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
 <info>
-by LUMINART STUDIO
-FILMES DE WESTERN</info>
-</item>
- 
+OS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre>
+
 <item>
 <title>[COLOR lime]TRÊS HOMENS EM CONFLITO - 1966 - HD - DUB[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/originals/98/f1/b4/98f1b4a4ef0ef99964d17caa8fc937fa.jpg</thumbnail>
@@ -60,3 +70,14 @@ LINK PARA O FILME NO GOOGLE DRIVE</link>
 TEXTO DE SINOPSE</info>
 <genre>WESTERN</genre>
 </item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE WESTERN[/B][/COLOR] </name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1C1-%20COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20WESTERN</externallink>
+<info>
+COLEÇÕES DE FILMES DE WESTERN</info>
+<genre>WESTERN</genre>
+
