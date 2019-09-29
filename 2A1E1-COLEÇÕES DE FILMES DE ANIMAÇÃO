@@ -14,50 +14,36 @@
 <channels>
 <channel>
 <name>[COLOR blue][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>http://bit.do/iconesubcat-animacao</fanart>
 <externallink>NOLINK</externallink>
 </channel>
 </channels>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]ERA DO GELO[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART DE ANIMAÇÃO</fanart>
-<info>
-COLEÇÃO XXXXXXX COMPLETA</info>
-<genre>ANIMAÇÃO</genre>
-
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-
-<channels></channels>
-<channel>
 <name>[COLOR lime]TOY STORY[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART DE ANIMAÇÃO</fanart>
+<fanart>FANART</fanart>
 <info>
-COLEÇÃO XXXXXXX COMPLETA</info>
+COLEÇÃO TOY STORY COMPLETA</info>
 <genre>ANIMAÇÃO</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080- DUB LEG [/COLOR]</title>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
+LINK DO FILME NO G DRIVE</link>
 <info>
 TEXTO DE SINOPSE</info>
 <genre>ANIMAÇÃO</genre>
 </item>
+ 
+
+
+
+
+
 
 
