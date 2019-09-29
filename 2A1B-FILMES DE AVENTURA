@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR lime][B]FILMES DE AVENTURAS[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<fanart>http://bit.do/fanartsubcat-aventura</fanart>
 <info>
 OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
 <genre>AVENTURAS</genre>
@@ -49,17 +49,6 @@ https://drive.google.com/file/d/1mhPAlQG1JsjjAXSgIRBv_pKJqnqjxIhK/view</link>
 <item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA -  SD 720 1080 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO FILME NO G-DRIVE</link>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<info>TEXTO DE SINOPSE </info>
-</item>
-<item>
-
-
-<item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
@@ -74,7 +63,7 @@ TEXTO DE SINOPSE</info>
 <channel>
 <name>[COLOR lime][B]COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR] </name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART DE FILMES DE AVENTURAS</fanart>
+<fanart>http://bit.do/fanartsubcat-aventura</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1C-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20AVENTURA</externallink>
 <info>
 COLEÇÕES DE FILMES DE AVENTURAS</info>
