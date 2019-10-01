@@ -1,21 +1,31 @@
-<item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]SCOOBY DOO[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jaj4WYcUENGvn4A6CzKh0h1Yo3z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jBWrRPuIdftrxYt4tCcyktgdQIC.jpg</fanart>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]SCOOBY DOO CADÊ VOCÊ - 1ª TEMPORADA[/B][/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/original/jaj4WYcUENGvn4A6CzKh0h1Yo3z.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jBWrRPuIdftrxYt4tCcyktgdQIC.jpg/fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1E1-%20COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20WESTERN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jBWrRPuIdftrxYt4tCcyktgdQIC.jpg</fanart>
 <info>
-1ª TEMPORADA</info>
+OS FANTASMAS QUE SE CUIDEM</info>
 <genre>DESENHOS</genre>
 
 <item>
