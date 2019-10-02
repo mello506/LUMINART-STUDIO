@@ -13,7 +13,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]JONNY QUEST - 1ª TEMPORADA[/B][/COLOR] </name>
+<name>[COLOR lime][B]JONNY QUEST - 1ª TEMPORADA - 1964 - SD - DUB[/B][/COLOR] </name>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
 <fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
 <info>
@@ -21,7 +21,40 @@ AVENTURAS E MISTÉRIOS COM NUNCA VISTOS</info>
 <genre>DESENHOS</genre>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP01 - O.Mistério.dos.Homens-Lagartos.1964.1080P.dub[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP01 - O Mistério dos Homens-Lagartos.[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1kaYMzPRZpI93--FQ-x6ka47M5riCA75r/view</link>
+<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
+<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
+<info>JONNY QUEST - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]JONNY QUEST -> T01EP02 - O Foguete Desaparecido.[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YgJAJ3T1zsUaFNL59Ua7F7SE-aLLQE9n/view</link>
+<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
+<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
+<info>JONNY QUEST - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]JONNY QUEST -> T01EP03 - A Maldição de Anubis[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QbEttTSyY4ocKaQPRbnlh_gl0jWnOm5i/view</link>
+<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
+<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
+<info>JONNY QUEST - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]JONNY QUEST -> T01EP04 - Ao soar dos tambores.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -32,18 +65,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP02[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1SfIQWAcpN1TVmrZzWqomW6tcCi_79Q3O/view</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP03[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP05 - O Enigma.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -54,7 +76,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP04[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP06 - O Tesouro do Templo.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -65,7 +87,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP05[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP07 - Aventura em Calcutá.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -76,7 +98,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP06[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP08 - O Robô Espião.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -87,7 +109,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP07[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP09 - O Tesouro do Templo.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -98,7 +120,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP08[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP10 - A Sombra do Condor.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -109,7 +131,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP09[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP11 - O Tesouro.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -120,7 +142,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP10[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP12 - Magia Negra.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -131,7 +153,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP11[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP13 - Os Pigmeus.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -142,7 +164,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP12[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP14 - Os Dragões de Ashida.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -153,7 +175,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP13[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP15 - Turu, o Terrível.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -164,7 +186,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP14[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP16 - O Vulcão do Dr – Zin.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -175,7 +197,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP15[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP17 - O Lobisomem.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -186,7 +208,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP16[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP18 - Piratas Submarinos.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -197,7 +219,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP17[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP19 - O Rapto.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -208,7 +230,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP18[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP20 - O Monstro Invisível.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -219,7 +241,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP19[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP21 - África Misteriosa.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -230,7 +252,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP20[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP22 -  A Lagoa Envenenada.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -241,7 +263,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP21[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP23 - A Casa dos Sete Gárgulas.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -252,7 +274,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP22[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP24 - A Ilha do Terror.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -263,7 +285,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP23[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP25 - O Abominável Homem das Neves.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -274,7 +296,7 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]JONNY QUEST -> T01EP24[/COLOR]</title>
+<title>[COLOR lime]JONNY QUEST -> T01EP26 - O Monstro do Mar de Java.[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O JONNY QUEST NO DRIVE</link>
 <thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
@@ -284,101 +306,3 @@ LINK PARA O JONNY QUEST NO DRIVE</link>
 </item>
 <item>
 
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP25[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP26[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP27[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP28[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP29[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP30[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP31[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP32[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]JONNY QUEST -> T01EP33[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O JONNY QUEST NO DRIVE</link>
-<thumbnail>https://pbs.twimg.com/media/CrErtcZUsAA8M9s.jpg</thumbnail>
-<fanart>https://catracalivre.com.br/wp-content/uploads/sites/14/2015/05/j.jpg</fanart>
-<info>JONNY QUEST - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
