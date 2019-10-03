@@ -127,11 +127,26 @@ os socorristas - são os primeiros a chegar ao local. </info>
 </item>
 
 <item>
-<title>[COLOR red]A IRMANDADE DA GUERRA - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR lime]A IRMANDADE DA GUERRA - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrqKnJB19HRGZntpn0SP8ap6xDk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/66qO1fhZZsRE9qGCVSoeC8lGl0F.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1rmREGQbZWCWVaeWV1zcEu0c_EW6XkaP8/view</link>
-<info>
-Jin-tae, um sapateiro, trabalha incansavelmente para poder pagar a faculdade de seu irmão mais novo Jin-seok, entretanto, seus desejos e sonhos são colocados de lado quando os dois são forçados a entrar no exército contra suas vontades. No momento crucial da batalha, o destino intervém, forçando seus laços de fé, amor e confiança a serem testados diversas vezes.</info>
+<info>Jin-tae, um sapateiro, trabalha incansavelmente para poder pagar a faculdade de seu irmão mais novo Jin-seok,
+entretanto, seus desejos e sonhos são colocados de lado quando os dois são forçados a entrar no exército contra suas vontades.
+No momento crucial da batalha, o destino intervém, forçando seus laços de fé, amor e confiança a serem testados diversas vezes.
+</info>
+</item>
+
+<item>
+<title>[COLOR lime]A FALCÃO NEGRO EM PERIGO - ANO - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/wdBR7fbnzYQBP5dRbhOemxvT2fy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6zggRenI1WCEKWQQ6mZYX925wMt.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/12DnjSxKl-dhi7bIaciVERFLM66CeMPYB/view</link>
+<info>Em outubro de 1993, os Estados Unidos enviaram um grande contingente de soldados para a Somália. Em uma de suas missões,
+cerca de 100 soldados são enviados para capturar dois generais somalianos mas a operação, que deveria durar em torno de uma hora, 
+passa por complicações quando dois helicópteros Black Hawk são abatidos por atiradores do exército local. A partir de
+então tem início um grande conflito entre os soldados americanos e o exército local, que resulta em uma batalha de 15 
+horas e centenas de mortes.</info>
 </item>
