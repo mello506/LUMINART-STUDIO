@@ -25,7 +25,9 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1iSx4oI2FXXAD-FtU5BnzTatzeSq1gay9/view</link>
 <info>Descrição
-Acompanhe a história de Desmond T. Doss,um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas.Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.</info>
+Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, 
+se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar
+um tiro.</info>
 <genre>2ª GUERRA</genre>
 </item>
 
@@ -108,11 +110,11 @@ https://drive.google.com/file/d/1D0ZSOHLteocnLIhNaYGlbYSQMsb8TgvB/view</link>
 <item>
 
 <item>
-<title>[COLOR red]DUNKIRK - 2017  - 1080 - DUB[/COLOR]</title>
+<title>[COLOR lime]DUNKIRK - 2017  - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://cinetarioblogdotcom.files.wordpress.com/2017/08/cartel-mc3a1s-espectacular-de-dunkerque.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-kzQ4_OFTRhM/WQ8qAp1OlXI/AAAAAAAACF0/j1Ksv05w2IcFB-KlGrZDtWb2jpyrTQhxgCLcB/s1600/dunkirk_1.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/14PybYy-vhOaQeGH857S_3_ZAPjvXsAFA/view</link>
+https://drive.google.com/file/d/1APmSulAPgxjAyxRnFJy6-106JN2P9Lge/view</link>
 <info>Durante a Segunda Guerra Mundial, a Alemanha avança rumo à França e cerca as tropas aliadas nas praias de Dunkirk. Sob cobertura aérea e terrestre das forças britânicas e francesas, as tropas são lentamente evacuadas da praia.</info>
 <genre>2ª GUERRA</genre>
 </item>
@@ -162,6 +164,17 @@ Um novo e tecnologicamente superior submarino nuclear, o Outubro Vermelho, está
 https://drive.google.com/file/d/1YtR7HKK4zg_dAbH-yFsG6IC3lTqY14L7/view</link>
 <info>
 Na Segunda Guerra Mundial, na Alemanha, um soldado americano promovido contra sua vontade, aprende o significado de coragem, sobrevivência e moralidade.</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]CONPANHIA DE HERÓIS - 2013 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Li77cVkYARQtzWqcED0gtHnebd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yXHqInRL2CHIYlhxF7PA38PHEhl.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/19D6ZElknbtlvwW9hBH6ZYrk0tAm3BxbA/view</link>
+<info>
+Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.</info>
 <genre>GUERRA</genre>
 </item>
 
