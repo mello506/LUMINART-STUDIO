@@ -95,6 +95,51 @@ perigosas e delirantes figuras de ação. Cabe a Trixie ajudar seus amigos a vol
 <genre>ANIMAÇÃO</genre>
 </item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]CARROS[/COLOR]</name>
+<thumbnail>http://s3.amazonaws.com/img.iluria.com/product/55DC0F/D10F9B/450xN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bKr8bAMQkcWtwKv9RS4ARAYwPJQ.jpg</fanart>
+<info>
+COLEÇÃO CARROS COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]CARROS.1 - 2006 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1K8KKE_b2drhMU9H04ae-7qkaHmpASC_Q/view</link>
+<info>Sensação da temporada da Copa do Pistão, o estreante Relâmpago McQueen aproveita a fama e as glórias de suas vitórias.
+Até o dia em que, no caminho para a corrida mais importante de sua vida, perde-se no meio da estrada. Em Radiator Springs,
+uma esquecida cidadezinha da velha Rota 66, que o ajudam a descobrir que há coisas mais importantes na vida do que troféus e
+fama. Com uma trilha sonora sensacional e bônus alucinantes, incluindo um exclusivo curta animado Mate e a Luz Fantasma,
+Carros é garantia de diversão a toda velocidade.</info>
+<genre>ANIMAÇÃO</genre>
+</item
+
+<item>
+<title>[COLOR lime]CARROS.2 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Carros_p%C3%B4ster.jpg/250px-Carros_p%C3%B4ster.jpg</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>ANIMAÇÃO</genre>
+</item
+
+<item>
+<title>[COLOR lime]CARROS.3 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Carros_p%C3%B4ster.jpg/250px-Carros_p%C3%B4ster.jpg</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>ANIMAÇÃO</genre>
+</item
+
 
 <channels></channels>
 <channel>
