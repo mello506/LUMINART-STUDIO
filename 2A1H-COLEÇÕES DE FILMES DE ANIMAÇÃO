@@ -145,20 +145,62 @@ eles partem para a maior aventura de suas vidas. O teste final do campeão será
 <channels></channels>
 <channel>
 <name>[COLOR lime]ERA DO GELO[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>https://i.ytimg.com/vi/yoFY4i13RDI/maxresdefault.jpg</fanart>
+<thumbnail>https://i.pinimg.com/236x/ae/44/c0/ae44c099d47616210ee39b5135bf162a.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vPotRRx8kdDu7CkFovXovgnfiN4.jpg</fanart>
 <info>
 COLEÇÃO ERA DO GELO COMPLETA</info>
-<genre>ÉPICOS</genre>
+<genre>ANIMAÇÃO</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]ERA DO GELO 1 - 2002 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecjXYFzc11nhGO0JqYunBBOfK8v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1XPQ_dDMKN6aLHSXnSCRvmKzlGROSmMy_/view</link>
+<info>O mamute Manny,o tigre de dente de sabre Diego e a preguiça-gigante Sid são amigos em uma época muito distante dos dias 
+atuais e vivem suas vidas em meio a muito gelo. Até o dia em que eles encontram um menino esquimó totalmente sozinho,
+longe de seus pais, e decidem que precisam ajudá-lo a achar a sua família. Enquanto isso, o esquilo pré-histórico Scrat 
+segue na sua saga para manter sua amada noz protegida de outros predadores.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]ERA DO GELO 2 - 2006 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SNlGmwnpGMYGjc5kZG9ValLpkW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO G DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
+<info>A era glacial está chegando ao fim e como consequência surgem em todo lugar gêiseres e verdadeiros parques aquáticos.
+O mamute Manfred, o tigre Diego e o bicho-preguiça Sid logo descobrem que toneladas de gelo estão prestes a derreter,
+o que inundaria o vale em que vivem. Logo, o trio de amigos precisa correr para avisar a todos do perigo e ainda encontrar 
+um local em que não corram riscos.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]ERA DO GELO 3 - 2009 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kfpCRiFbzjAkShZXFQTA2ORhDS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1lXhppR9qqF5xezLhzh10Qw0gz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>Manny e Ellie estão à espera de seu primeiro filho. Sid encontra alguns ovos de dinossauro,
+o que faz com que passe a ter sua própria família adotiva. Só que o roubo faz com que se meta em apuros, com a mãe 
+tiranossauro vindo atrás de seus rebentos. Ela leva os três filhotes e ainda Sid para um mundo subterrâneo, onde os 
+dinossauros ainda existem, o que obriga Manny, Ellie e Diego a irem em sua busca para resgatá-lo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]ERA DO GELO 4 - 2012 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/mrLTs9yt2nQHdz7Qmn9QxgnO1CV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tZGKKeWGejt63jiSdi7MTAjCFE9.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes.
+A situação provoca mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Siid estão alojados.
+Um terremoto faz com que o trio fique preso em um iceberg, enquanto que Ellie e a pequena Amora permanecem no continente. 
+Em alto mar, Manny promete que irá encontrá-las a qualquer custo, mas para tanto precisará enfrentar perigosos piratas
+e o canto das sereias.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
 
