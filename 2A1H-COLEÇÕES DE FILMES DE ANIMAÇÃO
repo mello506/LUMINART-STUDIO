@@ -47,13 +47,13 @@ aventura para regressarem a casa.</info>
 </item>
 
 <item>
-<title>[COLOR lime]TOY STORY 2 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]TOY STORY 2 - 1999 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/vKMLbN1tWu4FK2B7Aw4BCjVd0RT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE</link>
+https://drive.google.com/file/d/1k3kQ4UHTX6czpme80PZ4mEWBnbTCPgeE/view</link>
 <info>
-TEXTO DE SINOPSE</info>
+Enquanto Andy está no acampamento de férias, um ganancioso colecionador de brinquedos rapta Woody. Antes que se possa dizer "ao infinito e além", Buzz Lightyear, o Sr. Cabeça de Batata, o Porquinho, Rex e Slinky entram em ação, numa missão de resgate.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
 
@@ -74,13 +74,23 @@ crianças para brincarem com eles.</info>
 </item>
 
 <item>
-<title>[COLOR lime]TOY STORY 4 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]TOY STORY 4 - 2019 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/AcEEuMoUl8MNoqQx7RkXLMWXBpx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m67smI1IIMmYzCl9axvKNULVKLr.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO G DRIVE</link>
 <info>
-TEXTO DE SINOPSE</info>
+Woody, Buzz, Jesse e toda a turma vivem felizes, agora como brinquedos da pequena Bonnie. Entretanto, a chegada de um garfo transformado em brinquedo, Forky, faz com que a calmaria reinante chegue ao fim, justamente porque ele não se aceita como brinquedo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TOY STORY DE TERROR- 2013 - SD - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT8krQxRoioNk2KabSYuIf2yuaC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fFYzHx4tN6cSVgWcFcfJI42KOpN.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1XdNg_3Mizfu1yGi_MNdqbFSaQeD5W5WS/view</link>
+<info>Os brinquedos partem em uma viagem juntamente com Bonnie, mas um evento inesperado faz com que todos parem em um hotel de beira de estrada. Quando um dos brinquedos simplesmente desaparece, Woody, Buzz e toda a turma precisam enfrentar o medo do desconhecido para encontrá-lo.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
 
