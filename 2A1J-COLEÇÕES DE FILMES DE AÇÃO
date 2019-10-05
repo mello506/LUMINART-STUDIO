@@ -1,0 +1,44 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>NOLINK</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<fanart>http://bit.do/subcatfanart-acao</fanart>
+<externallink>NOLINK</externallink>
+<info>
+SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>AÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>AÇÃO</genre>
+</item>
+
