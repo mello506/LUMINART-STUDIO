@@ -266,3 +266,42 @@ LINK PARA O FILME NO G DRIVE</link>
 <genre>ANIMAÇÃO</genre>
 </item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]KUNG FU PANDA[/COLOR]</name>
+<thumbnail>https://caicaras.com.br/wp-content/uploads/2019/04/po-kung-fu-panda.jpg</thumbnail>
+<fanart>http://papelarrozkantinhodobolo.com.br/wp-content/uploads/2017/08/2-62.jpg</fanart>
+<info>
+COLEÇÃO OS KUNG FU PANDA COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]KUNG FU PANDA 1 - 2008 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/2Paj1nufT0jeSY0G4u3RC31HIGT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/UJwhgwAxU42cm9XKncO9boFAEV.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1PwohT-5HFdcuyOk_Sa31GSru50ZgXQ6J/view</link>
+<info>Po é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu, Garça, Tigresa, Louva-deus, Macaco e Víbora. Quando o traiçoeiro leopardo da neve Tai Lung retorna, cabe a Po defender o Vale da Paz.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]KUNG FU PANDA 2 - 2011 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://cloud.filmfed.com/movies/posters/l_e28f8436-8d80-4aae-8483-ab336ee5369b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mD7SXDFQMMENfLKw9ejW8pvmjC7.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AKzuQipVz9VLj-adAfktiobZrw2es3MY/view</link>
+<info>Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]KUNG FU PANDA 3 - 2016 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/ws4sgGi3fo1Bed3fWqxrzSsLa8R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QBPxyRaJowdzEnyC_lXi46oHkuKURHbe/view</link>
+<info>Desta vez, Mestre Shifu tem como principal ensinamento fazer com que Po aprenda a técnica de dominação do Chi, uma espécie de “energia vital”. Porém, o atrapalhado panda acaba se desconcentrando com a chegada do pai de sangue, o panda Li, que o carrega para a vila secreta dos pandas – aguçando o ciúme do Sr Ping, o “pai” ganso de Po. Em paralelo, o poderoso touro Kai, O Coletor, um centenário inimigo do Mestre Oogway, reúne forças para voltar para o mundo dos vivos e tomar o que ele acha que é dele por direito. Caberá a Po e seus amigos impedir o maléfico plano do vilão.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
