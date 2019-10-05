@@ -35,6 +35,18 @@ BATALHAS E COMBATES É AQUI</info>
 
 <channels>
 <channel>
+<name>[COLOR lime][B]AÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1E-FILMES%20DE%20ANIMAC%C3%83O</externallink>
+<fanart>http://bit.do/subcatfanart-acao</fanart>
+<info>
+SEGURE-SE NA POLTRONA POIS É PANCADARAIA E TIROTEIO</info>
+<genre>FILMES DE AÇÃO</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime][B]AVENTURA[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1B-FILMES%20DE%20AVENTURA</externallink>
