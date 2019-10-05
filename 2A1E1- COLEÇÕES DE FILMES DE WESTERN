@@ -22,11 +22,40 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]JOVENS DEMAIS PARA MORRER[/COLOR]</name>
+<name>[COLOR lime]COLEÇÃO SERGIO LEONE[/COLOR]</name>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_939112-MLB26632187581_012018-W.jpg</thumbnail>
+<fanart>https://www.befan.it/wp-content/uploads/2014/10/cera-una-volta-in-italia-torino-con-una-mostra-celebra-leone-e-gli-spaghetti-western.png</fanart>
+<info>
+COLEÇÃO SERGIO LEONE COMPLETA</info>
+<genre>WESTERN/genre>
+
+<item>
+<title>[COLOR lime]TRÊS HOMENS EM CONFLITO - 1966 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/98/f1/b4/98f1b4a4ef0ef99964d17caa8fc937fa.jpg</thumbnail>
+<fanart>http://centralhqs.com/wp-content/uploads/2017/03/9669b_il-buono-il-brutto-il-cattivo-visore-1440x764_c.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1xUS0w7DkEfTm4E8skw0R-M5yQb1e-T_x/view?usp=drivesdk</link>
+<info>Na Guerra Civil Americana, um pistoleiro misterioso e dois estrangeiros juntam suas forças para encontrar um grande tesouro. Cada um conhece apenas uma parte da localização da fortuna.Mas nenhum quer dividir a riqueza..</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]POR UNS DÓLARES A MAIS - 1965 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/xFWkjdblpSOULhv7hP0XHMVxonn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/f61COvOzOOIwx7whPl5Yj78s9gY.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1e1vA5v2cztf0JdDyye95VSEmKpXLRSNV/view</link>
+<info>Manco é um astuto caçador de recompensas, que perambula pelas cidades do velho oeste americano em busca de um novo alvo. Ele o encontra quando vê o cartaz de procurado de Indio, um perigoso bandido que também está sendo procurado pelo coronel Douglas Mortimer, outro caçador de recompensas. Os dois partem no encalço de Indio mas, sem conseguir capturar o bandido nem eliminar o rival, eles precisam decidir entre unir forças ou serem eliminados pela gangue de Indio.</info>
+</item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
 <info>
-COLEÇÃO JOVENS DEMAIS PARA MORRER COMPLETA</info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
 <genre>WESTERN/genre>
 
 <item>
