@@ -254,7 +254,7 @@ verdadeiro tenente que tomou a frente, e pede a condecoração da Cruz de Ferro 
 </item>
 
 <item>
-<title>[COLOR lime]AGONIA E GLÓRIA  - 1980 - 720- LEG[/COLOR]</title>
+<title>[COLOR lime]AGONIA E GLÓRIA  - 1980 - 720 - LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/kHoZoGUwJN8oqgaoWF5SKEOibdF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lxog0YcFYkA7WXyKkx8uP205Ih1.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -267,22 +267,25 @@ Tchecoslováquia, onde enfrentam o verdadeiro horror da guerra.</info>
 </item>
 
 <item>
-<title>TITULO</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
+<title>A PONTE DE REMAGEN - 1969 - 1080 - LEG</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbJtJSbhcuqRg6lDmWuEdiK2dn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/50HIP1W0G6RO5CwKdDj7aXzJ0qe.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE?usp=drivesdk</link>
-<info>SINOPE</info>
+https://drive.google.com/file/d/1oLQ1UcsDrc4nFrbPMg_ruTSePQthwLbS/view</link>
+<info>À medida que os exércitos aliados se aproximam, os nazistas decidem explodir a última ponte do Reno, deixando seus próprios homens no lado errado rio. Será que isso vai acontecer? Em março de 1945, quando a Guerra na Europa está chegando ao fim, o Exército Aliado procurou desesperadamente uma ponte sobre o impenetrável rio Reno, para lançar um grande ataque no centro da Alemanha. "A Ponte de Remagem" conta a verdadeira história da batalha por esta última cabeça de ponte, tanto da perspectiva alemã como americana.
+</info>
 <genre>GUERRA</genre>
 </item>
 
 <item>
-<title>TITULO</title>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080- DUB LEG [/COLOR]</title>
 <thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
+<fanart>FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE?usp=drivesdk</link>
-<info>SINOPE</info>
-<genre>GUERRA</genre>
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>GÊNERO DO FILME</genre>
 </item>
+
 
