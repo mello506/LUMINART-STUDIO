@@ -59,10 +59,10 @@ https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
 </item>
 
 <item>
-<title>[COLOR lime]TESTE 3[/COLOR]</title>
+<title>[COLOR lime]TESTE 4[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQYMVoI9QE2wQCOSrxhiBYd4v0w.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zlWu2lQj7bEa3hlMSQpXzc9tbtA.jpg</fanart>
-<link>LINK 1?plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/193hjT3ipT5tBv4Tz3II7EtKtZI-1t_V0/view</link>
