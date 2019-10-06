@@ -266,3 +266,23 @@ Tchecoslováquia, onde enfrentam o verdadeiro horror da guerra.</info>
 <genre>GUERRA</genre>
 </item>
 
+<item>
+<title>TITULO</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE?usp=drivesdk</link>
+<info>SINOPE</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
+<title>TITULO</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE?usp=drivesdk</link>
+<info>SINOPE</info>
+<genre>GUERRA</genre>
+</item>
+
