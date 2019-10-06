@@ -61,14 +61,15 @@ Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenc
 
 <item>
 <title>TESTE DOIS LINKS</title>
-<link>plugin://1080 DUBLADO?mode=streamURL&amp;url=
-https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
-<link>plugin://SD DUBLADO?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1F78QZ4LghofqKsR-E40yJXjdNB-q950I/view</link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view<$$lsname=[COLOR lime]HD[/COLOR] - 1080 DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1F78QZ4LghofqKsR-E40yJXjdNB-q950I/view$$lsname=[COLOR red]HD[/COLOR] - SD DUBLADO</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - REDE CANAIS</link
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
+<genre>AVENTURA</genre>
 </item>
 
 <item>
