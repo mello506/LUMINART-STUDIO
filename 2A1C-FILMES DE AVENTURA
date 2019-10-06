@@ -70,6 +70,16 @@ https://drive.google.com/file/d/193hjT3ipT5tBv4Tz3II7EtKtZI-1t_V0/view</link>
 <genre>AVENTURA</genre>
 </item>
 
+<item>
+<title>TITULO2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/193hjT3ipT5tBv4Tz3II7EtKtZI-1t_V0/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
 
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
