@@ -61,7 +61,7 @@ Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenc
 
 <item>
 <title>[COLOR lime]KING KONG - 2005 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI<name>=[COLOR orange]HD[/COLOR] - LINK 1</name></link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
 <link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
 <thumbnail>ICONE</thumbnail>
