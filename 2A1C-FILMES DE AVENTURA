@@ -60,9 +60,9 @@ Nova York, 1933. Um produtor de cinema excessivamente ambicioso, coage seu elenc
 </item>
 
 <item>
-<title>[COLOR lime]KING KONG - 2005 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI<name>=[COLOR orange]HD[/COLOR] - LINK 1</name></link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<title>[COLOR lime]KING KONG 2- 2005 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view$$lsname=[COLOR lime]1080 DUB[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR lime]SD DUB[/COLOR] - https://drive.google.com/file/d/1F78QZ4LghofqKsR-E40yJXjdNB-q950I/view</link>
 <link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
