@@ -85,3 +85,14 @@ DIVERSÃO GARANTIDA</info>
 SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]TESTE TRES LINKS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<fanart>http://bit.do/subcatfanart-acao</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/TESTE%20TRES%20LINKS</externallink>
+<info>
+SEGURE-SE </info>
+</channel>
+</channels>
