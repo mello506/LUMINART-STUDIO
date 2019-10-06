@@ -73,6 +73,16 @@ https://drive.google.com/file/d/1F78QZ4LghofqKsR-E40yJXjdNB-q950I/view$$lsname=[
 </item>
 
 <item>
+<title>TESTE 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR red]1080[/COLOR] - https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR red]SD[/COLOR] - https://drive.google.com/file/d/1F78QZ4LghofqKsR-E40yJXjdNB-q950I/view</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
+<item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
