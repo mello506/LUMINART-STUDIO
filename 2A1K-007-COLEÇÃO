@@ -1,28 +1,23 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR blue][B]007 - COLEÇÃO COMPLETA[/B][/COLOR] </name>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR blue][B]007 - COLEÇÃO COMPLETA[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
+<link>https://</link>
 <info>
 MUITA ESPIONAGEM E AÇÃO COM O CHARMOSO JAMES BOND</info>
-<genre>AÇÃO</genre>
-</channel>
-</channels>
-
+<genre>AÇÃO</genre>   
+</item>
 
 <item>
 <title>[COLOR lime]007 -> NOME DO FILME[/COLOR]</title>
