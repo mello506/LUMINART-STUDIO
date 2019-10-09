@@ -30,13 +30,12 @@
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR lime]T01EP01 -> Pilot - DATA -720 - DUB[/COLOR]</title>
+<title>[COLOR lime]T01EP01 -> PILOT - DATA -720 - DUB[/COLOR]</title>
 <thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
 <fanart>IMAGEM FANART DO EPISÓDIO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
-<info>
-TEXTO DE SINOPSE DO EPISÓDIO</info>
+<info>TEXTO DE SINOPSE DO EPISÓDIO</info>
 <genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
@@ -53,11 +52,11 @@ NADA AMEDRONTA ESSE REPÓRTER INVESTIGATIVO</info>
 <item>
 <title>[COLOR lime]TINTIN -> T01EP01- O Caranguejo das Tenazes de Ouro - 1[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1jPm4wGPzzoW0fRp06aZ2hIuDPKYnqE8t/view</link>
+https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 <thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
 <info>TINTIN - 1ª TEMPORADA</info>
-<genre>DESENHOS</genre>
+<genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
 
