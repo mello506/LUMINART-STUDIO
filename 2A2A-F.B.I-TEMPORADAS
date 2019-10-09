@@ -1,5 +1,4 @@
-<channels>
-<channel>
+<item>
 <name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
@@ -8,22 +7,18 @@
    [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
+<item>
 <name>[COLOR blue][B]NOME DA SÉRIE[/B][/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <externallink>NOLINK</externallink>
 <info>
 NOME DA SÉRIE + SÉRIE COMPLETA</info>
-</channel>
-</channels>
+</item>
 
-<channels></channels>
-<channel>
+<item>
 <name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
