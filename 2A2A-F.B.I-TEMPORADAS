@@ -3,7 +3,7 @@
 <name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>NOLINK</externallink>
+<externallink>https://</externallink>
 <info>
    [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -11,16 +11,15 @@
 </channel>
 </channels>
 
-<channels>
+<channels></channels>
 <channel>
-<name>[COLOR blue][B]F.B.I. TEMPORADAS[/B][/COLOR] </name>
+<name>[COLOR lime][B]F.B.I. TEMPORADAS[/B][/COLOR] </name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
-<externallink>NOLINK</externallink>
-<info>F.B.I. SÉRIE COMPLETA</info>
-<genre>AÇÃO</genre>
-</channel>
-</channels>
+<info>
+F.B.I. SÉRIE COMPLETA</info>
+<genre>DESENHOS</genre>
+
 
 <channels></channels>
 <channel>
