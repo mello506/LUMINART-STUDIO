@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name> [COLOR blue] [B]F.B.I. TEMPORADAS[/B][/COLOR] </name>
+<name>[COLOR blue][B]F.B.I. TEMPORADAS[/B][/COLOR] </name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <externallink>NOLINK</externallink>
@@ -24,7 +24,7 @@
 
 <channels></channels>
 <channel>
-<name> [COLOR lime] [B]1ª TEMPORADA[/B][/COLOR] </name>
+<name>[COLOR lime][B]1ª TEMPORADA[/B][/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA TEMPORADA</thumbnail>
 <fanart>IMAGEM FANART DA TEMPORADA</fanart>
 <externallink>LINK PARA PAGE</externallink>
