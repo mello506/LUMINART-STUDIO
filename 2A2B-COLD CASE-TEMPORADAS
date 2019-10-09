@@ -1,40 +1,46 @@
-<item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLD CASE - 1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
+<info>
+A JUSTIÇA TARDA MAS NÃO FALHA</info>
+<genre>DESENHOS</genre>
+
+<item>
+<title>[COLOR lime]T01EP01 -> NOME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
+<thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
+<info>F.B.I. - 1ª TEMPORADA</info>
+<genre>AÇÃO</genre>
 </item>
+<item>
 
-<channels>
-<channel>
-<name> [COLOR blue] [B]COLD CASE TEMPORADAS[/B][/COLOR] </name>
-<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
-<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
-<externallink>https://</externallink>
-<info></info>
-</channel>
-</channels>
+<item>
+<title>[COLOR red]T01EP01 -> NOME DO EPISÓDIO - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
+<info>F.B.I. - 1ª TEMPORADA</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
 
-<channels>
-<channel>
-<name>[COLOR red][B]1ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
-<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
-<externallink>https://</externallink>
-<info></info>
-</channel>
-</channels>
 
-<channels>
-<channel>
-<name>[COLOR red][B]2ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>https://i.imgur.com/KkBlshs.jpg</thumbnail>
-<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
-<externallink>https://</externallink>
-<info></info>
-</channel>
-</channels>
+
