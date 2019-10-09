@@ -23,25 +23,6 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]1ª TEMPORADA[/B][/COLOR]</name>
-<thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
-<info>Agentes de primeira classe usam todos os seus talentos, intelecto e perícia técnica para investigar tenazmente casos de tremenda magnitude, incluindo terrorismo, crime organizado e contrainteligência, para manter Nova York - e os EUA - em segurança.</info>
-<genre>AÇÃO</genre>
-
-<item>
-<title>[COLOR lime]T01EP01 -> PILOT - DATA -720 - DUB[/COLOR]</title>
-<thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
-<fanart>IMAGEM FANART DO EPISÓDIO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
-<info>TEXTO DE SINOPSE DO EPISÓDIO</info>
-<genre>GÊNERO DA SÉRIE</genre>
-</item>
-<item>
-
-<channels></channels>
-<channel>
 <name>[COLOR lime][B]TINTIN - 1ª TEMPORADA[/B][/COLOR] </name>
 <thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
