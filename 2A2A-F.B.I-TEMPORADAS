@@ -32,11 +32,11 @@
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR lime]T01EP01 -> NOME DO EPISÓDIO - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<title>[COLOR lime]T01EP01 -> Pilot - DATA -720 - DUB[/COLOR]</title>
 <thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
 <fanart>IMAGEM FANART DO EPISÓDIO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
+https://drive.google.com/file/d/1FrzReVpbRGuoQh8bGYfHY7wfgO2p8n8A/view</link>
 <info>
 TEXTO DE SINOPSE DO EPISÓDIO</info>
 <genre>GÊNERO DA SÉRIE</genre>
