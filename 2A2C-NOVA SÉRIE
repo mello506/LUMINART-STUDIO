@@ -1,0 +1,52 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]NOME DA SÉRIE - 1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<info>
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
+
+<item>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO EPISÓDIO NO G DRIVE</link>
+<info>NOME DA SÉRIE - 1ª TEMPORADA</info>
+<genre>GÊNERO DA SÉRIE</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]NOME DA SÉRIE - 1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<info>
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
+
+<item>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO EPISÓDIO NO G DRIVE</link>
+<info>NOME DA SÉRIE - 1ª TEMPORADA</info>
+<genre>GÊNERO DA SÉRIE</genre>
+</item>
+<item>
