@@ -29,6 +29,7 @@
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2A-F.B.I-TEMPORADAS</externallink>
 <info>
 O PODER DA INVESTIGAÇÃO AMERICANA </info>
+<genre>AÇÃO</genre>
 </channel>
 </channels>
 
@@ -40,6 +41,19 @@ O PODER DA INVESTIGAÇÃO AMERICANA </info>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2B-COLD%20CASE-TEMPORADAS</externallink>
 <info>
 A JUSTIÇA TARDA MAS NÃO FALHA </info>
+<genre>AÇÃO</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]NOVA SÉRIE[/COLOR]</name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2C-NOVA%20S%C3%89RIE</externallink>
+<info>
+DESCRIÇÃO DA SÉRIE </info>
+<genre>GÊNERO DA SÉRIE</genre>
 </channel>
 </channels>
 
