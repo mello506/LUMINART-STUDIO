@@ -14,7 +14,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR]</name>
+<name>[COLOR red]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
@@ -36,7 +36,7 @@ https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR]</name>
+<name>[COLOR red]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
