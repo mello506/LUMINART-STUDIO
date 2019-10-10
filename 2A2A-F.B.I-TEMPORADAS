@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]DICAS DE NAVEGGÊNERO DA SÉRIE[/B][/COLOR]</name>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <externallink>https://</externallink>
@@ -11,14 +11,16 @@
 </channel>
 </channels>
 
+
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR] </name>
+<name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
 DESCRIÇÃO DA SÉRIE</info>
 <genre>GÊNERO DA SÉRIE</genre>
+
 
 <item>
 <title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
@@ -31,14 +33,16 @@ LINK PARA O EPISÓDIO NO DRIVE</link>
 </item>
 <item>
 
+
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR] </name>
+<name>[COLOR lime]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
 <fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
 DESCRIÇÃO DA SÉRIE</info>
 <genre>GÊNERO DA SÉRIE</genre>
+
 
 <item>
 <title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
