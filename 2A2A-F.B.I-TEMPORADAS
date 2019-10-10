@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]DICAS DE NAVEGGÊNERO DA SÉRIE[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <externallink>https://</externallink>
@@ -13,64 +13,40 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]F.B.I. - 1ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
+<name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
-O PODER DA INVESTIGAÇÃO AMERICANA</info>
-<genre>AÇÃO</genre>
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
 
 <item>
-<title>[COLOR lime]F.B.I. -> T01EP01- PILOT[/COLOR]</title>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1jPm4wGPzzoW0fRp06aZ2hIuDPKYnqE8t/view</link>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
-<info>F.B.I. - 1ª TEMPORADA</info>
-<genre>AÇÃO</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]TINTIN -> T01EP02 - O Caranguejo das Tenazes de Ouro - 2 [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1FpAt8K_d82ePL7qb4xlRMAoHsFzI9V-1/view</link>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
-<info>SINOPSE DO EPISÓDIO</info>
-<genre>AÇÃO</genre>
+LINK PARA O EPISÓDIO NO DRIVE</link>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
+<genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]F.B.I. - 2ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
+<name>[COLOR lime]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
-O PODER DA INVESTIGAÇÃO AMERICANA</info>
-<genre>AÇÃO</genre>
-
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
 
 <item>
-<title>[COLOR lime]TINTIN -> T02EP01 - A Estrela Misteriosa[/COLOR]</title>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1yoO-3jDU1sbBCGh1IU3akVVbRsMUx6uq/view</link>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
-<info>TINTIN - 2ª TEMPORADA</info>
-<genre>DESENHOS</genre>
+LINK PARA O EPISÓDIO NO DRIVE</link>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
+<genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
-
-<item>
-<title>[COLOR lime]TINTIN -> T02EP02 - O Ídolo Roubado - 1[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1_GXHzK7BZcRuf0pyPSIRshhc0lX6K64i/view</link>
-<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
-<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
-<info>TINTIN - 2ª TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
