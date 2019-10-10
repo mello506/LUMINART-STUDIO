@@ -13,15 +13,15 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]COLD CASE - 1ª TEMPORADA[/B][/COLOR] </name>
+<name>[COLOR lime][B]F.B.I. - 1ª TEMPORADA[/B][/COLOR] </name>
 <thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
 <info>
-A JUSTIÇA TARDA MAS NÃO FALHA</info>
+O PODER DA INVESTIGAÇÃO AMERICANA</info>
 <genre>DESENHOS</genre>
 
 <item>
-<title>[COLOR lime]T01EP01 -> NOME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<title>[COLOR lime]T01EP01 -> PILOT - DATA - 720- DUB[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 <thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
@@ -32,11 +32,11 @@ https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 <item>
 
 <item>
-<title>[COLOR red]T01EP01 -> NOME DO EPISÓDIO - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<title>[COLOR red]T01EP01 -> PÁSSAROS VERDES - DATA -720 - DUB[/COLOR]</title>
 <thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
 <fanart>IMAGEM FANART DO EPISÓDIO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
+https://drive.google.com/file/d/1CEt3KkCMEb8vhoG8yOkdTRXyyVT_YYuu/view</link>
 <info>F.B.I. - 1ª TEMPORADA</info>
 <genre>AÇÃO</genre>
 </item>
