@@ -11,46 +11,461 @@
 </channel>
 </channels>
 
-
 <channels></channels>
 <channel>
-<name>[COLOR red]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR]</name>
-<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
-<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<name>[COLOR lime][B]TINTIN - 1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
 <info>
-DESCRIÇÃO DA SÉRIE</info>
-<genre>GÊNERO DA SÉRIE</genre>
-
+NADA AMEDRONTA ESSE REPÓRTER INVESTIGATIVO</info>
+<genre>DESENHOS</genre>
 
 <item>
-<title>[COLOR lime]NOME DA SÉRIE - T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<title>[COLOR lime]TINTIN -> T01EP01- O Caranguejo das Tenazes de Ouro - 1[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
-<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
-<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
-<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
-<genre>GÊNERO DA SÉRIE</genre>
+https://drive.google.com/file/d/1jPm4wGPzzoW0fRp06aZ2hIuDPKYnqE8t/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
 </item>
 <item>
 
+<item>
+<title>[COLOR lime]TINTIN -> T01EP02 - O Caranguejo das Tenazes de Ouro - 2 [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1FpAt8K_d82ePL7qb4xlRMAoHsFzI9V-1/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP03 - O Segredo do Licorne - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18R1e0JMqRsTaYhZ4cxEo3Ft3z6vXqoex/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP04 - O Segredo do Licorne - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VxNeuRZbzXkdV5fD22LMtUiyzTwm5wtw/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP05 - O Tesouro de Rackham o Terrível[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-E20ujs_eiG_opY7h_0kj4nM8F1d-xTE/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP06 - Os Charutos do Faraó - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/15D5Ev-VwUnigXCcLzg5qVjpB2J3Um-Zw/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP07 - Os Charutos do Faraó - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ZvL-esYSD_lK6p3amCvhYnx8kFYUBqqd/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP08 - O Lótus Azul - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1vuIzeY3fbFVLE59zNFAhoMieDuT4Vr3x/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP09 - O Lótus Azul - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ruKXC2Fr8S_qIx0IUe0Nai-4f8aWKlMx/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP10 - A Ilha Negra - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1hN9JCOfsdHWr4Sp2Z6Vn292ggJFslAJK/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP11 - A Ilha Negra - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1W7OzKdUCHLleOPHex8CaLx5-lsG7iXUI/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP12 - O Caso Girassol -1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1c-ySaJaVCSvZ1NlUduq6AE62fEDqYDkz/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T01EP13 - O Caso Girassol -2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1OXLfgA1KNh5f2TbZRUyx6E4sD2P8w1jp/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
 
 <channels></channels>
 <channel>
-<name>[COLOR red]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR]</name>
-<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
-<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<name>[COLOR lime][B]TINTIN - 2ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
 <info>
-DESCRIÇÃO DA SÉRIE</info>
-<genre>GÊNERO DA SÉRIE</genre>
+NADA AMEDRONTA ESSE REPÓRTER INVESTIGATIVO</info>
+<genre>DESENHOS</genre>
 
 
 <item>
-<title>[COLOR lime]NOME DA SÉRIE - T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<title>[COLOR lime]TINTIN -> T02EP01 - A Estrela Misteriosa[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
-<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
-<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
-<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
-<genre>GÊNERO DA SÉRIE</genre>
+https://drive.google.com/file/d/1yoO-3jDU1sbBCGh1IU3akVVbRsMUx6uq/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
 </item>
 <item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP02 - O Ídolo Roubado - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1_GXHzK7BZcRuf0pyPSIRshhc0lX6K64i/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP03 - O Ídolo Roubado - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14-wCDQPU4LwbT1tIZoT9Sx5Lw6GNj26p/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP04 - O Cetro de Ottokar - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1rodL0KLaD30UDVQx_OaahnfdtSiL5A8M/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP05 - O Cetro de Ottokar - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1HRx-1HogBvfulX998dbWoesa8Pbh1PZZ/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP06 - Tintim no Tibete - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1XIhqrK2LpZhtPfY_JHEGQBmLF9EoTXG3/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP07 - Tintim no Tibete - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1uDb0MtqNUn6DH3ARP78eVJA-aTnvwFqM/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP08 - Tintin e os Tímpanos - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1NdYQSdWwW6bGrTXlT11UT_4QD-KEiXsi/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP09 - Tintin e os Tímpanos - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ZwIvKHqnnm-4mgMNHjQQW6E8MvXyfqjS/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP10 - Tintim no País do Ouro Negro - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SHKsehKWK_4neaKDWjg-S5bBFExq1_Y2/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP11 - Tintim no País do Ouro Negro - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1KgzC38pcP2dONwov4UedXWQ6OJRkLy7d/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP12 - Voo 714 para Sydney - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1I72QxVTnS-FZn_KxsAeUUQVLS7iTsr9P/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T02EP13 - Voo 714 para Sydney - 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1K-epbs5CyDP8oVzCdnbaoZxtYLWLpPPn/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 2ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]TINTIN - 3ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>
+NADA AMEDRONTA ESSE REPÓRTER INVESTIGATIVO</info>
+<genre>DESENHOS</genre>
+
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP01 - Perdidos no Mar - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1x0zbB3Vm8m1o21RbHmn17-KYqQBSUVhp/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP02 - Perdidos no Mar - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/197FIt8Pug8tZdCVtaFU3reXxItE7jl5-/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP03 - As Sete Bolas de Cristal -1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1BNALMXmtpOy5Z8879qjV3JqN2TXVI7-T/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP04 - As Sete Bolas de Cristal -2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1PdCGml668GhPZAjN5_8D3rKSjKqlO2Uf/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP05 - O Templo do Sol - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1yJF3VPbOd7WOnpNeqdaqhWQKXmO6pk4A/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP06 - O Templo do Sol - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1DdJkKB0LligAWhlBYeQNlWCNxxK-teQv/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP07 - As Jóias de Castafiore - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1lJWMVDQ3JqJTdTrR9q3wTGQeJ9muNdhk/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP08 - As Jóias de Castafiore - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/178SOCid8t08fsu_Gdvj_FiBG_y6hSKF1/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP09 - Rumo à Lua - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UbzVn5ZMK69gSksfYEfk4qCA_RfoYSVL/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP10 - Rumo à Lua - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1s7NsKwY6ejPSxeC-R1caRX2qjhzRqXPm/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP11 - Explorando a Lua - 1[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1amarA91gD2tWfrd_NvFfK1LFsD4LvN1n/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP12 - Explorando a Lua - 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VHfX8Q6AcUhywyhhpLzuemfggA_ZRGAp/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]TINTIN -> T03EP13 - Tintim na América[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1mxlz2y8AeArcbnjPLfZ2-DD5lMa0laZg/view</link>
+<thumbnail>https://i.pinimg.com/originals/87/a9/28/87a9284797daf471596daeabd6669a31.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/661/661056.jpg</fanart>
+<info>TINTIN - 3ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
