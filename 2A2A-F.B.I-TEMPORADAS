@@ -23,7 +23,7 @@ DESCRIÇÃO DA SÉRIE</info>
 
 
 <item>
-<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<title>[COLOR lime]NOME DA SÉRIE - T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 <thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
@@ -45,7 +45,7 @@ DESCRIÇÃO DA SÉRIE</info>
 
 
 <item>
-<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<title>[COLOR lime]NOME DA SÉRIE - T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
 <thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
