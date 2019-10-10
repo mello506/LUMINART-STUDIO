@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]DICAS DE NAVEGGÊNERO DA SÉRIE[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <externallink>https://</externallink>
@@ -13,45 +13,40 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]F.B.I. - 1ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
+<name>[COLOR lime]NOME DA SÉRIE + 1ª TEMPORADA[/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
 <info>
-O PODER DA INVESTIGAÇÃO AMERICANA</info>
-<genre>DESENHOS</genre>
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
 
 <item>
-<title>[COLOR lime]T01EP01 -> PILOT - DATA - 720- DUB[/COLOR]</title>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view</link>
-<thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
-<fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
-<info>F.B.I. - 1ª TEMPORADA</info>
-<genre>AÇÃO</genre>
+LINK PARA O EPISÓDIO NO DRIVE</link>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
+<genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA SÉRIE + 2ª TEMPORADA[/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DA SÉRIE</fanart>
+<info>
+DESCRIÇÃO DA SÉRIE</info>
+<genre>GÊNERO DA SÉRIE</genre>
+
 <item>
-<title>[COLOR red]T01EP01 -> PÁSSAROS VERDES - DATA -720 - DUB[/COLOR]</title>
-<thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
-<fanart>IMAGEM FANART DO EPISÓDIO</fanart>
+<title>[COLOR lime]NOME DA SÉRIE -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Rw11j8PJKG-YRTzKNR-z5_u4h0zarJ7N/view</link>
-<info>F.B.I. - 1ª TEMPORADA</info>
-<genre>AÇÃO</genre>
+LINK PARA O EPISÓDIO NO DRIVE</link>
+<thumbnail>IMAGEM ICONE DO EPISÓDIO OU DA SÉRIE</thumbnail>
+<fanart>IMAGEM FANART DO EPISÓDIO OU DA SÉRIE</fanart>
+<info>NOME DA SÉRIE - 1ª TEMPORADA OU SINOPSE DO EPISÓDIO</info>
+<genre>GÊNERO DA SÉRIE</genre>
 </item>
 <item>
-
-<item>
-<title>[COLOR red]T01EP01 -> PÁSSAROS VERDES - DATA -720 - DUB[/COLOR]</title>
-<thumbnail>IMAGEM ICONE DO EPISÓDIO</thumbnail>
-<fanart>IMAGEM FANART DO EPISÓDIO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Rw11j8PJKG-YRTzKNR-z5_u4h0zarJ7N/view</link>
-<info>F.B.I. - 1ª TEMPORADA</info>
-<genre>AÇÃO</genre>
-</item>
-<item>
-
-
-
