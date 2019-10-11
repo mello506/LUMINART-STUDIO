@@ -24,7 +24,7 @@
 <channel>
 <name>[COLOR lime]PIRATAS DO CARIBE[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
-<fanart>https://uploaddeimagens.com.br/imagens/screen-0-jpg-605bbfff-0b8d-497c-a3d9-449ea081a8f2</fanart>
+<fanart>https://uploaddeimagens.com.br/images/002/413/915/full/screen-0.jpg</fanart>
 <info>
 COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
 <genre>AVENTURA</genre>
@@ -87,11 +87,41 @@ O capitão Salazar é a nova pedra no sapato do capitão Jack Sparrow. Ele lider
 <channels></channels>
 <channel>
 <name>[COLOR lime]INDIANA JONES[/COLOR]</name>
-<thumbnail>http://statics.livrariacultura.net.br/products/capas_lg/326/42890326.jpg</thumbnail>
+<thumbnail>https://1.bp.blogspot.com/-iSQCqWbO7vo/WaMG5xE2t-I/AAAAAAAANbk/mPLzvjy2Xo0pCzbyADUl7SQoKTj_vfEZgCLcBGAs/s1600/Indiana%2BJones%2BCollection%2B2017.jpg</thumbnail>
 <fanart>https://f001.backblazeb2.com/file/papocine/2016/01/20160126-saga-indiana-jones-papo-de-cinema.jpg</fanart>
 <info>
 COLEÇÃO INDIANA JONES COMPLETA</info>
 <genre>AVENTURA</genre>
+
+<item>
+<title>[COLOR lime]INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA - 2017 - 1080- DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/htRP7qUFs1LbQfj7L7n2CWWqGDo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1TxaXNobCO3fhcgYUfLHj6CkEFP.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UA4fwKlgN9g9NK-yhOyJHNnAe1XZj7be/view</link>
+<info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]INDIANA JONES E O TEMPLO DA PERDIÇÃO - 2017 - 1080- DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/htRP7qUFs1LbQfj7L7n2CWWqGDo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1TxaXNobCO3fhcgYUfLHj6CkEFP.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UA4fwKlgN9g9NK-yhOyJHNnAe1XZj7be/view</link>
+<info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]OS CAÇADORES DA ARCA PERDIDA - 2017 - 1080- DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/htRP7qUFs1LbQfj7L7n2CWWqGDo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1TxaXNobCO3fhcgYUfLHj6CkEFP.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UA4fwKlgN9g9NK-yhOyJHNnAe1XZj7be/view</link>
+<info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre>AVENTURA</genre>
+</item>
 
 <item>
 <title>[COLOR lime]OS CAÇADORES DA ARCA PERDIDA - 2017 - 1080- DUB[/COLOR]</title>
