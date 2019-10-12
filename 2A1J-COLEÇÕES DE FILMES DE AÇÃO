@@ -25,7 +25,7 @@ SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]MAD MAX[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/415/331/full/mad_max.jpg?1570912713</thumbnail>
+<thumbnail>https://uploaddeimagens.com.br/images/002/415/331/full/mad_max.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-faPCKFFJM54/VjKrXCvIsAI/AAAAAAAAAFg/cau5KQMlpXw/s1600/maxresdefault%2B%25281%2529.jpg</fanart>
 <info>
 COLEÇÃO MAD MAX COMPLETA</info>
@@ -74,11 +74,61 @@ https://drive.google.com/file/d/1YTo2ZgrR-_cNi0brwxM0UqKrfq__8svy/view</link>
 <channels></channels>
 <channel>
 <name>[COLOR lime]RAMBO[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<thumbnail>https://http2.mlstatic.com/coleco-rambo-1234-dublado-legendado-4-dvds-frete-gratis-D_NQ_NP_705221-MLB20741363566_052016-F.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/415/358/full/RAMBO_COLE.jpg</fanart>
 <info>
 COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
 <genre>AÇÃO</genre>
+
+<item>
+<title>[COLOR lime]RAMBO 1 -- DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]RAMBO 2 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]RAMBO 3 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]RAMBO 4 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]RAMBO 5 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
 
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
