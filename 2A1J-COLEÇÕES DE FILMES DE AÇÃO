@@ -130,6 +130,15 @@ LINK PARA O FILME NO G DRIVE</link>
 <genre>AÇÃO</genre>
 </item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>AÇÃO</genre>
+
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
 <thumbnail>THUMBNAIL</thumbnail>
@@ -139,16 +148,6 @@ LINK PARA O FILME NO G DRIVE</link>
 <info>SINOPSEE DO FILME</info>
 <genre>AÇÃO</genre>
 </item>
-
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
-<info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
-<genre>AÇÃO</genre>
 
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
