@@ -25,8 +25,8 @@ SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]MAD MAX[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<thumbnail>https://uploaddeimagens.com.br/images/002/415/331/full/mad_max.jpg?1570912713</thumbnail>
+<fanart>http://4.bp.blogspot.com/-faPCKFFJM54/VjKrXCvIsAI/AAAAAAAAAFg/cau5KQMlpXw/s1600/maxresdefault%2B%25281%2529.jpg</fanart>
 <info>
 COLEÇÃO MAD MAX COMPLETA</info>
 <genre>AÇÃO</genre>
@@ -71,3 +71,41 @@ https://drive.google.com/file/d/1YTo2ZgrR-_cNi0brwxM0UqKrfq__8svy/view</link>
 <genre>AÇÃO</genre>
 </item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]RAMBO[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>AÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>AÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>THUMBNAIL</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSEE DO FILME</info>
+<genre>AÇÃO</genre>
+</item>
