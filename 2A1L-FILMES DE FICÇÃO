@@ -1,1 +1,41 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]FICÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE FICÇÃO[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
+<info>
+OS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
+<genre>WESTERN</genre>
+
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>WESTERN</genre>
+</item>
+<item>
