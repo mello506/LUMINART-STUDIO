@@ -26,7 +26,7 @@
 <fanart>http://bit.do/fanartsubcat-western</fanart>
 <info>
 OS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
-<genre>WESTERN</genre>
+<genre>FICÇÃO</genre>
 
 
 <item>
@@ -36,6 +36,16 @@ OS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GDRIVE</link>
 <info>SINOPSE DO FILME</info>
-<genre>WESTERN</genre>
+<genre>FICÇÃO</genre>
 </item>
 <item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<fanart>http://bit.do/subcatfanart-acao</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1J-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20A%C3%87%C3%83O</externallink>
+<info>
+COLEÇÕES DE FILMES DE FICÇÃO</info>
+<genre>FICÇÃO</genre>
