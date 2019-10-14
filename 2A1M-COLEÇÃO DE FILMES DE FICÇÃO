@@ -24,6 +24,55 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels></channels>
 <channel>
+<name>[COLOR lime]PREDADOR[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/419/220/full/prede.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/419/224/full/predator-1.jpg</fanart>
+<info>
+COLEÇÃO PREDADOR COMPLETA</info>
+<genre>FICÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<channels></channels>
+<channel>
 <name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA COLEÇÃO</thumbnail>
 <fanart>IMAGEM FANART DA COLEÇÃO</fanart>
