@@ -88,6 +88,17 @@ SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 
 <channels>
 <channel>
+<name>[COLOR lime][B]FICÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
+<fanart>http://bit.do/fanartsubcat-ficcao</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1I-FILMES%20DE%20AC%C3%83O</externallink>
+<info>
+EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR red][B]007[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-007</thumbnail>
 <fanart>http://bit.do/fanartsubcat-007</fanart>
