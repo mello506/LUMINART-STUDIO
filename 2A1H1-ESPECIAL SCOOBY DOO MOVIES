@@ -1,0 +1,61 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>NOLINK</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]SCOOBY DOO MOVIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<externallink>NOLINK</externallink>
+<info>
+AS MELHORES ANIMAÇÃOS E SUAS CONTINUAÇÕES</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]LONGAS DO SCOOBY[/COLOR]</name>
+<thumbnail>IMAGEM ICONE DA COLETANEA</thumbnail>
+<fanart>IMAGEM FANART DA COLETANEA</fanart>
+<info>
+LONGA METRAGENS DO SCOOBY</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]CURTAS DO SCOOBY[/COLOR]</name>
+<thumbnail>IMAGEM ICONE DA COLETANEA</thumbnail>
+<fanart>IMAGEM FANART DA COLETANEA</fanart>
+<info>
+CURTA METRAGENS DO SCOOBY</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
+<fanart>IMAGEM FANART DO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>ANIMAÇÃO</genre>
+</item>
