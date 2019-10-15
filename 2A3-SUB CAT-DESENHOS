@@ -23,6 +23,17 @@
 
 <channels>
 <channel>
+<name>[COLOR lime]ESPECIAL SCOOBY DOO[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/420/769/full/SCOOBYESP2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A3B-SCOOBY%20DOO</externallink>
+<info>
+AQUI TEM O MELHOR DE SCOOBY DOO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]PICA-PAU[/COLOR]</name>
 <thumbnail>https://brasil.estadao.com.br/blogs/radar-pop/wp-content/uploads/sites/77/2011/11/pica-pau.jpg</thumbnail>
 <fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
