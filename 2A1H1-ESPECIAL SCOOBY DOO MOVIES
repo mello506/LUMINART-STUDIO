@@ -62,11 +62,11 @@ CURTA METRAGENS DO SCOOBY</info>
 <genre>ANIMAÇÃO</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
-<fanart>IMAGEM FANART DO FILME</fanart>
+<title>[COLOR lime]SCOOBY DOO EM HOLLYHOOD - 1979 - SD - DUB[/COLOR]</title>
+<thumbnail>https://d29pz51ispcyrv.cloudfront.net/images/I/0Vu2ukZxWKq7A6d9p.XL1024.JPEG</thumbnail>
+<fanart>https://live.staticflickr.com/2895/14402929665_79b34ab8f6_b.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE</link>
-<info>SINOPSE DO FILME</info>
+https://drive.google.com/file/d/1ng4grrov9GIdabfJy7KWQbhAb9XtkjZN/view</link>
+<info>CONFUSÕES E MISTÉRIO NA MECA DO CINEMA</info>
 <genre>ANIMAÇÃO</genre>
 </item>
