@@ -1,0 +1,85 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>NOLINK</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES DE FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<externallink>NOLINK</externallink>
+<info>
+PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>SUSPENSE E TERROR</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<info>
+COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+<genre>SUSPENSE E TERROR</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
