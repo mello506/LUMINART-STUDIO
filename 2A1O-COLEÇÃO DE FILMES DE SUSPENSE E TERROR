@@ -25,8 +25,8 @@ PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 <channels></channels>
 <channel>
 <name>[COLOR lime]SHERLOCK HOLMES[/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
+<thumbnail>https://uploaddeimagens.com.br/images/002/435/511/full/SHICON.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/435/514/full/SH.jpg</fanart>
 <info>
 COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
 <genre>SUSPENSE E TERROR</genre>
@@ -42,7 +42,7 @@ https://drive.google.com/file/d/129kxL1n2KUG7VFqI3-HGhR5__qUYbi7C/view</link>
 </item>
 
 <item>
-<title>[COLOR lime]SHERLOCK HOLMES 2 -O JOGO DAS SOMBRAS- 2011 - SD 720 1080 - DUB LEG [/COLOR]</title>
+<title>[COLOR lime]SHERLOCK HOLMES 2 -O JOGO DAS SOMBRAS- 2011 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3T5aOuKOm1z2gVwEgwNe8jvWw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mtNiSFSjhzHqOcGiRJ9eXukK2xY.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
