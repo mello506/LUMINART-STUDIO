@@ -99,6 +99,17 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
 
 <channels>
 <channel>
+<name>[COLOR lime][B]SUSPENSE E TERROR[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1N-FILMES%20DE%20SUSPENSE%20E%20TERROR</externallink>
+<info>
+PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR red][B]007[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-007</thumbnail>
 <fanart>http://bit.do/fanartsubcat-007</fanart>
@@ -107,5 +118,7 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
 MUITA ESPIONAGEM E CHARME NA COLEÇÃO 007 COMPLETA</info>
 </channel>
 </channels>
+
+
 
 
