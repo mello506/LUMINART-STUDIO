@@ -24,7 +24,7 @@ PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<name>[COLOR lime]SHERLOCK HOLMES[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
 <info>
@@ -32,25 +32,23 @@ COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
 <genre>SUSPENSE E TERROR</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
+<title>[COLOR lime]SHERLOCK HOLMES 1- 2009 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/T2OCCBIwfUMAaYYQLWGVBOIdEe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r8V954pQMDFzYFdBh2WC1Y3pnN3.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
-<genre>SUSPENSE E TERROR</genre>
+https://drive.google.com/file/d/129kxL1n2KUG7VFqI3-HGhR5__qUYbi7C/view</link>
+<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
+<genre>SUSPENSE</genre>
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
+<title>[COLOR lime]SHERLOCK HOLMES 2 -O JOGO DAS SOMBRAS- 2011 - SD 720 1080 - DUB LEG [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3T5aOuKOm1z2gVwEgwNe8jvWw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3jmMRaO8WMjKsf1LWzo6Q6E5zMP.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
-<genre>SUSPENSE E TERROR</genre>
+https://drive.google.com/file/d/1GDrqzVAfgQJK_FCHP6yfIxrU_X7UeORZ/view</link>
+<info>Há um novo mentor criminoso em geral (Professor Moriarty) e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
+<genre>SUSPENSE</genre>
 </item>
 
 <channels></channels>
