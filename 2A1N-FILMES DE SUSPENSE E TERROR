@@ -93,9 +93,9 @@ LINK PARA O FILME NO GDRIVE</link>
 <item>
 
 <item>
-<title>[COLOR lime]DURANTE A TORMENTA - 2019 - 1080 - DUB[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
+<title>[COLOR lime]DURANTE A TORMENTA - 2018 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://pbs.twimg.com/media/Dmv4DfAXcAAkWti.jpg:large</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/t73zWIqUeKxBmzFPO0m4OD6RWk7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
 <info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
@@ -111,6 +111,17 @@ https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
 <info>
 PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 <genre>TERROR</genre>
+
+<item>
+<title>[COLOR lime]O ENIGMA DE OUTRO MUNDO - 1982 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFdL757I0ZHPBTqlxTj0DQorFSX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/z2yBw1BIUyGl8DgRfkWzbgsanjG.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1pksmP_-szjnVgi8XKia-bu6JdF0otSF1/view</link>
+<info>Na remota Estação 4 da Antártida pertencente ao Instituto Nacional de Ciências dos Estados Unidos estão 12 homens (cientistas e operários), que observam com espanto um norueguês tentar de todas as maneiras matar um cão, tanto que invade a estação e atira até nos americanos, mas é morto. O piloto de helicóptero J.R MacReady se oferece para viajar até a base norueguesa e tentar achar alguma explicação onde só então começam a surgir pistas do acontecido, pois o cachorro se transforma em uma terrível criatura que ataca os pesquisadores que gradativamente concluem que estão diante de um alienígena, que pode se transformar em uma cópia exata das suas vítimas.</info>
+<genre>TERROR</genre>
+</item>
+<item>
 
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
@@ -132,3 +143,5 @@ LINK PARA O FILME NO GDRIVE</link>
 <info>
 COLEÇÕES DE FILMES DE SUSPENSE E TERROR </info>
 <genre>SUSPENSE E TERROR</genre>
+
+
