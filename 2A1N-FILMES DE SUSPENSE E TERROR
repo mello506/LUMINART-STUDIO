@@ -82,23 +82,23 @@ https://drive.google.com/file/d/13r90-vqRWsGMI2giGsWo5x2kcokaIHRt/view</link>
 <item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-
-<item>
 <title>[COLOR lime]DURANTE A TORMENTA - 2018 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/media/Dmv4DfAXcAAkWti.jpg:large</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/t73zWIqUeKxBmzFPO0m4OD6RWk7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
 <info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
+<genre>SUSPENSE</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
 <genre>SUSPENSE</genre>
 </item>
 <item>
@@ -130,6 +130,17 @@ https://drive.google.com/file/d/1pksmP_-szjnVgi8XKia-bu6JdF0otSF1/view</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/11-CpypNsWqchM568T0hoHdyBrqU7ZQUF/view</link>
 <info>O Dr. Van Helsing é um dos principais especialistas em monstros de sua época, no século XIX. Contratado pela Igreja Católica, ele parte para o leste europeu com a missão de eliminar o mais perigoso dos vampiros: o conde Drácula. Ao seu lado ele terá a ajuda de Anna Valerious, tendo ainda que enfrentar monstros como o lobisomem e Frankenstein.</info>
+<genre>TERROR</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]EU SOU A LENDA - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu7TDJOpEmx9x4sQEhfdw7pqsiM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yRCvG5sgUMlLjhPyWTHqeym0vh4.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1MmN9UNAlOVh6fyke0SrqIJ-C0wD7ZDPn/view</link>
+<info>Um terrível vírus incurável, criado pelo homem, dizimou a população de Nova York. Robert Neville é um cientista brilhante que, sem saber como, tornou-se imune ao vírus. Há 3 anos ele percorre a cidade enviando mensagens de rádio, na esperança de encontrar algum sobrevivente. Robert é sempre acompanhado por vítimas mutantes do vírus, que aguardam o momento certo para atacá-lo. Paralelamente ele realiza testes com seu próprio sangue, buscando encontrar um meio de reverter os efeitos do vírus.</info>
 <genre>TERROR</genre>
 </item>
 <item>
