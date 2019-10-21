@@ -21,12 +21,12 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]FILMES DE SUSPENSE E TERROR[/B][/COLOR] </name>
+<name>[COLOR lime][B]FILMES DE SUSPENSE[/B][/COLOR] </name>
 <thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
 <fanart>http://bit.do/fanartsubcat-gialo</fanart>
 <info>
 PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
-<genre>SUSPENSE E TERROR</genre>
+<genre>SUSPENSE</genre>
 
 <item>
 <title>[COLOR lime]NAVIO FANTASMA - 2002 - 720 - DUB[/COLOR]</title>
@@ -77,7 +77,7 @@ https://drive.google.com/file/d/1A09qrYpJM3Go3JR8OqpnKMT4mhqq5C0c/view</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/13r90-vqRWsGMI2giGsWo5x2kcokaIHRt/view</link>
 <info>Robert Langdon é um famoso simbologista, que foi convocado a comparecer no Museu do Louvre após o assassinato de um curador. A morte deixou uma série de pistas e símbolos estranhos, os quais Langdon precisa decifrar. Em seu trabalho, ele conta com a ajuda de Sophie Neveu, criptógrafa da polícia. Porém, o que Langdon não esperava era que suas investigações o levassem a uma série de mensagens ocultas nas obras de Leonardo Da Vinci, que indicam a existência de uma sociedade secreta que tem por missão guardar um segredo que já dura mais de dois mil anos.</info>
-<genre>FICÇÃO</genre>
+<genre>SUSPENSE</genre>
 </item>
 <item>
 
@@ -88,7 +88,38 @@ https://drive.google.com/file/d/13r90-vqRWsGMI2giGsWo5x2kcokaIHRt/view</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GDRIVE</link>
 <info>SINOPSE DO FILME</info>
-<genre>FICÇÃO</genre>
+<genre>SUSPENSE</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]DURANTE A TORMENTA - 2019 - 1080 - DUB[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
+<info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
+<genre>SUSPENSE</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE TERROR[/B][/COLOR] </name>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<info>
+PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
+<genre>TERROR</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>TERROR</genre>
 </item>
 <item>
 
