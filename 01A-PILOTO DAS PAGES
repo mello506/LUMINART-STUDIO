@@ -1,0 +1,81 @@
+ACRESCENTAR NOVA CATEGORIA
+
+DICAS DE NAVEGAÇÃO 
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B](NOME DA PAGE)[/B][/COLOR]</name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE (NOME DA PAGE)[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA (NOME DA PAGE)</thumbnail>
+<fanart>IMAGEM DE FUNDO DA (NOME DA PAGE)</fanart>
+<info>
+DESCRIÇÃO CHAMATIVA DA NOVA PAGE</info>
+<genre>GÊNERO DA NOVA PAGE</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>SUSPENSE</genre>
+</item>
+<item>
+
+ACRESCENTAR FILMES E LINKAR NOVA PAGE COM AS COLEÇÕES
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE (NOME DA PAGE)[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA COLEÇÃO</thumbnail>
+<fanart>IMAGEM DE FUNDO DA COLEÇÃO</fanart>
+<externallink>LINK PARA A PÁGINA DA COLEÇÃO</externallink>
+<info>
+COLEÇÕES DE FILMES DE (NOME DA PAGE)</info>
+<genre>GÊNERO DA COLEÇÃO</genre>
+
+
+
+
+CATEGORIAS DE FILMES NA MESMA PAGE
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]NOME DA CATEGORIA DE FILME[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>
+DESCRIÇÃO CHAMATIVA DA NOVA CATEGORIA</info>
+<genre>GÊNERO DO FILME</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+<item>
+
