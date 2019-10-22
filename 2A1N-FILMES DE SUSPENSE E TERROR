@@ -92,17 +92,6 @@ https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
 </item>
 <item>
 
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE TERROR[/B][/COLOR] </name>
@@ -168,12 +157,12 @@ https://drive.google.com/file/d/18sY8WB7iIKv4czRCEMD5h0WExrJzCVGk/view</link>
 <item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
+<title>[COLOR lime]A MÚMIA - 2017 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
+https://drive.google.com/file/d/1Dd3126gxtDkmYGXnEWXliZdrkEsshsdu/view</link>
+<info>Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.</info>
 <genre>TERROR</genre>
 </item>
 <item>
