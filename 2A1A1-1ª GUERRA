@@ -1,7 +1,6 @@
 <item>
 <title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>
    [COLOR blue]COR AZUL - SEM LINK[/COLOR]
@@ -12,7 +11,6 @@
 <item>
 <title>[COLOR blue][B]1ª GUERRA[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
 <info></info>
 <genre>GUERRA</genre>   
@@ -53,13 +51,4 @@ https://drive.google.com/file/d/16WZNfcPdUeDo-lRln3EzAEsD1GlB2Akq/view</link>
 </item>
 <item>
 
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
+
