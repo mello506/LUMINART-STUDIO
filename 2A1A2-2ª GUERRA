@@ -19,11 +19,12 @@
 </item>
 
 <item>
-<title>[COLOR lime]ATÉ O ÚLTIMO HOMEM - 2017 - 720 - DUB[/COLOR]</title>
+<title>[COLOR lime]ATÉ O ÚLTIMO HOMEM - 2017 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6O0lsCK90jZCyPvyYSt8Szzlnd6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ZgvRWWh3sP1URWXNBkI31dvfPfAPfLZp/view</link>
+https://drive.google.com/file/d/1cHRavU-ITusDRvSKEIF6g8wGXabzwZOk/view</link>
+
 <info>Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>
 <genre>2ª GUERRA</genre>
 </item>
@@ -277,14 +278,24 @@ https://drive.google.com/file/d/1VLMavAV7LG2wnS7kcpO-h54XOIVrKOIF/view</link>
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080- DUB LEG [/COLOR]</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
+<title>[COLOR lime]TERRA DE MINAS - 2015 - SD 720 1080- DUB LEG [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpacKYfOJVHcIroWUM2eIi9dp29.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8L1Um7cH4vun0z7RYvcPIGJT0Pq.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
+https://drive.google.com/file/d/1aVmEBqMe0R8ayXznqgGaWpZhnjQk2uI_/view</link>
+<info>A guerra não acaba quando a paz é assinada. Um grupo de jovens prisioneiros alemães é entregue ao sargento dinamarquês Rasmussen no final da Segunda Guerra Mundial. Rasmussen ordena a desativação de mais de dois milhões de minas enterradas na costa dinamarquesa, apesar de ser proibido pela Convenção de Genebra.</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
 <genre>GÊNERO DO FILME</genre>
 </item>
+<item>
 
 
