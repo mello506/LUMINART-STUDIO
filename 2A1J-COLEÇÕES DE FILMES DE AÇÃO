@@ -201,29 +201,64 @@ LINK PARA O FILME NO G DRIVE</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<name>[COLOR lime][B]BOURNE[/B][/COLOR] </name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/463/237/full/BOURNE-ICON.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/463/219/full/bourne.png</fanart>
 <info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+O LADO SUJO DA ESPIONAGEM SE REVELA </info>
 <genre>AÇÃO</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]BOURNE 1 - IDENTIDADE - 2002 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Fr1vqBiDn8xRJM9elcplzHctTN.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE</link>
-<info>SINOPSEE DO FILME</info>
+https://drive.google.com/file/d/1Bmk6fmMwG5dxorJGYUvltKJaTwV-w3Kg/view</link>
+<info>Após ficar à beira da morte, por ter sido baleado, um desconhecido (Matt Damon) acorda sem memória em uma costa do Mar Mediterrâneo. Ele consegue se recuperar, com a ajuda de um médico aposentado, mas tem como única pista de sua identidade um chip que estava implantado em seu quadril, onde estava gravado o número da conta de um banco de Zurique, na Suíça. No cofre deste banco suíço ele descobre que se chama Jason Bourne e que mora em Paris, mas também acha alguns passaportes falsos (com sua fotografia, mas cada um com um nome diferente), uma arma e uma grande quantia em dinheiro. No entanto logo é perseguido, sem entender por qual razão, e demonstra possuir diversas habilidades em autodefesa e luta, além de saber vários idiomas. Ele oferece US$ 20 mil para Marie Helena Kreutz (Franka Potente), que está dificuldades financeiras, para levá-lo até Paris. Após relutar ela concorda, pois precisa do dinheiro. Mas eles não poderiam imaginar o que o futuro lhes reservava.</info>
 <genre>AÇÃO</genre>
 </item>
+<item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]BOURNE 2 - SUPREMACIA - 2004 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYK3Yy5iHfFVPipcRgQl2oG8C0v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e1svWjxTXMOmdgkVLSPHSfWv90R.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE</link>
-<info>SINOPSEE DO FILME</info>
+https://drive.google.com/file/d/1cbWYwZ0Hk9u25EnAFhBHZGTgkBxDfKl-/view</link>
+<info>Há 2 anos Jason Bourne (Matt Damon) achou que tivesse deixado para trás seu passado como assassino frio e calculista criado pela Treadstone. Desde então ele vem mantendo uma existência anônima, abrindo mão da estabilidade de ter um lar e se mudando com Marie (Franka Potente) sempre que surge a ameaça de ser descoberto. Quando um agente aparece na vila onde Jason e Marie vivem, eles não têm outra alternativa senão fugir. Porém um novo jogo internacional de perseguição faz com que Jason tenha que confrontar velhos inimigos.</info>
 <genre>AÇÃO</genre>
 </item>
+<item>
+
+<item>
+<title>[COLOR lime]BOURNE 3 - ULTIMATO - DATA - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFQCaO4G9YgnSUGX99jJsuJkG9n.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uEXJJAjdFPsraigbvDTRdEE1ACO.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1__IQu69nb5HjJS1Hx5E-Oie2isEaT50I/view</link>
+<info>Jason Bourne (Matt Damon) é um homem que vive sem país e sem passado após ter sido submetido a um treinamento brutal, ao qual não se lembra, por pessoas que não conhece. Ele é uma sofisticada arma humana, perseguida incessantemente pela CIA. Após sua última aparição ele decidiu sumir para sempre e esquecer a vida que lhe foi roubada. Entretanto uma matéria em um jornal de Londres, que especula sobre sua existência, faz com que ele torne-se mais uma vez um alvo. O programa Treadstone, que criou Bourne, já não existe mais, mas serviu de base para o programa Blackbriar, desenvolvido pelo Departamento de Defesa dos Estados Unidos. O Blackbriar desenvolve uma geração de novos matadores treinados secretamente pelo governo, que acredita que Bourne é uma ameaça de US$ 30 milhões que deve ser eliminada de uma vez por todas. Já Bourne vê neles uma oportunidade de descobrir quem realmente é e o que fizeram com ele.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BOURNE 4 - LEGADO - 2012 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqBTpfRicEi0J9Xs4NWy0k8fQiI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xjhkJbdD3WsmeBxTYaV2pdFsW68.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17lmH2est0Moz_chamojhM-msB83Pq_9U/view</link>
+<info>Após Jason Bourne revelar publicamente o projeto Treadstone, Eric Byer (Edward Norton) é encarregado de apagar os rastros que possam incriminar o governo dos Estados Unidos neste e em outros projetos sigilosos. Um deles chama-se Outcome, um projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força de seus agentes através de remédios tomados periodicamente. Com o fim do Outcome, seus agente passam a ser eliminados a mando do próprio governo. Aaron Cross (Jeremy Renner) é um deles, mas consegue escapar sem que Byer perceba. Em busca de respostas, ele vai à casa da doutora Martha Shearing (Rachel Weisz) e a salva da morte certa. Juntos, eles precisam encontrar um meio de sobreviver ao mesmo tempo em que Aaron, sem seus remédios habituais, começa a sentir os efeitos colaterais da abstinência forçada.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BOURNE 5 - JASON BOURNE - 2016 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmhV13v9kgUNBtH5VFFobZLBQD2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mSpdkxYV85qbJqGkY3ztxHdOk3N.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14yh2uMasCFlnak3wZL7qQE8XMe8bVdHN/view</link>
+<info>Jason Bourne está novamente sendo caçado pela CIA. Começa quando Nicky Parson, um ex-agente da CIA que ajudou Bourne, e que depois "desapareceu", agora trabalha com um homem que quer expor as operações sujas da CIA. Então Nicky hackeia a CIA e baixa tudo de todas as Black Ops, incluindo Treadstone, da qual Bourne faz parte. O agente da CIA Heather Lee descobre o hack e avisa o diretor Dewey da CIA, o homem por trás das Black Ops. Dewey então ordena que Parsons seja encontrado e espera que Bourne também seja.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
