@@ -61,7 +61,7 @@ CATEGORIAS DE FILMES NA MESMA PAGE
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]NOME DA CATEGORIA DE FILME[/B][/COLOR] </name>
+<name>[COLOR lime]NOME DA CATEGORIA DE FILME[/COLOR] </name>
 <thumbnail>IMAGEM ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 <info>
