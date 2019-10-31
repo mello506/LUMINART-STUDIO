@@ -144,6 +144,17 @@ https://drive.google.com/file/d/1H9OWEVBeitRGAkCyVYuqvz1JVoJWE4CN/view</link>
 </item>
 <item>
 
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ZHcbxBs9fLE4s9Sneo9pFAjOrlZtQoV3/view</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+<item>
+
 
 <channels></channels>
 <channel>
