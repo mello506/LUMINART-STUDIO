@@ -83,19 +83,30 @@ https://drive.google.com/file/d/1BPecwbT-_LDXk782YEgU8rqiXEnW4PH_/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<name>[COLOR lime]JORNADA NAS ESTRELAS[/COLOR]</name>
 <thumbnail>IMAGEM ICONE DA COLEÇÃO</thumbnail>
 <fanart>IMAGEM FANART DA COLEÇÃO</fanart>
 <info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+COLEÇÃO JORNADA NAS ESTRELAS COMPLETA</info>
 <genre>FICÇÃO</genre>
 
 <item>
+<title>[COLOR lime]01-JORNADA NAS ESTRELAS O FILME - 1979 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoiQNco6joSHmoKZ1h6dCxYECMo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w9iSKX1GSlaPPASW7jSFkFkkDnz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1POOmp6HFHQFgCqfiiqxsD-8dMWWWun6o/view?usp=sharing</link>
+<info>Um fenômeno alienígena de poder e tamanho descomunal se aproxima da Terra, destruindo tudo em seu caminho. A única nave que pode enfrentar esta força letal que ameaça a Terra é a U.S.S. Enterprise. O lendário comandante James T. Kirk é convocado para a missão, mas um perigo não previsto pode destruir a U.S.S. Enterprise e toda a sua tripulação.</info>
+<genre>FICÇÃO</genre>
+</item>
+
+<item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE DO FILME</thumbnail>
-<fanart>IMAGEM FANART DO FILME</fanart>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GDRIVE</link>
 <info>SINOPSE DO FILME</info>
-<genre>FICÇÃO</genre>
+<genre>GÊNERO DO FILME</genre>
 </item>
+<item>
