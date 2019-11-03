@@ -167,12 +167,17 @@ https://drive.google.com/file/d/1ZHcbxBs9fLE4s9Sneo9pFAjOrlZtQoV3/view</link>
 <item>
 
 <item>
-<title>teste</title>
-<link>https://photos.google.com/photo/AF1QipO1e2PJUdCodvv-9QufhXqYoQPgrZ-nvmV6dW0O</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
+<title>[COLOR lime]asterix - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1fKkHla0cH8w5PW5xX20Lg7yVcB6EcyQa/view</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
 </item>
+<item>
+
+
 
 
 <channels></channels>
