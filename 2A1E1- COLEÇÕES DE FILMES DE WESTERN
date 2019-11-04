@@ -65,23 +65,34 @@ com o frio matador.</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
+<name>[COLOR lime]YOUNG GUNS[/COLOR]</name>
 <thumbnail>THUMBNAIL</thumbnail>
 <fanart>FANART</fanart>
 <info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
+COLEÇÃO YOUNG GUNS COMPLETA</info>
 <genre>WESTERN/genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - ANO - SD 720 1080- DUB LEG [/COLOR]</title>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>FANART</fanart>
+<title>[COLOR lime]YOUNG GUNS I - JOVENS PISTOLEIROS - 1990 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91meaG80kzL._RI_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rQJ66xoqLuIWF9RonFdWAgoje4J.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO FILME NO G DRIVE</link>
-<info>
-TEXTO DE SINOPSE</info>
+LINK PARA O FILME NO GDRIVE</link>
+<info>1878, Novo México. John Tunstall recolhe jovens pistoleiros das ruas e os leva para trabalhar em seu rancho, além de ensiná-los a ler e educá-los. No entanto ele é um empecilho para um rico rancheiro, Lawrence G. Murphy, pois ambos competem pela venda de carne. Um dia Tunstall é morto pelos capangas de Murphy e o juiz Wilson  não pode fazer nada, pois o xerife Brady é um dos capangas de Murphy. O advogado Alex McSween persuade o juiz para nomear William Bonney, Josiah Gordon Scurlock, Richard Brewer, Chavez y Chavez, Steve Stephens e Charles Bowdre, que trabalhavam para John, como delegados com poderes para prender assassinos. Só que em vez de prendê-los Bonney os mata. Então os 6 amigos passam a ser caçados por forças do governo e caçadores de recompensa, com William adotando o nome de Billy, The Kid.</info>
 <genre>WESTERN</genre>
 </item>
+<item>
+
+<item>
+<title>[COLOR lime]YOUNG GUNS II - JOVENS DEMAIS PARA MORRER - 1990 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://musicart.xboxlive.com/7/380f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
+<fanart>http://mortensfilmanmeldelser.dk/wp-content/uploads/2019/09/Young-Guns-2.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1w6Q1pEzCjWUSMTPAahbll_ib-DsZQU-F/view?usp=sharing</link>
+<info>O Jovem Billy the Kid e seu bando partem em direção à fronteira com o México para fugir da mira da justiça. Eles são perseguidos por homens-da-lei que querem capturá-los a qualquer custo, mas contam com a esperteza e a habilidade no gatilho para escapar de forma espetacular a cada vez que se encontram ameaçados. Seqüência de "Os Jovens Pistoleiros".</info>
+<genre>WESTERN</genre>
+</item>
+<item>
  
 
 
