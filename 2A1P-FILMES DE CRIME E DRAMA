@@ -21,8 +21,8 @@
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE CRIME[/B][/COLOR] </name>
-<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
-<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
 <info>
 O CRIME NEM SEMPRE COMPENSA</info>
 <genre>CRIME</genre>
@@ -34,15 +34,15 @@ O CRIME NEM SEMPRE COMPENSA</info>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GDRIVE</link>
 <info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
+<genre>CRIME</genre>
 </item>
 <item>
 
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]FILMES DE DRAMA[/B][/COLOR] </name>
-<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
-<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
 <info>
 OS MELHORES CLÁSSICOS DO GÊNERO</info>
 <genre>DRAMA</genre>
@@ -54,26 +54,16 @@ OS MELHORES CLÁSSICOS DO GÊNERO</info>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GDRIVE</link>
 <info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
+<genre>DRAMA</genre>
 </item>
 <item>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR] </name>
-<thumbnail>IMAGEM ICONE DA COLEÇÃO</thumbnail>
-<fanart>IMAGEM DE FUNDO DA COLEÇÃO</fanart>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1Q-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20CRIME%20E%20DRAMA</externallink>
 <info>
 COLEÇÕES DE FILMES DE CRIME E DRAMA</info>
 <genre>CRIME E DRAMA</genre>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]COLEÇÕES DE FILMES DE SUSPENSE E TERROR[/B][/COLOR] </name>
-<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
-<fanart>http://bit.do/fanartsubcat-gialo</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1Q-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20CRIME%20E%20DRAMA</externallink>
-<info>
-COLEÇÕES DE FILMES DE SUSPENSE E TERROR </info>
-<genre>SUSPENSE E TERROR</genre>
