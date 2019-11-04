@@ -109,6 +109,17 @@ PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 
 <channels>
 <channel>
+<name>[COLOR lime][B]CRIME E DRAMA[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1P-FILMES%20DE%20CRIME%20E%20DRAMA</externallink>
+<info>
+OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR red][B]007[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-007</thumbnail>
 <fanart>http://bit.do/fanartsubcat-007</fanart>
