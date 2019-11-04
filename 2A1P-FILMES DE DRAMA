@@ -1,0 +1,39 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DRAMA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE DRAMA[/B][/COLOR] </name>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
+<info>
+OS MELHORES CLÁSSICOS DO GÊNERO DRAMA</info>
+<genre>GÊNERO DA NOVA PAGE</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+<item>
