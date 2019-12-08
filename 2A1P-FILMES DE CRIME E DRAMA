@@ -28,12 +28,12 @@ O CRIME NEM SEMPRE COMPENSA</info>
 <genre>CRIME</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
+<title>[COLOR lime]FOGO CONTRA FOGO - 1995 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSkuWgF83aXDyvKxgIHCvcXVurj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s5GEd31RA3HYcbVZJsT7MR2d1Hs.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
+https://drive.google.com/file/d/1qp442fZcle41XFHaALeoygkJXKp38joM/view</link>
+<info>Em Los Angeles é cometido um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos no assalto. Assim, um detetive da Divisão de Roubo e Homicídio (Al Pacino) assume o caso. Apesar de contar com poucas pistas, de estar lidando com ladrões profissionais além de ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.</info>
 <genre>CRIME</genre>
 </item>
 <item>
