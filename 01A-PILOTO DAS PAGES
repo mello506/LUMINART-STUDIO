@@ -24,12 +24,12 @@ DICAS DE NAVEGAÇÃO
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]FILMES DE (NOME DA PAGE)[/B][/COLOR] </name>
-<thumbnail>IMAGEM ICONE DA (NOME DA PAGE)</thumbnail>
-<fanart>IMAGEM DE FUNDO DA (NOME DA PAGE)</fanart>
+<name>[COLOR lime][B]FILMES DE (NOME DA CATEGORIA)[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
 <info>
-DESCRIÇÃO CHAMATIVA DA NOVA PAGE</info>
-<genre>GÊNERO DA NOVA PAGE</genre>
+DESCRIÇÃO CHAMATIVA DA NOVA CATEGORIA</info>
+<genre>GÊNERO DA NOVA CATEGORIA</genre>
 
 <item>
 <title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
@@ -41,6 +41,18 @@ LINK PARA O FILME NO GDRIVE</link>
 <genre>GÊNERO DO FILME</genre>
 </item>
 <item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE (NOME DA CATEGORIA)[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE DA COLEÇÃO</thumbnail>
+<fanart>IMAGEM DE FUNDO DA COLEÇÃO</fanart>
+<externallink>LINK PARA A PAGE DA COLEÇÃO</externallink>
+<info>
+COLEÇÕES DE FILMES DE (NOME DA CATEGORIA)</info>
+<genre>GÊNERO DA CATEGORIA</genre>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ACRESCENTAR FILMES E LINKAR NOVA PAGE COM AS COLEÇÕES
 
@@ -54,8 +66,7 @@ ACRESCENTAR FILMES E LINKAR NOVA PAGE COM AS COLEÇÕES
 COLEÇÕES DE FILMES DE (NOME DA PAGE)</info>
 <genre>GÊNERO DA COLEÇÃO</genre>
 
-
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 CATEGORIAS DE FILMES NA MESMA PAGE
 
@@ -78,4 +89,43 @@ LINK PARA O FILME NO GDRIVE</link>
 <genre>GÊNERO DO FILME</genre>
 </item>
 <item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+MODELO PARA DESENHOS E SÉRIES
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]NOME DA SÉRIE OU DESENHO - (NÚMERO DA TEMP)ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>
+DESCRIÇÃO CURTA DA SÉRIE OU DESENHO</info>
+<genre>DESENHOS OU SÉRIE</genre>
+
+<item>
+<title>[COLOR lime]NOME DA SÉRIE OU DESENHO -> T01EP01- NOME DO EPISÓDIO[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>NOME DA SÉRIE OU DESENHO - (NÚMERO DA TEMP)ª TEMPORADA</info>
+<genre>DESENHOS OU SÉRIE</genre>
+</item>
+<item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
