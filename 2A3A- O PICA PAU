@@ -1,49 +1,131 @@
-<item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<link>https://</link>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue]O PICAPAU[/COLOR]</title>
-<thumbnail>
-https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
-<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg
-</fanart>
-<link>https://</link>
-<info>Pica-Pau é um personagem da série estadunidense de mesmo nome, um pica-pau antropomórfico, que estrelou vários 
-curta-metragens de animação produzidos pelo estúdio de Walter Lantz</info>
-</item>
-
-<item>
-<title>[COLOR lime]OS TRABALHADORES DA FLORESTA[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1svo9esmtyiSFa9yW0_WV_Y-OXEF2RS5c/view?usp=drivesdk</link>
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]O PICA-PAU - 1ª TEMPORADA[/B][/COLOR] </name>
 <thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
 <fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
-<info>(720)-DUBLADO</info>
-</item>
-<item>
+<info>
+AS AVENTURAS DO PÁSSARO MAIS DOIDO DO CINEMA</info>
+<genre>DESENHOS</genre>
 
 <item>
-<title>[COLOR lime]OS TRÊS PICA PAUS[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18O6f1BwKWL0AlEwXaHdksagne1S1DnvI/view?usp=drivesdk</link>
+<title>[COLOR lime]O PICA-PAU -> PILOTO - Pica-Pau Ataca Novamente[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
 <fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
-<info>(720)-DUBLADO</info>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
 </item>
 <item>
 
 <item>
-<title>[COLOR lime]OS TRÊS PICA PAUS[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18O6f1BwKWL0AlEwXaHdksagne1S1DnvI/view?usp=drivesdk</link>
+<title>[COLOR lime]O PICA-PAU -> T01EP01- Pica-Pau Biruta[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
 <fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
-<info>(720)-DUBLADO</info>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
 </item>
 <item>
 
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP02- O Biruta[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP03- Pânico na Cozinha[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP04- O Matador de Hollywood[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP05- Um Ás Demais[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP06- A Loja do Prego[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP07- Beisebol Maluco[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP08- O Acrobata Maluco[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP09- O Afanador de Gasolina[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>O PICA-PAU - 1ª TEMPORADA</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
