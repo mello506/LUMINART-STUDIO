@@ -70,13 +70,51 @@ https://drive.google.com/file/d/1_nfWLeZn37dKkvi26Nin3aiIRm8-AQpZ/view</link>
 <genre>TERROR</genre>
 </item>
 
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
+<channels></channels>
+<channel>
+<name>[COLOR lime]TUBARÃO[/COLOR]</name>
+<thumbnail>https://i.ibb.co/mvsXdLq/tubar-ocolicon.jpg</thumbnail>
+<fanart>https://i.ibb.co/VMdJm0S/tubar-ocolfan.jpg</fanart>
 <info>
-TEXTO DE SINOPSE</info>
-<genre>SUSPENSE E TERROR</genre>
+COLEÇÃO TUBARÃO</info>
+<genre>SUSPENSE</genre>
+
+<item>
+<title>[COLOR lime]TUBARÃO I - 1975 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/8gGScKWwYeZ6aWbYG5MygeHpLM6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/36ZQ1TbR1wptQgz7PaSWFWpUtPV.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WPdu-78dSw1qW3Ss-DS7VZC0HHH-mQT2/view</link>
+<info>Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local (Roy Scheider) pede ajuda a um ictiologista (Richard Dreyfuss) e a um pescador veterano (Robert Shaw) para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TUBARÃO II - 1978 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/lMrXhNuFAROHAcWJmNWKi5KwqbS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/srp8a3DHstIm75gWIjGyovnOHfz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1G3i95CcnEL6zxLaJX6FOcpvwIlVlG6fL/view</link>
+<info>Passaram-se quatro anos desde que o tubarão branco apavorou a população da, até então, pacífica praia de Amity. Quando tudo parecia mais calmo, uma nova criatura aparece para aterrorizar a região, agora alvo de uma intensa especulação imobiliária. O chefe de polícia Martin Brody (Roy Scheider) vai lutar contra o tempo para salvar toda a população das garras desse animal.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TUBARÃO III - 1983 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/cPKfQE2ZV0ksu2ZxWw8MFr1tY7d.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e6xFzaEzjSF4OnJ4f65ovMJE3vu.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1jovKUqMGArzozU9FiZq5LS7Snjd6mYh-/view</link>
+<info>A fera assassina dos mares está de volta, desta vez atacando funcionários e frequentadores de um parque aquático da Flórida.</info>
+<genre>SUSPENSE</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TUBARÃO IV - 1987- 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/sE89h0JcODjqCbXmeLhQq4sSUlx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ySH9Jusrh4zKeQf05Ue0W4lqx3U.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1bTqWBj_DS9DhfUsZmaDgViOwwq2Mw00t/view</link>
+<info>Ellen, viúva do chefe policial Martin Brody (papel que pertenceu a Roy Scheider), já está farta de viver sob constante tensão no balneário de Amity. Pensando em descansar e passar o natal com os filhos, noras e netos, arruma as malas e vai para o Caribe. Mas acredite: o grande e temível tubarão branco também está lá, mas não é de férias. Ele está lá em busca de vingança!Considerado por vários críticos de cinema com um dos piores filmes de todos os tempos.</info>
+<genre>SUSPENSE</genre>
 </item>
