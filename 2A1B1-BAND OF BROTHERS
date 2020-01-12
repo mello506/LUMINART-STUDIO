@@ -9,6 +9,142 @@
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]BAND OF BROTHERS - ÚNICA TEMPORADA[/B][/COLOR] </name>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<info>BAND OF BROTHERS - ÚNICA TEMPORADA</info>
+<genre>GUERRA</genre>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP01 - CURRAHEE[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>Este episódio acompanha o percurso da Companhia Easy durante os treinos de pára-quedismo na base de Camp Toccoa, na Geórgia. São apresentadas as personagens principais, em particular o Tenente Dick Winters e o Tenente Lewis Nixon. O episódio dá especial destaque às reações da companhia ao Capitão Herbert Sobel, o rígido, original e egocêntrico comandante da Companhia Easy. No entanto, a liderança de Sobel durante os exercícios deixa os homens inquietos quanto a seguirem-no em batalha. Toda esta tensão acaba por culminar numa acusação de Sobel a Dick Winters sobre um suposto não-cumprimento de ordens. Essa situação acaba por ser levada ao conselho de guerra. Não aceitando a situação, os oficiais não-comissionados, num ato de motim, informam que não desejam servir na Companhia Easy. Como resultado, o Coronel Sink retira Sobel como comandante da Companhia e substitui-o pelo Tenente Thomas Meehan. No final do episódio, a companhia embarca para a Inglaterra e prepara o seu lançamento sobre a Normandia como parte da Operação Overlord.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP02 - DIA DOS DIAS[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>Chega o Dia D e a Companhia Easy participa da invasão da Normandia, incluída no Ataque de Brecourt Manour. Este episódio é mostrado sob a perspectiva do Tenente Richard Winters em sua tentativa de chegar ao ponto de encontro depois de ser largado a vários quilômetros de distância.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP03 - CARENTAN[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>A Companhia Easy luta pela cidade francesa de Carentan e repele o iminente contra-ataque alemão com ajuda das companias Dog e Fox. Este episódio é mostrado da perspectiva do Soldado Albert Blithe, que luta contra seu medo na área de operações, contra o medo de matar e contra o medo de decepcionar seus compatriotas.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP04 - SUBSTITUTOS[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>De volta à Inglaterra, a Companhia Easy recebe novos soldados; Winters, agora capitão, lidera a companhia, enquanto esta é lançada sobre os céus dos Países Baixos como apoio à Operação Market Garden. Este episódio é mostrado sob as perspectivas dos novos soldados e do Sargento "Bull" Randleman, que acaba por desaparecer em ação, sendo obrigado a abrigar-se num celeiro rodeado pelas forças alemãs antes de regressar na manhã seguinte à Companhia Easy.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP05 - ENCRUZILHADA[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>Ainda nos Países Baixos, contado em flashback sob a perspectiva do agora Oficial Executivo do Batalhão Dick Winters, a Companhia Easy ataca uma ofensiva alemã, acabando por ser uma operação quase perfeita. A Companhia Easy é tomada agora pelo novo Tenente Heyliger (que acaba por ser atingido por fogo amigo, isto é, dos próprios companheiros de batalha) e depois pelo Tenente Dike. </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP06 - BASTOGNE[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>A Companhia Easy está entrincheirada perto da cidade belga de Bastogne durante a Batalha do Bulge. Este episódio é mostrado sob a perspectiva de um dos dois médicos da companhia, Eugene "Doc" Roe.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP07 - O PONTO DE RUPTURA[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>Este episódio ilustra o stress sentido pelos homens durante a luta na área de Foy, na Bélgica. Esse episódio é mostrado sob a perspectiva do Primeiro Sargento Carwood Lipton.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP08 - A ÚLTIMA PATRULHA[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>A Companhia Easy avança para a cidade de Haguenau. Este episódio é mostrado sob a perspectiva de David Webster e um novo Tenente (desempenhado por Colin Hanks, filho do produtor executivo Tom Hanks). Winters é promovido a Major, e Lipton a Segundo Tenente.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP09 - POR ISSO NÓS LUTAMOS[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>A Companhia Easy avança sobre o território alemão e descobre um campo de concentração nazista perto de Landsberg.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS -> EP10 - PONTOS[/COLOR]</title>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O BAND OF BROTHERS NO DRIVE</link>
+<info>A Companhia Easy captura o Ninho da Águia de Hitler e observa a possibilidade de ser transferida para o Teatro de Operações do Pacífico. A guerra termina e os homens da Companhia Easy regressam para casa.  </info>
+<genre>GUERRA</genre>
+</item>
+<item>
+
+
+
+
+
+
 <item>
 <title>[COLOR blue][B]ÚNICA TEMPORADA[/B][/COLOR]</title>
 <thumbnail>http://www.sclance.com/quotes/band-of-brothers-quotes/band-of-brothers-quotes_118498.jpg</thumbnail>
