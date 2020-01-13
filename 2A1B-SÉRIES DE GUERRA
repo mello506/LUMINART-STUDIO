@@ -56,19 +56,6 @@ sucesso na história militar americana do treinamento em 1942, até o final da 2
 <info>BAND OF BROTHERS - ÚNICA TEMPORADA</info>
 <genre>GUERRA</genre>
 
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
-<info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
-
 <item>
 <title>[COLOR lime]BAND OF BROTHERS -> EP01 - CURRAHEE[/COLOR]</title>
 <thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
@@ -179,18 +166,8 @@ LINK PARA O BAND OF BROTHERS NO DRIVE</link>
 </item>
 <item>
 
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
-<info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
+
+
 
 <channels></channels>
 <channel>
