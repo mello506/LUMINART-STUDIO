@@ -21,39 +21,12 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR lime]BAND OF BROTHERS[/COLOR]</name>
-<thumbnail>http://www.sclance.com/quotes/band-of-brothers-quotes/band-of-brothers-quotes_118498.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/_eio_3mWnqdU/S9hN7-w1wsI/AAAAAAAAAs4/hLulyoX5jdM/s1600/bandofbrothersd.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1B1-BAND%20OF%20BROTHERS</externallink>
-<info>Vá junto com Companhia "E" Easy , do 506º Regimento da 101ª Divisão Aerotransportada,uma das unidades de maior 
-sucesso na história militar americana do treinamento em 1942, até o final da 2ª Guerra Mundial.</info>
-<genre>GUERRA</genre>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR red]THE PACIFIC[/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1B2%20-THE%20PACIFIC</externallink>
-<info>Os EUA e Japão de enfrentam nas ilhas do Pacifico palmo a palmo,numa vítória com um alto custo.</info>
-<genre>GUERRA</genre>
-</channel>
-</channels>
-
-
-
-
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]BAND OF BROTHERS - ÚNICA TEMPORADA[/B][/COLOR] </name>
 <thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
 <fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
-<info>BAND OF BROTHERS - ÚNICA TEMPORADA</info>
+<info>Vá junto com Companhia "E" Easy , do 506º Regimento da 101ª Divisão Aerotransportada,uma das unidades de maior sucesso na história militar americana do treinamento em 1942, até o final da 2ª Guerra Mundial.</info>
 <genre>GUERRA</genre>
 
 <item>
@@ -174,7 +147,7 @@ LINK PARA O BAND OF BROTHERS NO DRIVE</link>
 <name>[COLOR lime][B]THE PACIFIC - ÚNICA TEMPORADA[/B][/COLOR] </name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<info>THE PACIFIC - ÚNICA TEMPORADA</info>
+<info><info>Os EUA e Japão de enfrentam nas ilhas do Pacifico palmo a palmo,numa vítória com um alto custo.</info></info>
 <genre>GUERRA</genre>
 
 <item>
