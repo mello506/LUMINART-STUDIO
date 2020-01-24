@@ -2,9 +2,9 @@
 MODELO COM VARIOS LINKS
 
 <item>
-<title>TITULO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<title>RAMBO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view$$lsname=[COLOR orange]HD[/COLOR] - RAMBO 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view$$lsname=[COLOR orange]HD[/COLOR] - RAMBO 2</link>
 <link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
