@@ -51,3 +51,14 @@
    DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]TESTE 3 LINKS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/TESTE%20TRES%20LINKS</externallink>
+<info>
+   TESTE</info>
+</channel>
+</channels>
