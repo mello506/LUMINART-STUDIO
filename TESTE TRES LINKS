@@ -5,7 +5,7 @@ MODELO COM VARIOS LINKS
 <title>RAMBO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yJHlDuCbGb7QHvO1UbXPRhpE7d4IH6p/view$$lsname=[COLOR orange]HD[/COLOR] - RAMBO 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17DxF6QtAbDsLKhzLvxLwIbG2C8wbfIUP/view$$lsname=[COLOR orange]HD[/COLOR] - RAMBO 2</link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<link>https://drive.google.com/file/d/1bGwtjUiINOzw4e3stTGOzM8MskPpGCyq/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
@@ -18,7 +18,7 @@ MODELO GDRIVE DE APENAS UM LINK
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GOOGLE DRIVE</link>
+https://drive.google.com/file/d/1bGwtjUiINOzw4e3stTGOzM8MskPpGCyq/view</link>
 <info>
 TEXTO DE SINOPSE</info>
 <genre>GÊNERO DO FILME</genre>
@@ -28,7 +28,7 @@ MODELO UNIVERSAL DE APENAS UM LINK
 
 <item>
 <title>TITULO</title>
-<link></link>
+<link>https://drive.google.com/file/d/1bGwtjUiINOzw4e3stTGOzM8MskPpGCyq/view</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
