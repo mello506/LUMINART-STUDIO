@@ -62,3 +62,16 @@
    TESTE</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]TESTE[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/jefterruthes/IPTV-Janeiro/master/TechRuthesCanais28</externallink>
+<info>
+  teste</info>
+</channel>
+</channels>
+
+https://raw.githubusercontent.com/jefterruthes/IPTV-Janeiro/master/TechRuthesCanais28
