@@ -53,11 +53,11 @@ https://drive.google.com/file/d/18ptWNU2IEB3-cD5Ijk5hXVPwhL00CZuU/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]A VOLTA DOS MORTOS-VIVOS [/COLOR]</name>
+<name>[COLOR lime]FILMES DE MORTOS-VIVOS [/COLOR]</name>
 <thumbnail>https://i.ibb.co/jVm8jNR/osmortosvivos.png</thumbnail>
 <fanart>https://i.ibb.co/XFbVs28/mortosvivosfundo.jpg</fanart>
 <info>
-COLEÇÃO A VOLTA DOS MORTOS-VIVOS</info>
+COLEÇÃO DE FILMES DE MORTOS-VIVOS </info>
 <genre>SUSPENSE E TERROR</genre>
 
 <item>
@@ -89,6 +89,17 @@ https://drive.google.com/file/d/1wK2E28wsXq-gaNKT5C77daROlT2GNYCu/view</link>
 <info>Curt e sua namorada Julie descobrem que a base militar da região está fazendo uma experiência secreta com o gás Trioxin, o mesmo que trouxe os mortos à vida nos filmes anteriores. Quem coordena a pesquisa é o pai de Curt, e a intenção é usar o gás como arma de guerra para que os zumbis devorem os inimigos. Curt, revoltado por não querer acompanhar o pai na sua transferência para a cidade de Oklahoma, resolve fugir com Julie. Na fuga eles sofrem um acidente, e Julie morre. Curt desesperado a leva para a base militar para ressuscitá-la com o gás, e ela se torna uma zumbi faminta por carne humana. Ainda assim, Curt quer mantê-la viva e precisa fugir do exército, que quer capturar a garota, e de uma gangue de latinos com a qual se encrencou.</info>
 <genre>TERROR</genre>
 </item>
+
+<item>
+<title>[COLOR lime]A NOITE DOS MORTOS VIVOS - 1990 - SD  - DUB LEG[/COLOR]</title>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS54Vlm1vPL5ltHpg-UMBs_FzkeL-y9Qr-AtRuQJ4P_yR4pxY9G</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jMxWRHsPJoz1q8PbKhPvz3f1RfA.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/115DtU1CMtiwyciHckxgNuXOktVd4G3F8/view?usp=sharing</link>
+<info>Sete estranhos ficam presos em uma isolada casa de fazenda enquanto zumbis canibais - despertados da morte por um teste radioativo no espaço - promovem um incansável ataque, matando (e comendo) qualquer um em seu caminho. Remake do clássico de 1968.</info>
+<genre>TERROR</genre>
+</item>
+<item>
 
 <channels></channels>
 <channel>
