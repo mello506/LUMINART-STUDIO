@@ -1,19 +1,22 @@
-<item>
-<title>[COLOR blue] [B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue]A TURMA DO MANDA CHUVA - 1ª TEMPORADA[/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[COLOR blue]A TURMA DO MANDA CHUVA - 1ª TEMPORADA[/COLOR][/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvK0XNc0LBNMtoGsi3eYCabcmti.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tu65n8VfZaJW2IgBDV2NZj5h6iB.jpg</fanart>
 <info>O GATO MAIS MALANDRO DO PEDAÇO</info>
-</item>
 
 <item>
 <title>[COLOR lime]A TURMA DO MANDA CHUVA -> T01EP01[/COLOR]</title>
