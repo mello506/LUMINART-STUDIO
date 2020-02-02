@@ -13,10 +13,12 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR blue]A TURMA DO MANDA CHUVA - 1ª TEMPORADA[/COLOR][/COLOR] </name>
+<name>[COLOR lime][B]A TURMA DO MANDA CHUVA[/B][/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvK0XNc0LBNMtoGsi3eYCabcmti.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tu65n8VfZaJW2IgBDV2NZj5h6iB.jpg</fanart>
-<info>O GATO MAIS MALANDRO DO PEDAÇO</info>
+<info>
+O GATO MAIS MALANDRO DA CIDADE</info>
+<genre>DESENHOS</genre>
 
 <item>
 <title>[COLOR lime]A TURMA DO MANDA CHUVA -> T01EP01[/COLOR]</title>
