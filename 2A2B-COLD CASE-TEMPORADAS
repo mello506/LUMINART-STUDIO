@@ -14,39 +14,17 @@
 <channels></channels>
 <channel>
 <name>[COLOR lime][B]COLD CASE - 1ª TEMPORADA[/B][/COLOR] </name>
-<thumbnail>https://image.tmdb.org/t/p/original/y6mhLG09nG07QPsjmv0eBilvPgG.jpg</thumbnail>
-<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
-<info>
-A JUSTIÇA TARDA MAS NÃO FALHA</info>
-<genre>AÇÃO</genre>
-
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
-<info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]COLD CASE - 1ª TEMPORADA[/B][/COLOR] </name>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <info>A detetive Lilly Rush é a única mulher na equipe de homicídios da polícia da Filadélfia, e logo fica responsável em cuidar dos casos arquivados. Agora, ela interroga testemunhas desses crimes, cujas vidas mudaram muito desde então, utilizando as tecnologias atuais e encontrando novas pistas para solucionar os crimes antes impossíveis de serem solucionados. Mas Rush também se prepara para as conseqüências, pois seu trabalho irá abrir velhas feridas e talvez leve os suspeitos a cometerem novos crimes. Sempre que está num beco sem saída, ela pede a ajuda de seu mentor, o tenente Tom Stillman. Também em sua equipe estão o detetive Will Jeffries, que já está na polícia por tempo suficiente para ser o link de Lily com o passado e o detetive Nick Vera, um policial durão que é capaz de fazer de tudo para conseguir uma confissão.</info>
 <genre>INVESTIGAÇÃO</genre>
 
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP01 - O Um Crime Esquecido[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO EPISÓDIO NO G DRIVE</link>
+https://drive.google.com/file/d/1YPSWDvcy4Nf8o3ZBqn6Z88WGD5prcmGo/view?usp=sharing</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
 <genre>INVESTIGAÇÃO</genre>
 </item>
@@ -55,7 +33,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP02 - A Bomba[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -66,7 +44,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP03 - Ele Voltou[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -77,7 +55,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP04 - Religioso [/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -88,7 +66,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP05 - Redenção[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -99,7 +77,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP06 - Amor e Ódio[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -110,7 +88,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP07 - Tempo de Odiar[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -121,7 +99,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP08 - O Vôo[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -132,7 +110,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP09 - Querida Sherry[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -143,7 +121,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP10 - A Carona [/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -154,7 +132,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP11 - Arrogância[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -165,7 +143,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP12 - Color [/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -176,7 +154,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP13 - A Carta[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -187,7 +165,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP14 - O Menino da Caixa [/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -198,7 +176,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP15 - Inferno na Discoteca[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -209,7 +187,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP16 - Voluntários[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -220,7 +198,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP17 - A Alma Perdida de Herman Lester[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -231,7 +209,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP18 - Decisão de Ano Novo [/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -242,7 +220,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP19 - Voto do Passado[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -253,7 +231,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP20 - Ganância[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -264,7 +242,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP21 - Instintos Maternais[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -275,7 +253,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP22 - O Plano[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
@@ -286,7 +264,7 @@ LINK DO EPISÓDIO NO G DRIVE</link>
 <item>
 <title>[COLOR lime]COLD CASE -> T01EP23 - Namorados[/COLOR]</title>
 <thumbnail>https://img.comunidades.net/rep/replayoutv/cold_1.jpg</thumbnail>
-<fanart>https://s1.dmcdn.net/v/MwidU1RP6Ly_eqjcm/x1080</fanart>
+<fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO EPISÓDIO NO G DRIVE</link>
 <info>COLD CASE - 1ª TEMPORADA</info>
