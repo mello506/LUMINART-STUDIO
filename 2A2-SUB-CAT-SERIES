@@ -23,7 +23,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]F.B.I.[/COLOR]</name>
+<name>[COLOR lime][B]F.B.I.[/B][/COLOR]</name>
 <thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2019/01/FBI.png</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2A-F.B.I-TEMPORADAS</externallink>
@@ -35,7 +35,7 @@ O PODER DA INVESTIGAÇÃO AMERICANA </info>
 
 <channels>
 <channel>
-<name>[COLOR lime]COLD CASE[/COLOR]</name>
+<name>[COLOR lime][B]COLD CASE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/y6mhLG09nG07QPsjmv0eBilvPgG.jpg</thumbnail>
 <fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2B-COLD%20CASE-TEMPORADAS</externallink>
@@ -47,7 +47,7 @@ A JUSTIÇA TARDA MAS NÃO FALHA </info>
 
 <channels>
 <channel>
-<name>[COLOR lime]NOVA SÉRIE[/COLOR]</name>
+<name>[COLOR lime][B]NOVA SÉRIE[/B][/COLOR]</name>
 <thumbnail>http://br.web.img2.acsta.net/c_216_288/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
 <fanart>https://static.sorozatbarat.online/covers/288/24.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2C-NOVA%20S%C3%89RIE</externallink>
