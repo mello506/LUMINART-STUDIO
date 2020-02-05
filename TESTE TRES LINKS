@@ -1,52 +1,34 @@
+MODELO COM VARIOS LINKS
 
 <item>
 <title>TITULO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iiI_jENLZIBKc17tZn9fMuQOkSZQwqi6/view$$lsname=[COLOR lime]HD[/COLOR] - CARTER</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lySxToqw7OSBHjykwkbdE8fqWfJO1_ex/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>http://cdn2.canais.ink/RCServer08/ondemand/STRTRKPCRDT01EP01.mp4?attachment=true$$lsname=[COLOR orange]SH2[/COLOR] - LINK 3</link>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>SINOPE</info>
-</item>
-
-
-
-
-
-<item>
-<title>TITULO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iiI_jENLZIBKc17tZn9fMuQOkSZQwqi6/view$$lsname=[COLOR lime]HD[/COLOR] - CARTER</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>http://cdn2.canais.ink/RCServer08/ondemand/STRTRKPCRDT01EP01.mp4?attachment=true$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
 </item>
 
+MODELO GDRIVE DE APENAS UM LINK
 
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080- DUB LEG [/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GOOGLE DRIVE</link>
+<info>
+TEXTO DE SINOPSE</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
 
 <item>
 <title>TITULO</title>
-<link>http://cdn2.canais.ink/RCServer08/ondemand/STRTRKPCRDT01EP01.mp4?attachment=true</link>
+<link></link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
 </item>
-
-<item>
-<title>SH1</title>
-<link>https://d2yo1u9l5q8jqh.cloudfront.net/RCFServer1/ondemand/SHRLCKHLMS01.mp4?attachment=true</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
-</item>
-
-<item>
-<title>SH2</title>
-<link>https://d2yo1u9l5q8jqh.cloudfront.net/RCFServer1/ondemand/SHRLCKHLMS02.mp4?attachment=true</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
-</item>
-
-
