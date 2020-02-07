@@ -3,7 +3,7 @@ MODELO COM VARIOS LINKS
 <item>
 <title>TITULO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1lySxToqw7OSBHjykwkbdE8fqWfJO1_ex/view$$lsname=[COLOR orange]HD[/COLOR] - TESTE 1</link>
+https://drive.google.com/file/d/1lySxToqw7OSBHjykwkbdE8fqWfJO1_ex/view$$lsname=[COLOR lime]HD[/COLOR] - PLATOON</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
 <link>https://www2034.o0-5.com/token=7hVYjTr7x6Hk6mGDolee8g/1580961402/45.71.0.0/73/4/99/74a77ed46d45ca1cd9bdefbe4efb2994-480p.mp4$$lsname=[COLOR orange]HD[/COLOR] - teste 3</link>
 <thumbnail>ICONE</thumbnail>
