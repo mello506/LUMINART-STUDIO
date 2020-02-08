@@ -4,8 +4,9 @@ MODELO COM VARIOS LINKS
 <title>TITULO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1lySxToqw7OSBHjykwkbdE8fqWfJO1_ex/view$$lsname=[COLOR lime]HD[/COLOR] - PLATOON</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>http://tv.openload.network/lanadelrey/tvshows/themandalorian/s01e01-dub-720p.mp4$$lsname=[COLOR orange]HD[/COLOR] -   MANDALORIANO EP01</link>
+<link>http://tv.openload.network/lanadelrey/tvshows/themandalorian/s01e01-dub-720p.mp4$$lsname=[COLOR orange]HD[/COLOR]-MANDALORIANO EP02</link>
+<link>http://tv.openload.network/lanadelrey/tvshows/themandalorian/s01e02-dub-720p.mp4$$lsname=[COLOR orange]HD[/COLOR]-MANDALORIANO EP01</link>
+<link>http://tv.openload.network/lanadelrey/tvshows/themandalorian/s01e04-dub-720p.mp4$$lsname=[COLOR orange]HD[/COLOR]-MANDALORIANO EP03</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
