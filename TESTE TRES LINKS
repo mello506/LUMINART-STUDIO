@@ -35,3 +35,11 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
 </item>
+
+<item>
+<title>OBA OBA SAMBA HOUSE</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rUJhC2oBcVs</link>
+<thumbnail>https://i.imgur.com/4rI9dYR.jpg</thumbnail>
+<fanart>https://i.imgur.com/4rI9dYR.jpg</fanart>
+<info>OBA OBA SAMBA HOUSE</info>
+</item>
