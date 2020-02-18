@@ -20,6 +20,7 @@ MODELO GDRIVE DE APENAS UM LINK
 <fanart>FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK PARA O FILME NO GOOGLE DRIVE</link>
+<link>plugin://plugin.video.youtube/play/?video_id=$https://www.youtube.com/watch?v=BLSfybuzcnQ</link>
 <info>
 TEXTO DE SINOPSE</info>
 <genre>GÊNERO DO FILME</genre>
