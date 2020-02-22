@@ -40,15 +40,15 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <title>TITULO</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE
+https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view
 $$lsname=[COLOR lime]LS-> NOME DO FILME <-> SERVER 1[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE
+https://drive.google.com/file/d/1WHTsCh9Yj6taPi7po64y33bj1VcqWd9I/view
 $$lsname=[COLOR lime]LS-> NOME DO FILME <-> SERVER 2[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO G DRIVE
+https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view
 $$lsname=[COLOR lime]LS-> NOME DO FILME <-> SERVER 3[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
