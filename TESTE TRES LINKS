@@ -51,7 +51,8 @@ $$lsname=[COLOR lime]LS-> NOME DO FILME <-> SERVER 2[/COLOR]</link>
 https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view
 $$lsname=[COLOR lime]LS-> NOME DO FILME <-> SERVER 3[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGmoes5UHTNji3lusozGZgINN1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rLMTHSJS4KxGCfcczjiYtbWiZS2.jpg</fanart>
+<info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>
+<genre>GUERRA</genre>
 </item>
