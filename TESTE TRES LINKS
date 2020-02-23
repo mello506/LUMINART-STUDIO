@@ -44,8 +44,9 @@ $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
 <info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
 <year>1998</year>
 <duration>1:30</duration>
+<genre>GÊNERO DO FILME</genre>
+
 </item>
 <item>
