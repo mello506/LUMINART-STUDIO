@@ -1,1 +1,19 @@
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DA CATEGORIA DE FILME[/COLOR] </name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<info>
+DESCRIÇÃO CHAMATIVA DA NOVA CATEGORIA</info>
+<genre>GÊNERO DO FILME</genre>
 
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+<item>
