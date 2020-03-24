@@ -1,1 +1,29 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<externallink>https://</externallink>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]SUPER HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/JRDP6rZ/fanartsubcat-superherois.jpg</fanart>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]SUPER HERÓIS[/B][/COLOR] </name>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/JRDP6rZ/fanartsubcat-superherois.jpg</fanart>
+<info>
+OS MELHORES SUPER HERÓIS ESTÃO AQUI</info>
+<genre>WESTERN</genre>
