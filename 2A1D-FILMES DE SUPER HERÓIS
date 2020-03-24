@@ -25,5 +25,26 @@
 <thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
 <fanart>https://i.ibb.co/JRDP6rZ/fanartsubcat-superherois.jpg</fanart>
 <info>
-OS MELHORES SUPER HERÓIS ESTÃO AQUI</info>
-<genre>WESTERN</genre>
+OS MELHORES SUPER-HERÓIS ESTÃO AQUI</info>
+<genre>SUPER-HERÓIS</genre>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
+<item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]COLEÇÕES DE FILMES DE SUPER-HERÓIS[/B][/COLOR] </name>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/JRDP6rZ/fanartsubcat-superherois.jpg</fanart>
+<externallink>LINK PARA A PAGE DA COLEÇÃO</externallink>
+<info>
+COLEÇÕES DE FILMES DE SUPER-HERÓIS</info>
+<genre>SUPER-HERÓIS</genre>
