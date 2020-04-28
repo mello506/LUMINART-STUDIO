@@ -45,8 +45,8 @@ $$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 3[/COLOR]</link>
 <title>[COLOR lime]NOME DO FILME OU SÉRIE[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO FILME OU EPISÓDIO NO G DRIVE
-$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view
+$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view
