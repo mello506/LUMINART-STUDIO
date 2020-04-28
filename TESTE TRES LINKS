@@ -49,8 +49,8 @@ LINK DO FILME OU EPISÓDIO NO G DRIVE
 $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO FILME OU EPISÓDIO NO G DRIVE
-$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP01EP02 [/COLOR] </link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO FILME OU EPISÓDIO NO G DRIVE
