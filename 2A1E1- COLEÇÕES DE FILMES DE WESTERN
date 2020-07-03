@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]COLEÇÕES DE FILMES DE WESTERN[/B][/COLOR]</name>
+<name>[COLOR blue][B]COLETÂNEA DE FILMES DE WESTERN[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-western</thumbnail>
 <fanart>http://bit.do/fanartsubcat-western</fanart>
 <externallink>NOLINK</externallink>
@@ -22,11 +22,11 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]COLEÇÃO SERGIO LEONE[/COLOR]</name>
+<name>[COLOR lime]COLETÂNEA SERGIO LEONE[/COLOR]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/735/741/full/sergioleoneicon.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/735/980/full/sergioleonefan.jpg?1593391803</fanart>
 <info>
-COLEÇÃO SERGIO LEONE COMPLETA</info>
+COLETÂNEA SERGIO LEONE COMPLETA</info>
 <genre>WESTERN/genre>
 
 <item>
@@ -109,15 +109,15 @@ https://drive.google.com/file/d/1fa-i2qE_cUB9yPXXQz0Vis8OYi8Dt5nq/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]COLEÇÃO YOUNG GUNS[/COLOR]</name>
+<name>[COLOR lime]COLETÂNEA YOUNG GUNS[/COLOR]</name>
 <thumbnail>https://i.ibb.co/XF2DqQ0/younggunsicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/8NVzqNY/younggunsifan.jpg</fanart>
 <info>
-COLEÇÃO YOUNG GUNS COMPLETA</info>
+COLETÂNEA YOUNG GUNS COMPLETA</info>
 <genre>WESTERN/genre>
 
 <item>
-<title>[COLOR lime]LS-> YOUNG GUNS I - JOVENS PISTOLEIROS - 1988 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR lime]YOUNG GUNS I - JOVENS PISTOLEIROS - 1988 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91meaG80kzL._RI_.jpg</thumbnail>
 <fanart>https://i.ibb.co/YDvT1B0/youngguns1fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -128,7 +128,7 @@ https://drive.google.com/file/d/16XWcenC3Eben1k2yiYt_jrJ60Lt-pgl3/view</link>
 <item>
 
 <item>
-<title>[COLOR lime]LS-> YOUNG GUNS II - JOVENS DEMAIS PARA MORRER - 1990 - 720 - DUB[/COLOR]</title>
+<title>[COLOR lime]YOUNG GUNS II - JOVENS DEMAIS PARA MORRER - 1990 - 720 - DUB[/COLOR]</title>
 <thumbnail>https://musicart.xboxlive.com/7/380f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
 <fanart>https://i.ibb.co/Q8nKrKw/youngguns2fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -140,11 +140,11 @@ https://drive.google.com/file/d/1bAX8nfNAdGiwb-EGkvISB7ZJT1_3Nc_H/view</link>
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]COLEÇÃO JOHN WAYNE[/COLOR]</name>
+<name>[COLOR lime]COLETÂNEA JOHN WAYNE[/COLOR]</name>
 <thumbnail>https://i.ibb.co/1dMV1LQ/johnwayneicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Sxv8TkW/johnwayneifan.jpg</fanart>
 <info>
-COLEÇÃO JOHN WAYNE </info>
+COLETÂNEA JOHN WAYNE </info>
 <genre>WESTERN/genre>
 
 <item>
