@@ -3,7 +3,7 @@
 <thumbnail>IMAGEM ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view?usp=sharing</link>
+https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view</link>
 <info>SINOPSE DO FILME</info>
 <genre>GÊNERO DO FILME</genre>
 </item>
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view
 $$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1WHTsCh9Yj6taPi7po64y33bj1VcqWd9I/view
+https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
 $$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -56,7 +56,7 @@ $$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 3[/COLOR]</link>
 <title>[COLOR lime]NOME DO FILME OU SÉRIE[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view
+https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
 $$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
