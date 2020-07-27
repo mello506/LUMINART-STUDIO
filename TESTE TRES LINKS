@@ -34,10 +34,15 @@ https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
 <item>
 <title>[COLOR lime]TERRENO PROIBIDO[/COLOR]</title>
 
-<link>[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view
-$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
+<item>
+<title>[COLOR lime]3->TERRENO PROIBIDO - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
+<info>SINOPSE DO FILME</info>
+<genre>GÊNERO DO FILME</genre>
+</item>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
