@@ -46,12 +46,13 @@ $$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - [COLOR lime]CURRAHEE <-> TP00EP01 [
 <info>TET</info>
 <genre>AV</genre>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=
-[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
+$$lsname=[COLOR lime]CURRAHEE <-> TP01EP01[/COLOR]</link>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>TET</info>
+<genre>AV</genre>
 </item>
 
 MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
