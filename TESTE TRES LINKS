@@ -86,11 +86,11 @@ $$lsname=[COLOR lime]LS-> TESTE 3 <-> SERVER 3[/COLOR]</link>
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME OU SÉRIE[/COLOR]</title>
+<title>[COLOR lime]BAND OF BROTHERS[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
-$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]</link>
+https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
+$$lsname=[COLOR lime]CURRAHEE <-> TP01EP01[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view
@@ -186,6 +186,78 @@ https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
 <fanart>https://goo.gl/1y8V0J</fanart>
 </item>
 
+<item>
+<title>[COLOR lime]NOME DO FILME OU SÉRIE[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
+$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 1[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP01EP02 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVEs
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK DO FILME OU EPISÓDIO NO G DRIVE
+$$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
+
+
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
 
 
 
