@@ -41,6 +41,10 @@ MODELO COM VÁRIOS LINKS DO GDRIVE
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view  
 $$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - [COLOR lime]NOME DO FILME OU EPISÓDIO <-> TP00EP00 [/COLOR] </link>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>TET</info>
+<genre>AV</genre>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=
 [COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
