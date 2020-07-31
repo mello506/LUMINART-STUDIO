@@ -1,37 +1,4 @@
 <item>
-<title>[COLOR lime]buck - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view</link>
-<info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]1 - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
-<info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
-<info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
-</item>
-<item>
-
-<item>
 <title>[COLOR lime]TERRENO PROIBIDO[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
@@ -122,39 +89,12 @@ $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 LINK DO FILME OU EPISÓDIO NO G DRIVE
 $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 
-
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
 <info>SINOPE</info>
 </item>
 
-<item>
-<title>[COLOR lime]terreno pribido - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
-<info>SINOPSE DO FILME</info>
-<info>1998</info>
-<duration>1:30</duration>
-<genre>GÊNERO DO FILME</genre>
 
-</item>
-<item>
-
-<item>
-<title>Nome do Filme</title>
-<link>https://videos2.sendvid.com/66/e7/z8bskkrn.mp4?validfrom=1596221199&validto=1596228399&rate=200k&burst=1000k&ip=45.71.117.16&hash=cZZczrJxpY16G%2BNvxcnTA8iwb74%3D</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BUILD TUGA BOX TV</title>
-<utube>v=AjzUtwaNfxQ</utube>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<fanart>https://goo.gl/1y8V0J</fanart>
-</item>
 
 <item>
 <title>[COLOR lime]NOME DO FILME OU SÉRIE[/COLOR]</title>
