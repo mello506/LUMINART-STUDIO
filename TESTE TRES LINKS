@@ -90,8 +90,8 @@ $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 LINK DO FILME OU EPISÓDIO NO G DRIVE
 $$lsname=[COLOR lime]NOME DO FILME OU EPISÓDIO - TP00EP00 [/COLOR] </link>
 
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>SINOPE</info>
 </item>
 
