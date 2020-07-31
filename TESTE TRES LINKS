@@ -150,3 +150,16 @@ https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
 <thumbnail>https://goo.gl/NHRvpX</thumbnail>
 <fanart>https://goo.gl/1y8V0J</fanart>
 </item>
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>portugalkodi.com</info>
+</channel>
+
