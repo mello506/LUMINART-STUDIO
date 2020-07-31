@@ -64,11 +64,16 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 <item>
 <title>[COLOR lime]TERRENO PROIBIDO[/COLOR]</title>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view/$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
+$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
 $$lsname=[COLOR lime]LS-> TESTE 2 <-> SERVER 2[/COLOR]</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>TESTE</info>
+<genre>AVE</genre>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view
