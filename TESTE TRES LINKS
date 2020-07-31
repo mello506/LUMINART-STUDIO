@@ -1,5 +1,3 @@
-<layouttype>http://bit.do/iconnavegacao</layouttype>
-
 <item>
 <title>[COLOR lime]buck - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
 <thumbnail>IMAGEM ICONE</thumbnail>
@@ -32,35 +30,6 @@ https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
 <genre>GÊNERO DO FILME</genre>
 </item>
 <item>
-
-
-MODELO COM VÁRIOS LINKS DO GDRIVE
-
-<item>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
-$$lsname=[COLOR lime]CURRAHEE <-> TP01EP01[/COLOR]</link>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>TET</info>
-<genre>AV</genre>
-</item>
-
-MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
-
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
-<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-
 
 <item>
 <title>[COLOR lime]TERRENO PROIBIDO[/COLOR]</title>
