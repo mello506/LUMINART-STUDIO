@@ -68,11 +68,11 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view
-$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
+$$lsname=[COLOR lime]LS-> TESTE 2 <-> SERVER 2[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1Zae8QW02VOU1TsHj_VkZ2-MNOwqIATq6/view
-$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 3[/COLOR]</link>
+$$lsname=[COLOR lime]LS-> TESTE 3 <-> SERVER 3[/COLOR]</link>
 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGmoes5UHTNji3lusozGZgINN1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rLMTHSJS4KxGCfcczjiYtbWiZS2.jpg</fanart>
