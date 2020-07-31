@@ -34,6 +34,18 @@ https://drive.google.com/file/d/13THF9hkAl7erSmYYTOaxqEqbCK0V-U3Y/view</link>
 <item>
 
 <item>
+<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+
+<item>
 <title>[COLOR lime]TERRENO PROIBIDO[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view/$$lsname=[COLOR lime]LS-> TERRENO PROIBIDO <-> SERVER 2[/COLOR]</link>
