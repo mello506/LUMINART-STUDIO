@@ -1,4 +1,21 @@
 <item>
+<title>[COLOR lime]O NAUFRÁGIO DO LACÔNIA[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view
+$$lsname=[COLOR lime]O NAUFRÁGIO DO LACÔNIA <-> PARTE I[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view
+$$lsname=[COLOR lime]O NAUFRÁGIO DO LACÔNIA <-> PARTE II [/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
+<genre>GUERRA</genre>
+</item>
+
+<item>
 <title>[COLOR lime]BAND OF BROTHERS[/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
@@ -93,27 +110,6 @@ $$lsname=[COLOR lime]EP10 <-> HOME [/COLOR] </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
 <info><info>Os EUA e Japão de enfrentam nas ilhas do Pacifico palmo a palmo,numa vítória com um alto custo.</info></info>
-<genre>GUERRA</genre>
-</item>
-
-<item>
-<title>[COLOR lime]O NAUFRÁGIO DO LACÔNIA[/COLOR]</title>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view
-$$lsname=[COLOR lime]O NAUFRÁGIO DO LACÔNIA <-> PARTE I [/COLOR] </link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view
-$$lsname=[COLOR lime]O NAUFRÁGIO DO LACÔNIA <-> PARTE I[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view
-$$lsname=[COLOR lime]O NAUFRÁGIO DO LACÔNIA <-> PARTE II [/COLOR] </link>
-
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
-<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
 <genre>GUERRA</genre>
 </item>
 
