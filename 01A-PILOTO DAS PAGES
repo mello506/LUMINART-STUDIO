@@ -1,6 +1,6 @@
-ACRESCENTAR NOVA CATEGORIA
-
-DICAS DE NAVEGAÇÃO 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ACRESCENTAR NOVA CATEGORIA E DICAS DE NAVEGAÇÃO 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -53,8 +53,8 @@ COLEÇÕES DE FILMES DE (NOME DA CATEGORIA)</info>
 <genre>GÊNERO DA CATEGORIA</genre>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 ACRESCENTAR FILMES E LINKAR NOVA PAGE COM AS COLEÇÕES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -67,8 +67,8 @@ COLEÇÕES DE FILMES DE (NOME DA PAGE)</info>
 <genre>GÊNERO DA COLEÇÃO</genre>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 CATEGORIAS DE FILMES NA MESMA PAGE
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -91,8 +91,8 @@ LINK PARA O FILME NO GDRIVE</link>
 <item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 MODELO PARA DESENHOS E SÉRIES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -128,4 +128,55 @@ LINK PARA O FILME NO GDRIVE</link>
 <item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR NOVAS SÉRIES E DESENHOS NÃO USAR ACENTOS NOS NOMES DE EPISÓDIOS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]NOVA SÉRIE[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
+$$lsname=[COLOR lime]TP01EP01 <-> NOME DO EPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AmhQoeIlllnu6Xav1DcvyLCeGNXqUvAz/view
+$$lsname=[COLOR lime]TP01EP02 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17AZMEClDy73HwoWnty9CtugnmIoF6rPY/view
+$$lsname=[COLOR lime]TP01EP03 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UZZcMvke4vT4hq-XQ2qUm82XZpRaiqDb/view
+$$lsname=[COLOR lime]TP01EP04 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wFcnG7glOo7CGRPfn6MebrZ-IP1sYgCw/view
+$$lsname=[COLOR lime]TP01EP05 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1w0JguWAefw1TzyagEEVbvd4P0Uji0HYG/view
+$$lsname=[COLOR lime]TP01EP06 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SHtNqCTuuF19yRBdYqFtGwIfD0KBfHSz/view
+$$lsname=[COLOR lime]TP01EP07 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1LUQTjw1yAJknVv5VR-Uo6qMf9cPXyeqm/view
+$$lsname=[COLOR lime]TP01EP08 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1tpOjhd6im2rxXoJq4y4csanAtwgZ2gDS/view
+$$lsname=[COLOR lime]TP01EP09 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/13gNZmulu2VFE9_Ymu5g7MhwzIqXnc3k_/view
+$$lsname=[COLOR lime]TP01EP10 <-> NOME DO EPISÓDIO [/COLOR] </link>
+
+<thumbnail>LINK DA IMAGEM ICON</thumbnail>
+<fanart>LINK DA IMAGEM FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
 
