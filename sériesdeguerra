@@ -68,3 +68,53 @@ $$lsname=[COLOR lime]TP01EP10 <-> PONTOS [/COLOR] </link>
 <info>A Companhia Easy captura o Ninho da Águia de Hitler e observa a possibilidade de ser transferida para o Teatro de Operações do Pacífico. A guerra termina e os homens da Companhia Easy regressam para casa.</info>
 <genre>GUERRA</genre>
 </item>
+
+<item>
+<title>[COLOR lime]BAND OF BROTHERS[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
+$$lsname=[COLOR lime]TP01EP01 <-> CURRAHEE[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AmhQoeIlllnu6Xav1DcvyLCeGNXqUvAz/view
+$$lsname=[COLOR lime]TP01EP02 <-> DIA DOS DIAS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17AZMEClDy73HwoWnty9CtugnmIoF6rPY/view
+$$lsname=[COLOR lime]TP01EP03 <-> CARENTANT [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UZZcMvke4vT4hq-XQ2qUm82XZpRaiqDb/view
+$$lsname=[COLOR lime]TP01EP04 <-> SUBSTITUTOS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wFcnG7glOo7CGRPfn6MebrZ-IP1sYgCw/view
+$$lsname=[COLOR lime]TP01EP05 <-> ENCRUZILHADA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1w0JguWAefw1TzyagEEVbvd4P0Uji0HYG/view
+$$lsname=[COLOR lime]TP01EP06 <-> BASTOGNE [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SHtNqCTuuF19yRBdYqFtGwIfD0KBfHSz/view
+$$lsname=[COLOR lime]TP01EP07 <-> O PONTO DE RUPTURA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1LUQTjw1yAJknVv5VR-Uo6qMf9cPXyeqm/view
+$$lsname=[COLOR lime]TP01EP08 <-> A ÚLTIMA PATRULHA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1tpOjhd6im2rxXoJq4y4csanAtwgZ2gDS/view
+$$lsname=[COLOR lime]TP01EP09 <-> POR ISSO NÓS LUTAMOS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/13gNZmulu2VFE9_Ymu5g7MhwzIqXnc3k_/view
+$$lsname=[COLOR lime]TP01EP10 <-> PONTOS [/COLOR] </link>
+
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
+<fanart>https://i.imgur.com/4QRmeWk.jpg</fanart>
+<info>A Companhia Easy captura o Ninho da Águia de Hitler e observa a possibilidade de ser transferida para o Teatro de Operações do Pacífico. A guerra termina e os homens da Companhia Easy regressam para casa.</info>
+<genre>GUERRA</genre>
+</item>
+
