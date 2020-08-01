@@ -52,5 +52,17 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime][B]TESTES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/s%C3%A9riesdeguerra</externallink>
+<info>
+   TESTES
+   </info>
+</channel>
+</channels>
+
 
 
