@@ -1,290 +1,116 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
-<info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
+<item>
+<title>[COLOR lime]O NAUFRÁGIO DO LACÔNIA[/COLOR]</title>
 
-</channels>
-<channels>
-<channel>
-<name>[COLOR blue][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<fanart>http://bit.do/fanartsubcat-guerra</fanart>
-<externallink>https://</externallink>
-</channel>
-</channels>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view
+$$lsname=[COLOR lime]O NAUFRAGIO DO LACONIA <-> PARTE I[/COLOR]</link>
 
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view
+$$lsname=[COLOR lime]O NAUFRAGIO DO LACONIA <-> PARTE II [/COLOR]</link>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]O NAUFRÁGIO DO LACÔNIA - DOIS EPISÓDIOS[/B][/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
 <info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
 <genre>GUERRA</genre>
-
-<item>
-<title>[COLOR lime]LS-> O NAUFRÁGIO DO LACÔNIA - PARTE I - 2011 - 1080 - LEG FIX[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view</link>
-<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
-<genre>GUERRA</genre>
 </item>
-<item>
 
 <item>
-<title>[COLOR lime]LS-> O NAUFRÁGIO DO LACÔNIA - PARTE II - 2011 - 1080 - LEG FIX[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<title>[COLOR lime]BAND OF BROTHERS[/COLOR]</title>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view</link>
-<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view
+$$lsname=[COLOR lime]EP01 <-> CURRAHEE[/COLOR]</link>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]BAND OF BROTHERS - ÚNICA TEMPORADA[/B][/COLOR] </name>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AmhQoeIlllnu6Xav1DcvyLCeGNXqUvAz/view
+$$lsname=[COLOR lime]EP02 <-> DIA DOS DIAS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17AZMEClDy73HwoWnty9CtugnmIoF6rPY/view
+$$lsname=[COLOR lime]EP03 <-> CARENTANT [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UZZcMvke4vT4hq-XQ2qUm82XZpRaiqDb/view
+$$lsname=[COLOR lime]EP04 <-> SUBSTITUTOS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wFcnG7glOo7CGRPfn6MebrZ-IP1sYgCw/view
+$$lsname=[COLOR lime]EP05 <-> ENCRUZILHADA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1w0JguWAefw1TzyagEEVbvd4P0Uji0HYG/view
+$$lsname=[COLOR lime]EP06 <-> BASTOGNE [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SHtNqCTuuF19yRBdYqFtGwIfD0KBfHSz/view
+$$lsname=[COLOR lime]EP07 <-> O PONTO DE RUPTURA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1LUQTjw1yAJknVv5VR-Uo6qMf9cPXyeqm/view
+$$lsname=[COLOR lime]EP08 <-> A ULTIMA PATRULHA [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1tpOjhd6im2rxXoJq4y4csanAtwgZ2gDS/view
+$$lsname=[COLOR lime]EP09 <-> POR ISSO NOS LUTAMOS [/COLOR] </link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/13gNZmulu2VFE9_Ymu5g7MhwzIqXnc3k_/view
+$$lsname=[COLOR lime]EP10 <-> PONTOS [/COLOR] </link>
+
 <thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
-<info>Vá junto com Companhia "E" Easy , do 506º Regimento da 101ª Divisão Aerotransportada,uma das unidades de maior sucesso na história militar americana do treinamento em 1942, até o final da 2ª Guerra Mundial.</info>
-<genre>GUERRA</genre>
-
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP01 - CURRAHEE[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-iIggLQvf0SEqC78RBhryLCTysSwiZ3n/view</link>
-<info>Este episódio acompanha o percurso da Companhia Easy durante os treinos de pára-quedismo na base de Camp Toccoa, na Geórgia. São apresentadas as personagens principais, em particular o Tenente Dick Winters e o Tenente Lewis Nixon. O episódio dá especial destaque às reações da companhia ao Capitão Herbert Sobel, o rígido, original e egocêntrico comandante da Companhia Easy. No entanto, a liderança de Sobel durante os exercícios deixa os homens inquietos quanto a seguirem-no em batalha. Toda esta tensão acaba por culminar numa acusação de Sobel a Dick Winters sobre um suposto não-cumprimento de ordens. Essa situação acaba por ser levada ao conselho de guerra. Não aceitando a situação, os oficiais não-comissionados, num ato de motim, informam que não desejam servir na Companhia Easy. Como resultado, o Coronel Sink retira Sobel como comandante da Companhia e substitui-o pelo Tenente Thomas Meehan. No final do episódio, a companhia embarca para a Inglaterra e prepara o seu lançamento sobre a Normandia como parte da Operação Overlord.  </info>
+<fanart>https://i.imgur.com/4QRmeWk.jpg</fanart>
+<info>A Companhia Easy captura o Ninho da Águia de Hitler e observa a possibilidade de ser transferida para o Teatro de Operações do Pacífico. A guerra termina e os homens da Companhia Easy regressam para casa.</info>
 <genre>GUERRA</genre>
 </item>
-<item>
 
 <item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP02 - DIA DOS DIAS[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
+<title>[COLOR lime]THE PACIFIC[/COLOR]</title>
+
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1AmhQoeIlllnu6Xav1DcvyLCeGNXqUvAz/view</link>
-<info>Chega o Dia D e a Companhia Easy participa da invasão da Normandia, incluída no Ataque de Brecourt Manour. Este episódio é mostrado sob a perspectiva do Tenente Richard Winters em sua tentativa de chegar ao ponto de encontro depois de ser largado a vários quilômetros de distância.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/11Uc6zZbzP8eixnRhqEdxneW8CrDvwD7K/view
+$$lsname=[COLOR lime]EP01 <-> GUADALCANAL - LECKIE[/COLOR]</link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP03 - CARENTAN[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17AZMEClDy73HwoWnty9CtugnmIoF6rPY/view</link>
-<info>A Companhia Easy luta pela cidade francesa de Carentan e repele o iminente contra-ataque alemão com ajuda das companias Dog e Fox. Este episódio é mostrado da perspectiva do Soldado Albert Blithe, que luta contra seu medo na área de operações, contra o medo de matar e contra o medo de decepcionar seus compatriotas.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1uteLf3VTlQYsmX4h601FxOWdbHnxg7CB/view
+$$lsname=[COLOR lime]EP02 <-> BASILONE [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP04 - SUBSTITUTOS[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1UZZcMvke4vT4hq-XQ2qUm82XZpRaiqDb/view</link>
-<info>De volta à Inglaterra, a Companhia Easy recebe novos soldados; Winters, agora capitão, lidera a companhia, enquanto esta é lançada sobre os céus dos Países Baixos como apoio à Operação Market Garden. Este episódio é mostrado sob as perspectivas dos novos soldados e do Sargento "Bull" Randleman, que acaba por desaparecer em ação, sendo obrigado a abrigar-se num celeiro rodeado pelas forças alemãs antes de regressar na manhã seguinte à Companhia Easy.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1vl1TiEnSIo5oeeNXcv_1IwWCzrUkypq4/view
+$$lsname=[COLOR lime]EP03 <-> MELBOURNE [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP05 - ENCRUZILHADA[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1wFcnG7glOo7CGRPfn6MebrZ-IP1sYgCw/view</link>
-<info>Ainda nos Países Baixos, contado em flashback sob a perspectiva do agora Oficial Executivo do Batalhão Dick Winters, a Companhia Easy ataca uma ofensiva alemã, acabando por ser uma operação quase perfeita. A Companhia Easy é tomada agora pelo novo Tenente Heyliger (que acaba por ser atingido por fogo amigo, isto é, dos próprios companheiros de batalha) e depois pelo Tenente Dike. </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1apiZJMiQgJFZQi8rW9D1iapahRCGvm0R/view
+$$lsname=[COLOR lime]EP04 <-> GLOUCESTER/PAVUVU/BANIKA [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP06 - BASTOGNE[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1w0JguWAefw1TzyagEEVbvd4P0Uji0HYG/view</link>
-<info>A Companhia Easy está entrincheirada perto da cidade belga de Bastogne durante a Batalha do Bulge. Este episódio é mostrado sob a perspectiva de um dos dois médicos da companhia, Eugene "Doc" Roe.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/18oDrGVcFZiO1Yd9HWFOeQ9y6G1JRReCD/view
+$$lsname=[COLOR lime]EP05 <-> PELELIU LANDING [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP07 - O PONTO DE RUPTURA[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1SHtNqCTuuF19yRBdYqFtGwIfD0KBfHSz/view</link>
-<info>Este episódio ilustra o stress sentido pelos homens durante a luta na área de Foy, na Bélgica. Esse episódio é mostrado sob a perspectiva do Primeiro Sargento Carwood Lipton.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1w0mJRa9-3_6mUqiAzc5SMBtV470nJ9ol/view
+$$lsname=[COLOR lime]EP06 <-> PELELIU AIRFIELD [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP08 - A ÚLTIMA PATRULHA[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1LUQTjw1yAJknVv5VR-Uo6qMf9cPXyeqm/view</link>
-<info>A Companhia Easy avança para a cidade de Haguenau. Este episódio é mostrado sob a perspectiva de David Webster e um novo Tenente (desempenhado por Colin Hanks, filho do produtor executivo Tom Hanks). Winters é promovido a Major, e Lipton a Segundo Tenente.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1U4mXXtBM8fD5uMl4uZ5xXyjgmAxMLlHA/view
+$$lsname=[COLOR lime]EP07 <-> PELELIU HILLS [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP09 - POR ISSO NÓS LUTAMOS[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1tpOjhd6im2rxXoJq4y4csanAtwgZ2gDS/view</link>
-<info>A Companhia Easy avança sobre o território alemão e descobre um campo de concentração nazista perto de Landsberg.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1U1SC2Wi9opbDH2_wU0RCBAyGp4-tDuv0/view
+$$lsname=[COLOR lime]EP08 <-> IWO JIMA [/COLOR] </link>
 
-<item>
-<title>[COLOR lime]LS-> BAND OF BROTHERS -> EP10 - PONTOS[/COLOR]</title>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/bandofbrothers1-824750359e75d4eda215554617357249-640-0.jpg</thumbnail>
-<fanart>http://i.imgur.com/4QRmeWk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/13gNZmulu2VFE9_Ymu5g7MhwzIqXnc3k_/view</link>
-<info>A Companhia Easy captura o Ninho da Águia de Hitler e observa a possibilidade de ser transferida para o Teatro de Operações do Pacífico. A guerra termina e os homens da Companhia Easy regressam para casa.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
+https://drive.google.com/file/d/1uqm5nqnns48qBmPBvGc3cHoL2T9eeUDX/view
+$$lsname=[COLOR lime]EP09 <-> OKINAWA [/COLOR] </link>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]THE PACIFIC - ÚNICA TEMPORADA[/B][/COLOR] </name>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18UsciS9-lbdvZsSZ0J9vH_5xCKwaIa1o/view
+$$lsname=[COLOR lime]EP10 <-> HOME [/COLOR] </link>
+
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
 <info><info>Os EUA e Japão de enfrentam nas ilhas do Pacifico palmo a palmo,numa vítória com um alto custo.</info></info>
 <genre>GUERRA</genre>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP01 - GUADALCANAL - LECKIE[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/11Uc6zZbzP8eixnRhqEdxneW8CrDvwD7K/view</link>
-<info>Robert Leckie e o 1º Regimento de fuzileiros navais desembarcam em Guadalcanal e participam da Batalha do Tenaru. Eugene Sledge convence seus pais a permitir que ele participe da guerra. A Batalha da Ilha de Savo é brevemente retratada.</info>
-<genre>GUERRA</genre>
 </item>
-<item>
 
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP02 - BASILONE[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1uteLf3VTlQYsmX4h601FxOWdbHnxg7CB/view</link>
-<info>John Basilone e o 7º regimento de fuzileiros navais desembarcaram em Guadalcanal para reforçar as defesas em torno do campo aéreo de Henderson. Basilone, tentando realocar o barril de sua metralhadora Browning M1917 em uma posição melhor, acaba queimando severamente os seus braços. Mesmo ferido e tendo sua unidade reduzida em poucos homens, Basilone ainda é capaz de lutar e manter sua posição na metralhadora diante do avanço de um grande número de soldados japoneses. </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP03 - MELBOURNE[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1vl1TiEnSIo5oeeNXcv_1IwWCzrUkypq4/view</link>
-<info>A 1ª Divisão da Marinha em Guadalcanal está aliviada e chega a Melbourne, na Austrália. Leckie se apaixona por Stella Karamanlis, uma australiana de descendência grega, que o convida para ficar na casa de seus pais. Basilone recebe a Medalha de Honra por suas ações em Guadalcanal e é mandado para casa para vender títulos de guerra.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP04 - GLOUCESTER/PAVUVU/BANIKA[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1apiZJMiQgJFZQi8rW9D1iapahRCGvm0R/view</link>
-<info>Eugene Sledge se alista para os fuzileiros navais e treina para o combate, enquanto Leckie e a 1ª Divisão da Marinha são colocados em ação em Cape Gloucester. Após a ação em Gloucester, Leckie e a primeira divisão chegam em Pavuvu, que serve como uma base temporária para a 1ª Divisão de Fuzileiros dos EUA. Leckie começa a sofrer de enurese noturna causada pelo estresse da guerra.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP05 - PELELIU LANDING[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18oDrGVcFZiO1Yd9HWFOeQ9y6G1JRReCD/view</link>
-<info>Sledge é reunido com um velho amigo, Sidney Phillips. Leckie se recompõe e novamente se adapta ao estilo de vida na linha de frente. Sledge e Leckie desembarcam com a 1ª Divisão da Marinha em Peleliu.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP06 - PELELIU AIRFIELD[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1w0mJRa9-3_6mUqiAzc5SMBtV470nJ9ol/view</link>
-<info>Os fuzileiros navais se movem para capturar a pista de pouso vital de Peleliu. Leckie é ferido por uma explosão de concussão durante a batalha, enquanto tentava transmitir uma mensagem para o paramédico. Com o rosto cheio de estilhaços e mobilidade limitada, ele é evacuado e enviado para se recuperar em um navio-hospital enquanto a batalha pela ilha prosseguia.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP07 - PELELIU HILLS[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1U4mXXtBM8fD5uMl4uZ5xXyjgmAxMLlHA/view</link>
-<info>Sledge e a 5º divisão de fuzileiros se movem para as colinas de Umurbrogol (Bloody Nose Ridge) em Peleliu, para enfrentar os japoneses. O capitão Andrew “Ack-Ack” Haldane é baleado e morto por um atirador japonês enquanto avaliava a área da colina 140.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP08 - IWO JIMA[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1U1SC2Wi9opbDH2_wU0RCBAyGp4-tDuv0/view</link>
-<info>Basilone é transferido para a 5ª Divisão da Marinha onde ele treina fuzileiros para o combate. Lá ele conhece e se casa com Lena Riggi. Ele então desembarca em Iwo Jima, mas é morto no primeiro dia da batalha.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP09 - OKINAWA[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1uqm5nqnns48qBmPBvGc3cHoL2T9eeUDX/view</link>
-<info>Sledge e a 1ª Divisão da Marinha desembarcam em Okinawa. Sledge, agora um veterano experiente, torna-se mais cínico e frio, e não demonstra mais compaixão pelos japoneses. Após a batalha, enquanto ele e os outros fuzileiros se preparam para voltar de Okinawa para casa, eles ouvem falar de uma "nova bomba" que "vaporizou uma cidade japonesa inteira em um piscar de olhos".  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]LS-> THE PACIFIC -> EP10 - HOME[/COLOR]</title>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/519XPj6eoFL._AC_SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91uxBxjfwdL._RI_.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18UsciS9-lbdvZsSZ0J9vH_5xCKwaIa1o/view</link>
-<info>Sledge e Leckie voltam para casa depois da rendição japonesa. Sledge ainda é assombrado pelos horrores da guerra. Leckie começa um relacionamento com a sua futura esposa, Vera. A viúva de Basilone, Lena, visita seus pais e lhes dá sua Medalha de Honra.  </info>
-<genre>GUERRA</genre>
-</item>
-<item>
 
