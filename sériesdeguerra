@@ -1,10 +1,12 @@
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇAO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<title>[COLOR lime]NOME[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view
 $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
-<link>plugin://plugin.video.youtube?mode=streamURL&amp;url=https://www.youtube.com/watch?v=Ry49xk2Sj9I$$lsname=[COLOR lime](RESOLUÇO)[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view
+$$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
 <link>https://aligator.azureedge.net/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4$$lsname=[COLOR lime](RESOLUÇO)[/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -14,7 +16,7 @@ $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
 
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<title>[COLOR lime]NOME[/COLOR]</title>
 <link>https://aligator.azureedge.net/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -23,7 +25,7 @@ $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
 </item>
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<title>[COLOR lime]NOME[/COLOR]</title>
 <link>https://photos.app.goo.gl/7qyd5jWGWYyM9AN86</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -32,9 +34,8 @@ $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
 </item>
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>https://r3---sn-bg07dnsy.googlevideo.com/videoplayback?expire=1596304361&ei=yY8lX9b2F9anwQSu5IOoBQ&ip=45.71.117.16&id=c8a928b1457aa45d&itag=136&source=picasa&requiressl=yes&susc=ph&mh=nE&mm=32&mn=sn-bg07dnsy&ms=su&mv=m&mvi=3&pl=24&sc=yes&app=fife&eaua=r5kxJq0jucE&eaol=https:%2F%2Fphotos.google.com,https:%2F%2Fyoutube.googleapis.com&ratebypass=yes&mime=video%2Fmp4&otfp=1&gir=yes&clen=349151384&lmt=1594586033962126&dur=5931.633&alr=yes&cpn=e3wa9QmfFXQRZzpQ&mpd_version=5&mt=1596297077&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,eaua,eaol,ratebypass,mime,otfp,gir,clen,lmt,dur&sig=AOq0QJ8wRAIgPHTNmn2RZfoYq3aauS4pKyPsLAZ-A5XXwUeHwJa-mnQCIHeKL2HCGd1uYy4RjtXsgDciQl-7l67LQYG6ajS_WXY7&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRQIgN2xyopf1eTbeFM2dDpNcHE4wv47dJ-MgfF1a8uOdrv4CIQDEoo8OSC3HV_GkNNXGCpLrHY5Vub-l7-rveYftjAihwg%3D%3D&c=WEB_EMBEDDED_PLAYER&cver=20200731&rn=5</link>
-<thumbnail></thumbnail>
+<title>[COLOR lime]NOME[/COLOR]</title>
+<link>https://mega.nz/file/0NthwagS#XBWRN4mbhr7Z0unG-v5LbSPrtPZ6EvHndkt7Y-K6mh4</link>
 <fanart></fanart>
 <info></info>
 <genre></genre>
