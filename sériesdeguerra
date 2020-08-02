@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>NOME</title>
+<title>teste dois links trailer</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Nu2k8Mski2E$$lsname=[COLOR blue]TRAILER[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view
@@ -27,7 +27,7 @@ $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view
 $$lsname=[COLOR lime]TP01EP01 <-> Pilot[/COLOR]</link>
-<link>https://aligator.azureedge.net/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4$$lsname=[COLOR lime](RESOLUÇO)[/COLOR] - LINK 3</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Nu2k8Mski2E$$lsname=[COLOR blue]TRAILER[/COLOR]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
