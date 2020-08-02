@@ -1,13 +1,11 @@
 <item>
-<title>youtube</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Nu2k8Mski2E[COLOR blue]TRAILER[/COLOR]</link>
+<title>[COLOR blue]TRAILER[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Nu2k8Mski2E</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
-<link>plugin://plugin.video.youtube/play/?video_id=Nu2k8Mski2E</link>
 
 <item>
 <title>teste dois links trailer</title>
