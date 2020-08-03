@@ -16,14 +16,34 @@
 <genre>GUERRA</genre>   
 </item>
 
+<channels></channels>
+<channel>
+<name>[COLOR lime]FLY[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+
 <item>
-<title>[COLOR lime]TORRENT -> Thor: Ragnarok – 2017 - 720 - DUB[/COLOR]</title>
-<link>magnet:?xt=urn:btih:79833591E5030044B8839D710B73B4E820A4B66F&dn=Thor%20-%20Ragnarok%202018%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
-<info>Thor é preso do outro lado do universo, sem o seu martelo poderoso e encontra-se numa corrida contra o tempo para voltar a Asgard e impedir Ragnarok – a destruição do seu mundo e o fim da civilização Asgardiana -, que se encontra nas mãos de uma nova e poderosa ameaça, a implacável Hela. Mas, primeiro precisa de sobreviver a uma luta mortal de gladiadores, que o coloca contra um ex-aliado e companheiro Vingador – Hulk.</info>
-<genre>SUPER HERÓIS</genre>
+<title>[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
 </item>
+
+<item>
+<title>[COLOR lime]TRAILER - NOME DO FILME[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
+</channel>
 
 <item>
 <title>[COLOR lime]LS-> FLYBOYS - 2019 - 1080 - DUB[/COLOR]</title>
