@@ -180,3 +180,52 @@ $$lsname=[COLOR lime]TP01EP10 <-> NOME DO EPISÓDIO [/COLOR] </link>
 <genre>GENERO</genre>
 </item>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR FILMES TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]NOME DO FILME[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+
+<item>
+<title>[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<link>MAGNET LINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<link>MAGNET LINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]YOU YUBE -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LINKYOUTUBE</trailer>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]TRAILER - NOME DO FILME E DADOS[/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LINKYOUTUBE</trailer>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+</channel>
+
