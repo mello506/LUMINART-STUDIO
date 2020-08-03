@@ -116,31 +116,5 @@ https://drive.google.com/file/d/1yOANJDC6GNtPXwBN2FlhEf2yCmnDxVFt/view</link>
 </item>
 <item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]FLY[/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
 
-<item>
-<title>[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-
-<item>
-<title>[COLOR lime]TRAILER - NOME DO FILME[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-</channel>
 
