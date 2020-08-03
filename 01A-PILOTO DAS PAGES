@@ -220,7 +220,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR lime]TRAILER - NOME DO FILME E DADOS[/COLOR]</title>
+<title>[COLOR lime]TRAILER - NOME DO FILME[/COLOR]</title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LINKYOUTUBE</trailer>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
