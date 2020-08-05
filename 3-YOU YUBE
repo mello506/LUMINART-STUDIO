@@ -1,23 +1,34 @@
-<item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B]WESTERN[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<fanart>http://bit.do/fanartsubcat-guerra</fanart>
-<info></info>
-<genre>GUERRA</genre>   
-</item>
+<channels>
+<channel>
+<name>[COLOR blue][B]WESTERN[/B][/COLOR]</name>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM DE FUNDO</fanart>
+</channel>
+</channels>
 
 <item>
 <title>[COLOR lime]PACTO DE HONRA - DATA -SD [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uz4-Q--g3_E</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]PACTO DE HONRA - 1954 -SD [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=uz4-Q--g3_E</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
