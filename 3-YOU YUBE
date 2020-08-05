@@ -1,10 +1,19 @@
 <item>
-<title>[COLOR lime]YOU YUBE -> PACTO DE HONRA - DATA - SD1[/COLOR]</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uz4-Q--g3_E</trailer>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR blue][B]WESTERN[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<info></info>
+<genre>GUERRA</genre>   
 </item>
 
 <item>
