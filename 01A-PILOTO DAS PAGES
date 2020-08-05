@@ -230,14 +230,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channel>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR FILMES E TRAILERS DOIS ITENS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR lime]NOME DO FILME[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/17FUu-2efIK163tQIS8euk6D-JxpEPatn/view
+LINK DO FILME NO G DRIVE
 $$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap7UcuDPhyaY165YppEZJdbU1sA.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-19eQY_0H4gk/TjBjeA_4coI/AAAAAAAAAMs/xwd696N9Fas/s1600/flyboys-6.jpg</fanart>
+<link>plugin://plugin.video.youtube/play/?video_id=PARTE DO LINK DO YOU TUBE
+$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
+<thumbnail>IMAGEM ICONE</thumbnail>
+<fanart>IMAGEM FANART</fanart>
 <info></info>
 <genre></genre>
 </item>
