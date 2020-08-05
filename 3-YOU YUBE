@@ -1,22 +1,22 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
 <info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR blue][B]WESTERN[/B][/COLOR]</name>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-</channel>
-</channels>
+<item>
+<title>[COLOR blue][B]2ª GUERRA[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>NO LINK</link>
+<info></info>
+<genre>GUERRA</genre>   
+</item>
 
 
 <item>
