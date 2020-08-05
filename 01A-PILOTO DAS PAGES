@@ -239,8 +239,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINK DO FILME NO G DRIVE
 $$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=PARTE DO LINK DO YOU TUBE
-$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PARTE DO LINK DO YOU TUBE$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
 <thumbnail>IMAGEM ICONE</thumbnail>
 <fanart>IMAGEM FANART</fanart>
 <info></info>
