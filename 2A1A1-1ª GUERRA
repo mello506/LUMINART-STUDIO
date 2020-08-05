@@ -1,26 +1,8 @@
 <item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
-
-<item>
-<title>[COLOR blue][B]1ª GUERRA[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<fanart>http://bit.do/fanartsubcat-guerra</fanart>
-<info></info>
-<genre>GUERRA</genre>   
-</item>
-
-<item>
 <title>[COLOR lime]FLYBOYS[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view
-$$lsname=[COLOR lime]G DRIVE->FLYBOYS - 2019 - 1080 - DUB[/COLOR]</link>
+$$lsname=[COLOR lime]G DRIVE-> FLYBOYS - 2019 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6
 g$$lsname=[COLOR lime]YOUTUBE -> FLYBOYS - 2019 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA
