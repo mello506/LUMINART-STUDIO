@@ -16,6 +16,7 @@
 <thumbnail>IMAGEM ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 </channel>
+</channels>
 
 
 <item>
@@ -35,3 +36,5 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
+
+</channel>
