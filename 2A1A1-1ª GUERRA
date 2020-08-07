@@ -49,7 +49,7 @@ $$lsname=[COLOR lime]GALLIPOLI - 1981 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
 $$lsname=[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR] - DUBLADO</link>
 <link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR blue]TRAILER[/COLOR]</link>
-thumbnail>ICONE</thumbnail>
+<thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
 <genre>GENERO</genre>
