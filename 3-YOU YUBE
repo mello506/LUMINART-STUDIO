@@ -37,4 +37,13 @@
 <genre>GENERO</genre>
 </item>
 
+<item>
+<title>[COLOR lime]LEGIONARIO - 1965 -720 [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mdRxdY3s1oA</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
 </channel>
