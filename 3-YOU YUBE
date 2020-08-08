@@ -55,4 +55,14 @@
 <genre>GENERO</genre>
 </item>
 
+<item>
+<title>[COLOR lime]222-ENCONTRO MARCADO[/COLOR]</title>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view</link>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
 </channel>
