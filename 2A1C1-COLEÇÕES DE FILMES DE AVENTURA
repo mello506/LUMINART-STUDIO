@@ -176,7 +176,6 @@ https://drive.google.com/file/d/14jY6a1QReazRQ8MQmqNJjMPhkERA2TuQ/view</link>
 <info>A tirana Gedren busca o poder total em um mundo de barbárie. Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dá grande poder. Red Sonja, irmã do guardião, levanta-se com sua espada mágica para derrubar Gedren.</info>
 <genre>AVENTURA</genre>
 </item>
-<item>
 
 <channels></channels>
 <channel>
@@ -196,7 +195,6 @@ https://drive.google.com/file/d/1DYD4l4VZEVwn6T717fEqIRt95vRnrW8T/view</link>
 <info>Em 1926, um grupo de arqueologistas descobre uma tumba na cidade perdida de Hamunaptra. Dentro da tumba encontrado o corpo de Imhotep, o sacerdote do Faraó Seti, que foi mumificado vivo além de ter recebido a mais terrível das maldições por ter dormido com a amante do faraó e, movido por ciúme doentio e amor, ter matado o Faraó. No entanto, quando um dos membros da expedição lê um manuscrito que foi encontrado pelo grupo e traz Imhotep de volta vida, ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.</info>
 <genre>AVENTURA</genre>
 </item>
-<item>
 
 <item>
 <title>[COLOR lime]LS-> O RETORNO DA MÚMIA - 2001 - 720 - DUB[/COLOR]</title>
@@ -207,7 +205,6 @@ https://drive.google.com/file/d/1oHPV9YalRLxaUm5UQS2DFjPGW4yJ2Zyz/view</link>
 <info>Pronta para andar pela terra mais uma vez, a múmia do poderoso Imhotep continua sua determinada busca pela imortalidade. Mas desta vez uma outra força do mal também está liberta no mundo… ainda mais poderosa do que Imhotep. Quando essas duas forças colidem, o destino do mundo está em perigo, levando Rich e Evie O´Connel a uma desesperada batalha para salvar o mundo da maldade e resgatar seu filho das garras de Imhothep antes que seja tarde demais.</info>
 <genre>AVENTURA</genre>
 </item>
-<item>
 
 <item>
 <title>[COLOR lime]LS-> A MÚMIA 3 - A TUMBA DO IMPERADOR DRAGÃO - 2008 - 1080 - DUB[/COLOR]</title>
@@ -218,26 +215,10 @@ https://drive.google.com/file/d/1B0UcQIEY-IAUVEK2ip4QgkdVHr_ocTtP/view</link>
 <info>O impiedoso imperador dragão é amaldiçoado pela feiticeira Zi Juan, o que faz com que ele e seu exército de 10 mil homens seja petrificado. Mais de dois milênios depois o túmulo do imperador dragão é descoberto por Alex O'Connor, filho dos aventureiros Rick e Evelyn, que deixou os estudos para se dedicar à escavação. Seus pais não sabem do trabalho de Alex, que conta com a ajuda do tio, Jonathan Carnahan, dono de uma boate em Xangai. Atualmente Rick e Evelyn levam uma pacata vida em Londres, mas sentem falta da aventura. Um dia eles recebem a proposta de levar um precioso artefato a Xangai e, usando a desculpa de visitar Jonathan, aceitam a missão. Só que ao chegar eles são abordados pelo general Yang, que deseja trazer o imperador dragão de volta à vida.</info>
 <genre>AVENTURA</genre>
 </item>
-<item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]NOME DA COLEÇÃO[/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-<info>
-COLEÇÃO NOME DA COLEÇÃO COMPLETA</info>
-<genre>AVENTURA</genre>
 
-<item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>AVENTURA</genre>
-</item>
-<item>
+
+
+
 
 
