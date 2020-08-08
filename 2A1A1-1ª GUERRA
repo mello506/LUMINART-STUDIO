@@ -43,30 +43,6 @@ $$lsname=[COLOR lime]GALLIPOLI - 1981 - 1080 - DUB[/COLOR]</link>
 <genre>GUERRA</genre>  
 </item>
 
-
-<item>
-<title>[COLOR lime]NOME DO FILME[/COLOR] </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
-$$lsname=[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR] - DUBLADO</link>
-<link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR blue]TRAILER[/COLOR]</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-
-<item>
-<title>[COLOR aquamarine]GALLIPOLI[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
-$$lsname=[COLOR lime]GALLIPOLI - 1981 - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
-<thumbnail>https://1.bp.blogspot.com/-aUietJyy1Eo/VXPrNrcGO7I/AAAAAAAhlEY/-atAOq4jw-0/s1600/Gallipoli-1981-MSS-dvdcover-2.jpg</thumbnail>
-<fanart>https://resources.stuff.co.nz/content/dam/images/1/4/g/y/p/k/image.related.StuffLandscapeThreeByTwo.1464x976.14gtii.png/1429732490595.jpg</fanart>
-<info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>
-<genre>GUERRA</genre>  
-</item>
-
-
 <item>
 <title>[COLOR lime]LS-> FLYBOYS - 2019 - 1080 - DUB [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap7UcuDPhyaY165YppEZJdbU1sA.jpg</thumbnail>
