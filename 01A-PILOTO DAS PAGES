@@ -264,14 +264,23 @@ CÓDIGO PARA ACRESCENTAR GRUPOS EPISÓDIOS EM SÉRIES TORRENT
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]NOME DA SÉRIE[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime] NOME DA SÉRIE -NUM ª  - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
-<thumbnail>https://ICON</thumbnail>
-<fanart>https://FANART</fanart>
+<title>[COLOR red]NOME DA SÉRIE (com acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=(((IDTRAILER)))$$lsname=[COLOR red]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>CAPADASÉRIE</thumbnail>
+<fanart>FANARTDASERIE</fanart>
 <info>SINOPSE</info>
 <genre>GENERO</genre>  
 </item>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime] NOME - NUMª TEMP - DATA - RES - DUB LEG [/COLOR]</link>
+
 
