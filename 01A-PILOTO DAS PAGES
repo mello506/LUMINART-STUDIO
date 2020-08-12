@@ -264,7 +264,7 @@ CÓDIGO PARA ACRESCENTAR GRUPOS EPISÓDIOS EM SÉRIES TORRENT
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR red]NOME DA SÉRIE (com acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR red]NOME DA SÉRIE (com acentos) - DATA - 720 1080 - DUB LEG[/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
