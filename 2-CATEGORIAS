@@ -9,7 +9,7 @@
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
@@ -18,7 +18,7 @@
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
@@ -29,7 +29,7 @@
    O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
@@ -40,7 +40,7 @@
    SUA MARATONA ESTA AQUI</info>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
@@ -48,20 +48,12 @@
 <fanart>http://bit.do/fanartcat-desenhos</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A3-SUB%20CAT-DESENHOS</externallink>
 <info>
-   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info> 
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B]YOUTUBE[/B][/COLOR]</name>
-<thumbnail>NO LINK</thumbnail>
-<fanart>NO LINK</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/3-YOU%20YUBE</externallink>
-<info>
-   BONS FILMES NO YOUTUBE OS LINKS PODEM CAIR </info>
-</channel>
-</channels>
+
 
 
 
