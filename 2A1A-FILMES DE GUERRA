@@ -13,10 +13,10 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]SUB-CATEGORIAS[/B][/COLOR]</name>
+<name>[COLOR blue][B]SUB-GÊNERO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA A SUB-CATEGORIA DE FILMES DE GUERRA</info>
+<info>ESCOLHA A SUB-GÊNEROS DE FILMES DE GUERRA</info>
 </channel>
 </channels>
 
