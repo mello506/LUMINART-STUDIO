@@ -15,9 +15,10 @@ APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>
-   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com
+   </info>
 </channel>
 </channels>
 
