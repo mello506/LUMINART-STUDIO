@@ -8,7 +8,7 @@
    [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
    [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR blue][B]WESTERN[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
@@ -17,8 +17,7 @@
 <info>FILMES DO YOU TUBE OS LINKS PODEM CAIR </info>
 <genre>WESTERN</genre>   
 </item>
-
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]PACTO DE HONRA - DATA -SD [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=uz4-Q--g3_E</link>
@@ -27,7 +26,7 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]POR UNS DÓLARES A MAIS - 1965 -720 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=SMAS0k3eX2E</link>
@@ -36,7 +35,16 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>NO LINK</link>
+<info>FILMES DO YOU TUBE OS LINKS PODEM CAIR </info>
+<genre>WESTERN</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]LEGIONARIO - 1965 -720 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mdRxdY3s1oA</link>
@@ -45,7 +53,16 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR blue][B]GUERRA[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>NO LINK</link>
+<info>FILMES DO YOU TUBE OS LINKS PODEM CAIR </info>
+<genre>WESTERN</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]GUARDIÕES DO CÉU - 1965 -720 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Fw3kTgFo7c0</link>
@@ -54,15 +71,16 @@
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR lime]222-ENCONTRO MARCADO[/COLOR]</title>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view</link>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
+<title><title>[COLOR lime]FLYBOYS[/COLOR]</title></title>
+<link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[COLOR lime]YOUTUBE -> FLYBOYS - 2019 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap7UcuDPhyaY165YppEZJdbU1sA.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-19eQY_0H4gk/TjBjeA_4coI/AAAAAAAAAMs/xwd696N9Fas/s1600/flyboys-6.jpg</fanart>
+<info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos 
+de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille"</info>
+<genre>GUERRA</genre> 
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
