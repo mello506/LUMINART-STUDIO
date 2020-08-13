@@ -9,385 +9,79 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]CORRIDA MALUCA - ÚNICA TEMPORADA - 1968- SD - DUB[/COLOR] </name>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<info>OS PILOTOS MAIS INSANOS DISPUTAM A MAIS LOUCA DAS CORRIDAS</info>
-<genre>DESENHOS</genre>
-
 <item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP01 - Grande Prêmio Arkansas[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1hT1q7z0vCrAdgN7LkGF1xbDsmxGhg9PD/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS </genre>
+<title>[COLOR lime]CORRIDA MALUCA - ÚNICA TEMPORADA - 1968- SD - DUB[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ntVbzriDy87qfpAhmICiONfMgkGX9iQ9/view
+$$lsname=[COLOR lime]EP01 <-> Grande Premio Arkansas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uK8mMQuuAZAUDB4oJAY9obWOEGuCbxrC/view
+$$lsname=[COLOR lime]EP02 <-> Destino Cidade Fantasma[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K-nSe_Zdae7RoS3FXFS9rOpc8Fevjxug/view
+$$lsname=[COLOR lime]EP03 <-> O Grande Premio Wyoming[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UL81APmEADsRbaWslUJ7HnQZkDc2RSxB/view
+$$lsname=[COLOR lime]EP04 <-> O Grande Premio Yellow Rock[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ihYQ2wvZsV7Ksh44sS3wVZAbfQH7XFc1/view
+$$lsname=[COLOR lime]EP05 <-> O Grande Premio Missouri[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T-6asUJSCTwK1ywjgDvbHrF-qqJUpmtJ/view
+$$lsname=[COLOR lime]EP06 <-> O Grande Premio Idaho[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AdxLQSgD6ETa3Iw_oE11KDBcc9TWwnAc/view
+$$lsname=[COLOR lime]EP07 <-> O Grande Premio Baja Ha-Ha[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S1qiZaAHFx3uyg7pPW22-hNS7bn_LhGZ/view
+$$lsname=[COLOR lime]EP08 <-> Um Gorila na Corrida[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16cvNLh-p6CgsrNOD87StfgDCoP5XSX8t/view
+$$lsname=[COLOR lime]EP09 <-> O Grande Premio Bem no Coracao[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hkjvbMmh6y4ezi-Zs9t9nMLDQ81mjocF/view
+$$lsname=[COLOR lime]EP10 <-> O Grande Premio Virginia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r3J2-8HNbsDd3wYBKn1BsGA4k7Mx2za4/view
+$$lsname=[COLOR lime]EP011 <-> O Grande Premio Altos e Baixos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RN6PJVzFr-Wh969QSUh_1fa9JofIUJX4/view
+$$lsname=[COLOR lime]EP12 <-> A Toda Velocidade para Arkansas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dXlkg_3LsSNEWuwfIZPUufRkLqsemrRK/view
+$$lsname=[COLOR lime]EP13 <-> O Grande Premio Mississippi[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cTUPcubjHlO8MFg4unFmjJHy5DVUHbWB/view
+$$lsname=[COLOR lime]EP14 <-> O Grande Premio Alabama[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhQ1wUqThH7wmjTBjS8uIp6Ud0i4LUZy/view
+$$lsname=[COLOR lime]EP15 <-> Corrida Quente em Chillicothe[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Alrz6CzGQv5rAAvxVUT4aPj5udzeBCC/view
+$$lsname=[COLOR lime]EP16 <-> O Grande Premio A Estrada Nao Era Essa[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1twOe_1OaLHR4Wa4rDdpZd4GpvvE_q-_k/view?
+$$lsname=[COLOR lime]EP17 <-> O Grande Premio Rhode Island[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zGf-B67EIMH6RyH4mVX1lC9T6uIr15H9/view
+$$lsname=[COLOR lime]EP18 <-> O Grande Premio Polo Norte[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MqFBJdyjLp1O2UXhHoHO1598bmJioZSg/view
+$$lsname=[COLOR lime]EP19 <-> O Grande Premio Vale Tudo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JwXu1R29kOC0tYlORGUFBLuUlbbdRqBr/view
+$$lsname=[COLOR lime]EP20 <-> O Grande Premio Texas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L3jvfvoQGwS3Ce7H10t67I3VmVWCwGbU/view
+$$lsname=[COLOR lime]EP21 <-> O Grande Premio de Washington[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i5bb3iss-2fdp0yVNyHAk1HwdMcrsoUR/view
+$$lsname=[COLOR lime]EP22 <-> O Grande Premio do Deserto[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UT3QA2MzmbJlD1pWYJVxHyh3lpCEKxb5/view
+$$lsname=[COLOR lime]EP023 <-> O Grande Premio Uni-Duni-Te[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EmzVzebdG9o0BcsamSQW2Gm_c0j8TPzz/view
+$$lsname=[COLOR lime]EP24 <-> O Grande Premio do Pantano[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Wu90yM_6DUAj6rN8hd9AL_dt_yILn5H/view
+$$lsname=[COLOR lime]EP25 <-> O Grande Premio Dakota[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sS_GwMmN1Otc0TDMStu9tV6zjGZiM_47/view
+$$lsname=[COLOR lime]EP026 <-> O Grande Premio Delaware[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18uuu3EI5ETVDGKBPOzuUJZV5mjt4NjnM/view
+$$lsname=[COLOR lime]EP27 <-> O Grande Premio de Jollywood[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1szBzU8UcJ7wnI5PpCFSxtB1quigFjv1M/view
+$$lsname=[COLOR lime]EP28 <-> O Grande Premio Raleigh[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-mrJL75T4T63-a_1WSYIPwgwJCxQG0E-/view
+$$lsname=[COLOR lime]EP29 <-> O Grande Premio Pennsylvania[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NLIFZQPSQRKzCbRkGDYWlZCTpHbXdy2m/view
+$$lsname=[COLOR lime]EP30 <-> O Grande Premio Hackensack[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qN5k9FNo0VIHKI4SiA5VK3ZoEKEOztIU/view
+$$lsname=[COLOR lime]EP31 <-> O Grande Premio Idaho[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_EgphZHA3sp-UessY6qN6bJ4lG-vfnAw/view
+$$lsname=[COLOR lime]EP32 <-> O Grande Premio Florida[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n98TnMmmIufoZXWzjiIFlLMEeDRClBEa/view
+$$lsname=[COLOR lime]EP33 <-> O Grande Premio Racine[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RgDg5xWm_BNVRlaL9J9Wn60cAf2GnOfO/view
+$$lsname=[COLOR lime]EP34 <-> O Grande Premio Carlsbad[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=9aQntZfdU4o$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/m0HG89L/corridamaluca-fan.jpg</fanart>
+<info>Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</info>
+<genre>DESENHOS</genre>  
 </item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP02 - Destino: Cidade Fantasma[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1V-OE_9ZE1ahRlLg1y5TfOTURqFUaSqCY/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP03 - O Grande Prêmio Wyoming[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1vGrGTteed1de-_1rdEwJHyrIO4w5hWN9/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP04 - O Grande Prêmio Yellow Rock[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1SzM0DbtFxBtZ2rDTu0WWhkWE6kSeQg8F/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP05 - O Grande Prêmio Missouri[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-M0loRK04pQK6GDx8TGp2LTt-yF6InMO/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP06 - O Grande Prêmio Idaho[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/19_31ePAOGhKfv76MKY7x0c6nr9AJex1D/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP07 - O Grande Prêmio Baja Ha-Ha[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/14YULG9dcEy5mQoLvFqNZsyQI4-T6N6yf/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP08 -  Um Gorila na Corrida[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1AM9hDNEvRmls_CarYMwIjskiBf__Lvpl/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP09 - O Grande Prêmio Bem no Coração[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1LTNxTD4XAG3PNEOKa6oz676HqJeJF36w/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP10 - O Grande Prêmio Virginia[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1_8cnUoBSKCJwx6O8Ux5B5INU9lmXR6Ht/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP11 - O Grande Prêmio Altos e Baixos[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1zXmJ9DMC7tbjY_mtFfsP3KJ8sIW7flnV/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP12 - A Toda Velocidade para Arkansas[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1hLW_u8CH6MxYM97yY-lfGYMjjhijyRc3/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP13 - O Grande Prêmio Mississippi[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1bDfWymV2hz95JrrGY1vxozbaAvLqNZSR/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP14 - O Grande Prêmio Alabama[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1tVHjJ82sqHBYf-jDU3-gnJpjJ-OIa0Vc/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP15 - Corrida Quente em Chillicothe[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK DO EPISÓDIO NO G DRIVE</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP16 - O Grande Prêmio 'A Estrada Não Era Essa'[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1BFhPC3Cgxfr44JpYmok0dWKriOdekyqs/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP17 - O Grande Prêmio Rhode Island[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1U5l4QMEhrHEk-diwmloFZlOHTODkZDuv/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP18 - O Grande Prêmio Pólo Norte[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1GIkfFq_tlsQM4u72QZ36kv1piYw44Ey6/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP19 - O Grande Prêmio Vale Tudo[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1OY2KKJOAhaYfYza3A-8V24BQhwQj1D0M/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP20 - O Grande Prêmio Texas[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1EHu_fkmNmvso2nn7IAdcayLw3E8Hxoxd/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP21 - O Grande Prêmio de Washington[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1G57x-bVUqSVHYGCEpzjJorCnXCq6Ygnl/view?usp=sharing</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP22 - O Grande Prêmio do Deserto[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1C22BPh8QEc6OKZwfP9e9Rfjkjl4Agduk/view?usp=sharing</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP23 - O Grande Prêmio Uni-Duni-Te[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1BuxzDmkGJvmPqj4loqUYRci8pQqXEjHN/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP24 - O Grande Prêmio do Pântano[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1OMUSxgXwVFDnQsHf76SiIrXrQ8O83z54/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP25 - O Grande Prêmio Dakota[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1hD5vy8j1BrDoCqQWEuY7Qqn9Xn4BPy7l/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP26 - O Grande Prêmio Delaware[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1bFdBppE7tXfUqWC_j2Cgzp3uhZDVqa9f/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP27 - O Grande Prêmio de Jollywood[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/13zvaDuQjIjJeN1ok6bzZLqpkwV3vhl8a/view?usp=sharing</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP28 - O Grande Prêmio Raleigh[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1S6zGTycTbXY5l6pXN2bYG1HkWKMzdutf/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP29 - O Grande Prêmio Pennsylvania[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1nLNaxE3tVDt6w8pV4K-m1_13H3G4IhQh/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP30 - O Grande Prêmio Hackensack[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1G336d0CvgvMNyEaBobckKSlwvRYbzsv6/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP31 - O Grande Prêmio Idaho[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1npRepP3nuTrTlbQGpbUE2a9RXckAwOP4/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP32 - O Grande Prêmio Flórida[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Ptf8TNpoBPTGzviq06aiK1T7msBsKA_f/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP33 - O Grande Prêmio Racine[/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/14w0ONHV-9qoAt-V8ZOSd0uAPrJPwmkZt/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
-<item>
-<title>[COLOR lime]CORRIDA MALUCA -> EP34 - O Grande Prêmio Carlsbad  [/COLOR]</title>
-<thumbnail>https://i.ibb.co/CPPsqCS/Sem-T-tulo-1.jpg</thumbnail>
-<fanart>https://img.elo7.com.br/product/original/1D60BA4/corrida-maluca-painel-festa-1-50x1m-painel-decorativo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ZmzaDp3r3-cYu6gHGVi4akIG7YQ9xAIR/view</link>
-<info>CORRIDA MALUCA - ÚNICA TEMPORADA</info>
-<genre>DESENHOS</genre>
-</item>
-<item>
-
