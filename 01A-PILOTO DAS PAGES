@@ -31,7 +31,7 @@ DESCRIÇÃO CHAMATIVA DA NOVA CATEGORIA</info>
 <genre>GÊNERO DA NOVA CATEGORIA</genre>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG [/COLOR]</title>
 <thumbnail>IMAGEM ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
