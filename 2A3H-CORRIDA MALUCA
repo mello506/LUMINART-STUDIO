@@ -150,8 +150,8 @@ $$lsname=[COLOR lime]EP29 <-> A TURMA DO MANDA CHUVA[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S6jUXdBu0G3GVFfUynLrfY5bTuFX8mgx/view
 $$lsname=[COLOR lime]EP30 <-> A TURMA DO MANDA CHUVA[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
+<thumbnail>https://i.ibb.co/nRL6wgL/mandachuva-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/PMqxfjF/mandachuva-fan.jpg</fanart>
 <info>Manda-Chuva é o líder de uma gangue de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Eles estão sempre tentando ganhar dinheiro por meio de algum golpe ilegal e são perseguidos pelo Guarda Belo, que tenta expulsá-los do beco onde vivem.</info>
 <genre>DESENHOS</genre>  
 </item>
