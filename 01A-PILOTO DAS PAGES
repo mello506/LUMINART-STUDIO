@@ -280,5 +280,188 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GENERO</genre>  
 </item>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR GRUPOS EPISÓDIOS EM SÉRIES G DRIVE
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]NOMEDASERIE -TEMP- DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP01 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP02 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP03 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP04 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP05 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP06 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP07 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP08 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP09 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP10 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP11 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP12 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP13 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP14 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP15 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP16 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP01 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP02 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP03 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP04 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP05 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP06 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP07 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP08 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP09 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP10 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP11 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP12 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP13 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP14 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP15 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP16 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP17 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP18 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP19 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP20 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP21 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP22 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP23 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP24 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP25 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP26 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP27 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP28 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP29 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP30 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP31 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP32 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP33 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP34 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP35 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP36 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP37 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP38 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP39 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]EP40 <-> NOMEDOEPISÓDIO[/COLOR]</link>
+
+
+<link>plugin://plugin.video.youtube/play/?video_id=9aQntZfdU4o$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>DESENHOS</genre>  
+</item>
+
 
 
