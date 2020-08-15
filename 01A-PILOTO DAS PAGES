@@ -485,4 +485,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>SINOPSE</info>
 </item>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR GRUPOS EPISÓDIOS EM SÉRIES TORRENT COM TRAILER
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]NOMEDOTEMA[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+</item>
+
 
