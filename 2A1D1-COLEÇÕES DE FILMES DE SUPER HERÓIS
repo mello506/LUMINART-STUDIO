@@ -9,11 +9,20 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </item>
 
 <item>
-<title>[COLOR lime][B]COLEÇÕES DE FILMES DE SUPER HERÓIS[/B][/COLOR]</title>
+<title>[COLOR blue][B]COLEÇÕES DE FILMES DE SUPER HERÓIS[/B][/COLOR]</title>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>https://i.ibb.co/XjFcZ0D/fanartsubcat-superherois.jpg</fanart>
 <info>GRANDES HERÓIS E SUAS SAGAS</info>
+<genre>SUPER HERÓIS</genre>
+<item>
+
+<item>
+<title>[COLOR blue][B]COLEÇÕES THOR[/B][/COLOR]</title>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/XjFcZ0D/fanartsubcat-superherois.jpg</fanart>
+<info>O DEUS DO TROVÃO VAI ARREBENTAR SEUS INIMIGOS</info>
 <genre>SUPER HERÓIS</genre>
 <item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -25,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=1wlba5xHzvE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 1080 - DUB[/COLOR]</link>
 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>https://i.ibb.co/M5zRmRy/thorragnarok-fan.jpg</fanart>
 <info>Thor é preso do outro lado do universo, sem o seu martelo poderoso e encontra-se numa corrida contra o tempo para voltar a Asgard e impedir Ragnarok – a destruição do seu mundo e o fim da civilização Asgardiana -, que se encontra nas mãos de uma nova e poderosa ameaça, a implacável Hela. Mas, primeiro precisa de sobreviver a uma luta mortal de gladiadores, que o coloca contra um ex-aliado e companheiro Vingador – Hulk.</info>
 <genre>SUPER HERÓIS</genre>
 </item>
