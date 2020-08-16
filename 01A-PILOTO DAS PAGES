@@ -246,11 +246,28 @@ CÓDIGO PARA ACRESCENTAR FILMES E TRAILERS TRES LINKS COM TORRENT
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]NOME DO FILME[/COLOR]</title>
+<title>[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
 $$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG</link>
 <link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>https://ICON</thumbnail>
+<fanart>https://FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR FILMES TORRENT 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOME DO FILME - DATA [/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+
 <thumbnail>https://ICON</thumbnail>
 <fanart>https://FANART</fanart>
 <info>SINOPSE</info>
