@@ -1,32 +1,20 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime]NOME DA CATEGORIA DE FILME[/COLOR] </name>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<info>
-DESCRIÇÃO CHAMATIVA DA NOVA CATEGORIA</info>
-<genre>GÊNERO DO FILME</genre>
+</item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR]</title>
-<thumbnail>IMAGEM ICONE</thumbnail>
-<fanart>IMAGEM DE FUNDO</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINK PARA O FILME NO GDRIVE</link>
-<info>SINOPSE DO FILME</info>
-<genre>GÊNERO DO FILME</genre>
-</item>
+<title>[COLOR lime][B]COLEÇÕES DE FILMES DE SUPER HERÓIS[/B][/COLOR]</title>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/XjFcZ0D/fanartsubcat-superherois.jpg</fanart>
+<info>GRANDES HERÓIS E SUAS SAGAS</info>
+<genre>SUPER HERÓIS</genre>
 <item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
