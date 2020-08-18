@@ -1,0 +1,81 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR NOVAS SÉRIES E DESENHOS NÃO USAR ACENTOS NOS NOMES DE EPISÓDIOS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]T00 - NOMEDASERIE - DATA - RESOLUCAO - DUBLEG[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDASERIE[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E01- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E02- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E03- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E04- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E05- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E06- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E07- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E08- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E09- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E10- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E11- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E12- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E13- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E01- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E14- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E15- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E16- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E17- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E18- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E09- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E20- NOMEDOEPISODIO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE
+$$lsname=[COLOR lime]T00E21- NOMEDOEPISODIO[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
