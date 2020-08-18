@@ -51,8 +51,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+<channels>
+<channel>
+<name>[COLOR lime][B]NOVELAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2D1-NOVELAS</externallink>
+<info>
+  VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]ESPECIAL STAR WARS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/3-ESPECIAL%20STAR%20WARS</externallink>
+<thumbnail>https://i.ibb.co/p3yy0y9/cat-espstarwars.png</thumbnail>
+<fanart>https://i.ibb.co/chyzpzn/fanartcat-espstarwars.jpg</fanart>
+<info>
+TUDO QUE VOCE PROCURA SOBRE A SAGA ESTA AQUI</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR lime][B]ESPECIAL SCOOBY DOO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/4-ESPECIAL%20SCOOBY%20DOO</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>https://</fanart>
+<info>
+O MAIS FAMOSO DETETIVE CANINO E SUA TURMA  CONTRA TERRÍVEIS MONSTROS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<title>[COLOR blue][B]SEÇÃO PEDIDOS DO USUÁRIO[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/7-PEDIDOS-DO-USU%C3%81RIO</externallink>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AQUI ATENDEMOS OS PEDIDOS DE NOSSOS USUÁRIOS</info>
+<genre>PEDIDOS</genre>  
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
