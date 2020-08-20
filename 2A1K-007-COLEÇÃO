@@ -1,13 +1,12 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
+</item>
 
 <item>
 <title>[COLOR blue][B]007 - COLEÇÃO COMPLETA[/B][/COLOR]</title>
