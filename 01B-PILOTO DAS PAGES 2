@@ -84,15 +84,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime] NOMEDOFILME</title>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT - 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT - 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT - 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT - 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B] [COLOR yellow]<->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B] [COLOR yellow]<->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</title>
 
 <thumbnail>https://ICON</thumbnail>
 <fanart>https://FANART</fanart>
