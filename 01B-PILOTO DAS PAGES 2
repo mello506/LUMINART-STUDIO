@@ -32,9 +32,6 @@ LINKGDRIVE$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPIS
 LINKGDRIVE$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-LINKGDRIVE$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 LINKGDRIVE$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
