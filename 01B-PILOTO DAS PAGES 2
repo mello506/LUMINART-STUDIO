@@ -172,3 +172,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR white]quarta linha linha[/COLOR]</title>
 <link>ignoreme</link>
 </item>
+
+<item>
+<title>[COLOR red]*****[/COLOR]FILME PILOTO DA SÉRIE[COLOR red]***** [/COLOR]
+[COLOR white]STARGATE:A CHAVE PARA O FUTURO DA HUMANIDADE[/COLOR]1994</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1O5mtpRxa3jeaCdRTYFcyCioiFWHU9jyf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLacy1TrSedHrZcsup1JNHl1upk.jpg</thumbnail>
+<info> Filme que deu origem a série:Um egiptólogo (James Spader) não-reconhecido por suas teorias é convidado a trabalhar em uma base secreta 
+e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele descobre a chave para se chegar a um novo mundo, pois aquele anel 
+é um portão estelar e, junto com uma pequena tropa de elite, atravessa o portão e se vê diante de uma experiência e uma aventura inimaginável.
+</info>
+</item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 1ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title> EP 01 - [COLOR yellow]OS FILHOS DOS DEUSES[/COLOR](PARTE 1)</title>
