@@ -190,3 +190,102 @@ e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele des
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title> EP 01 - [COLOR yellow]OS FILHOS DOS DEUSES[/COLOR](PARTE 1)</title>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR FILMES COMO LISTA NO ADDON 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]
+LINKDO FILME
