@@ -231,6 +231,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUBLEG[/COLOR]</link>
 
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RESOLUCAO - DUBLEG[/COLOR]</link>
+
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
