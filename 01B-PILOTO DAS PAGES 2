@@ -4,105 +4,104 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 1ª TEMP - DATA - RES - DUBLEG[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",[B]ESCOLHERSERVER[/B][COLOR yellow] ->[/COLOR][COLOR blue] NOMEDOFILME - T01 - DATA - RES - DUB[/COLOR]
 LINKDOFILME
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E01[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E01[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E02[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E02[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E03[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E03[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E04[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E04[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E05[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E05[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E06[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E06[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E07[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E07[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E08[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E08[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E09[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E09[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E10[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E10[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E11[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E11[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E12[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E12[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E13[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E13[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E14[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E14[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E15[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E15[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E16[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E16[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E17[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E17[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E18[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E18[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E19[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E19[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E20[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E20[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E21[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E21[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E22[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E22[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E23[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E23[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E24[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E24[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E25[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E25[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E26[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E26[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E27[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E27[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E28[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E28[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E29[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E29[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E30[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E30[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E31[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E31[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="ICONE" group-title="FILMES",T01E32[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E32[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -113,7 +112,7 @@ CÓDIGO PARA ACRESCENTAR NOVAS EM G DRIVE SÉRIES E DESENHOS NÃO USAR ACENTOS N
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDASERIE - DATA - RES - DUB[/COLOR]</title>
+<title>[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDASERIE - T01  DATA - RES - DUB[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDASERIE[/COLOR]</link>
 
 
@@ -215,6 +214,8 @@ LINKGDRIVE$$lsname=[B]T01E31[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPIS
 <info>SINOPSE</info>
 <genre>GENERO</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 CÓDIGO PARA ACRESCENTAR FILMES NÃO USAR ACENTOS NOS NOMES DE EPISÓDIOS
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
