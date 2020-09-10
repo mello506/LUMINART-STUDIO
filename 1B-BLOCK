@@ -1,8 +1,225 @@
-<channels>
-<channel>
-<name>[COLOR blue][B] INFORMAÇÕES SOBRE O ACESSO E SERVIÇOS[/B][/COLOR]</name>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] ACESSO BLOQUEADO ?[/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
 <thumbnail>https://i.ibb.co/5hhYGk0/block-icon.png</thumbnail>
-<fanart>https://i.ibb.co/fkTJJrF/block-fan.jpg</fanart>
-<info>SAIBA COMO RESOLVER O ACESSO BLOQUEADO</info>
-</channel>
-</channels>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ENTENDA O PORQUÊ</info>
+<genre>INFORMAÇÕES</genre>
+</item>
+
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] ENTENDA O PORQUÊ [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/5hhYGk0/block-icon.png</thumbnail>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>DIFICULDADES DE ACESSO ???[COLOR yellow] ->  [COLOR lime]CLIQUE AQUI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DTxaXNYuItM</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>DIFICULDADES PARA INSTALAR ???[COLOR yellow] -> [COLOR lime] CLIQUE AQUI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wVJNjeQDM8o&feature=youtu.be</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR blue]CONTATO [COLOR yellow] -> [COLOR white]luminartstudio@gmail.com[/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] SOBRE A NECESSIDADE DE CONTRIBUIR [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SAIBA COMO VALORIZAR O DESSENVOLVEDOR</info>
+<genre>INFORMAÇÕES</genre>
+</item>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] SAIBA PORQUE VALORIZAR O DESENVOLVEDOR [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] 1 - O desenvolvimento de um ADD ON de qualidade[/COLOR]
+[COLOR white] não é uma tarefa fácil . Exige muitas horas [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] de trabalho dedicado e atento, milhares de [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] cliques no mouse e pesquisa para descobrir como  [/COLOR]
+[COLOR white] é feito UM ADD ON , observação de como outros ADD ONS[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] estão estruturados para criar um modelo inovador.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] e depois de muitas tentativas , erros e horas de [/COLOR]
+[COLOR white] trabalho desperdiçado, conseguimos alcançar esse objetivo.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] 2- O LUMINART STUDIO tem uma proposta especial, [/COLOR]
+[COLOR white] dando excelente SUPORTE TÉCNICO e atendendo a pedidos[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] de seus usuários, buscando e adicionando o conteúdo  [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] que o usuário deseja assistir, além de um visual[/COLOR]
+[COLOR white] exclusivo com imagens especialmente feitas para o ADD ON.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] Servidores variados é também um diferencial.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] 3- Pagamos por listas IPTV para poder oferecer[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] o recurso de TV ONLINE aos usuários, que  [/COLOR]
+[COLOR white] podem acessar listas variadas,com muitas opções.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] 4 - Tudo isso mais despesas operacionais com internet [/COLOR]
+[COLOR white]programas de edição e digitação de centenas de códigos [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] especiais sem os quais o kodi não reconheceria os links[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] para acessar os arquivos. E nosso servidor G DRIVE[/COLOR]
+[COLOR white]  é composto de arquivos que nós mesmos upamos. [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white]é um drive pago ,e precisa ser mantido.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white]5- Deu muito trabalho desenvolver e ainda mais manter[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] atualizado. Horas em que em vez de assistirmos [/COLOR]
+[COLOR white] um bom filme estamos trabalhando para você assistir. [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item
+<item>
+<title>[COLOR white] Sua contribuição vai nos recompensar o esforço[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white] Para mais informações ou reportar links of envie email para[/COLOR]
+[COLOR white] luminartstudio4@gmail.com e receba os contatos de suporte. [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] OBRIGADO PELA ATENÇÂO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]CONTATO [COLOR yellow] -> [COLOR white]luminartstudio@gmail.com[/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
