@@ -1,4 +1,67 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+CÓDIGO PARA ACRESCENTAR SÉRIES EM TORRENT SÉRIES E DESENHOS NÃO USAR ACENTOS NOS NOMES DE EPISÓDIOS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME - 1ª TEMP - DATA - DUB [/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO NOMEDOFILME COMPLETA</info>
+<genre>GENERO</genre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=zej5lKzL-ig$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]NOMEDOFILME[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E01-04[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://ICON</thumbnail>
+<fanart>https://FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 CÓDIGO PARA ACRESCENTAR NOVAS EM LISTA SÉRIES E DESENHOS NÃO USAR ACENTOS NOS NOMES DE EPISÓDIOS
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
