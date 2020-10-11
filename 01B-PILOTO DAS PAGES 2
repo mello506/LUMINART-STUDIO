@@ -67,106 +67,109 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",[B]ESCOLHERSERVER[/B][COLOR yellow] ->[/COLOR][COLOR blue] NOMEDOFILME - T01 - DATA - RES - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="NOMEDASERIE" tvg-logo="ICONE" group-title="SERIES",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] NOMEDASERIE - DATA - 1ª TEMP -DUB [/COLOR]
+CABECALHO
+
+#EXTINF:-1 tvg-id="" tvg-name="TO1E01" tvg-logo="ICONE" group-title="SERIES",TO1E01[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E01[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E02" tvg-logo="ICONE" group-title="SERIES",TO1E02[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E02[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E03" tvg-logo="ICONE" group-title="SERIES",TO1E03[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E03[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E04" tvg-logo="ICONE" group-title="SERIES",TO1E04[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E04[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E05" tvg-logo="ICONE" group-title="SERIES",TO1E05[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E05[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E06" tvg-logo="ICONE" group-title="SERIES",TO1E06[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E06[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E07" tvg-logo="ICONE" group-title="SERIES",TO1E07[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E07[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E08" tvg-logo="ICONE" group-title="SERIES",TO1E08[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E08[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E09" tvg-logo="ICONE" group-title="SERIES",TO1E09[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E09[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E10" tvg-logo="ICONE" group-title="SERIES",TO1E10[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E10[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E11" tvg-logo="ICONE" group-title="SERIES",TO1E11[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E11[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E12" tvg-logo="ICONE" group-title="SERIES",TO1E12[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E12[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E13" tvg-logo="ICONE" group-title="SERIES",TO1E13[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E13[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E14" tvg-logo="ICONE" group-title="SERIES",TO1E14[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E14[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E15" tvg-logo="ICONE" group-title="SERIES",TO1E15[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E15[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E16" tvg-logo="ICONE" group-title="SERIES",TO1E16[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E16[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E17" tvg-logo="ICONE" group-title="SERIES",TO1E17[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E17[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E18" tvg-logo="ICONE" group-title="SERIES",TO1E18[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E18[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E19" tvg-logo="ICONE" group-title="SERIES",TO1E19[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E19[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E20" tvg-logo="ICONE" group-title="SERIES",TO1E20[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E20[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E21" tvg-logo="ICONE" group-title="SERIES",TO1E21[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E21[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E22" tvg-logo="ICONE" group-title="SERIES",TO1E22[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E22[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E23" tvg-logo="ICONE" group-title="SERIES",TO1E23[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E23[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E24" tvg-logo="ICONE" group-title="SERIES",TO1E24[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E24[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E25" tvg-logo="ICONE" group-title="SERIES",TO1E25[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E25[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E26" tvg-logo="ICONE" group-title="SERIES",TO1E26[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E26[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E27" tvg-logo="ICONE" group-title="SERIES",TO1E27[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E27[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E28" tvg-logo="ICONE" group-title="SERIES",TO1E28[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E28[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E29" tvg-logo="ICONE" group-title="SERIES",TO1E29[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E29[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E30" tvg-logo="ICONE" group-title="SERIES",TO1E30[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E30[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E31" tvg-logo="ICONE" group-title="SERIES",TO1E31[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E31[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TO1E01" tvg-logo="ICONE" group-title="SERIES",TO1E32[COLOR yellow] ->[COLOR lime] NOMEDOEPISODIO [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",T01E32[COLOR yellow] ->[COLOR lime] NOMEDOFILME - DUB[/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
